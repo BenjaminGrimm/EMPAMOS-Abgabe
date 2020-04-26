@@ -1,0 +1,54 @@
+{
+  "id": "168eaf6c110973d884bf3d4d3d268f07",
+  "sentences": [
+    "Der Spielplan zeigt ein Viereck mit 9 roten Punkten.",
+    "Das ist der Bunker der von dem einen Spieler mit den 2 besetzt wird.",
+    "Er stellt diese Figuren an die Punkte und Das gro\u00dfe Vier eck stellt das des Bunkers dar.",
+    "Es wird von den An greifern ganz besetzt der andere Spieler setzt die 22 Sch\u00fctzen auf s\u00e4mtliche schwarzen Punkte.",
+    "Er beginnt den Angriff indem er eine Figur anzieht.",
+    "Bei jedem Zug kann er seiner Figuren auf einen freien Punkt in Richtung auf den Bunker schieben w\u00e4hrend der Verteidiger nach allen Richtungen schieben kann.",
+    "Der Verteidiger mu\u00df Zu sehen da\u00df er eine feindliche Figur erwischt hinter der ein Punkt frei ist.",
+    "Dann springt er mit seiner Figur hin \u00fcber und nimmt die gegnerische Figur fort.",
+    "Seine beiden Figuren k\u00f6nnen nicht weggenommen werden.",
+    "Wenn es dem Angreifer gelingt alle 9 roten Punkte des Bunkers zu besetzen ist er Sieger.",
+    "Ist es aber dem Verteidiger gelungen ihm soviel Figuren wegzunehmen da\u00df das nicht mehr m\u00f6glich ist dann ist der Verteidiger der"
+  ],
+  "patterns": {
+    "1292": [
+      4
+    ],
+    "8528": [
+      0,
+      2,
+      3,
+      5,
+      6,
+      9,
+      1
+    ],
+    "3173": [
+      0
+    ],
+    "164466": [
+      9
+    ],
+    "3142": [
+      9
+    ],
+    "8536": [
+      3,
+      5,
+      8
+    ],
+    "1492": [
+      1,
+      3,
+      9
+    ],
+    "7090": [
+      6,
+      7,
+      8
+    ]
+  }
+}

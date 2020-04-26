@@ -1,0 +1,83 @@
+{
+  "id": "734cd9c7261e22d23bebf114c2e351d9",
+  "sentences": [
+    "Nr. lustige Heute mir einmal richtig lachen denn jeder Mitspieler wird im Spiel das Pech haben auf eine der oft b\u00f6sen rot umrandeten Zahlen zu kommen und ausgelacht zu werden.",
+    "Beachtet also genau diese Zahlen der Spielregel findet ihr dann was alles passiert.",
+    "Lustig aber bestimmt imme werden.",
+    "Wer eben das Gl\u00fcck hat zuerst die Zahl 75 zu erreichen ist Sieger und bekommt neben dem 1. Preis den G\u00e4nsebraten.",
+    "SPIELREGEL",
+    "Wer zuerst 6 stellt sei Figur auf diese Nr. und darf dann beginnen.",
+    "7",
+    "Der kleine wird erwischt und mu\u00df von vorne beginnen Nr. 1",
+    "Die flei\u00dfige beeilt sich die Eier in die Stadt zu bringen.",
+    "Auf Nr. 20 vorr\u00fccken.",
+    "17 Aufenthalt beim F\u00fcttern.",
+    "1 aussetzen.",
+    "21",
+    "Die Buben necken eine br\u00fctende Gans und m\u00fcssen zur Strafe auf Nr. 10 zur\u00fcck.",
+    "30",
+    "Das flei\u00dfige G\u00e4nselieschen darf auf Nr. 38 vorr\u00fccken.",
+    "36 Beim Baden verliert man immer Zeit.",
+    "Alle vorbeiziehen lassen dann weiter spielen.",
+    "40 Auf die kleinen G\u00e4nschen mu\u00df man besonders achten und setzt 2 aus.",
+    "43",
+    "Der Fuchs stiehlt die Gans.",
+    "Der Spieler scheidet aus darf aber wenn er das Lied Fuchs du hast die Gans gestohlen",
+    "sch\u00f6n laut singt von vorne beginnen.",
+    "Daf\u00fcr z\u00e4hlen seine Augen doppelt.",
+    "51 Klettert statt G\u00e4nse zu h\u00fcten auf den Apfelbaum.",
+    "Zur Strafe zur\u00fcck auf Nr.",
+    "31 55 Diese Gans will gewinnen.",
+    "Vor auf Nr. 64 59",
+    "Wenn man von einem G\u00e4nserich gepackt wird erschrickt man.",
+    "Der Spieler darf erst weiterspielen wenn er eine gerade Augen zahl w\u00fcrfelt.",
+    "63",
+    "Ein gutes Vorr\u00fccken auf Nr. 69 68",
+    "Die Gans ist \u00fcberfahren worden.",
+    "Der Spieler scheidet aus.",
+    "75 Nur wer mit seinen geworfenen Augen auf 75 kommt ist Sieger.",
+    "Viel Gl\u00fcck und viel Vergn\u00fcge"
+  ],
+  "patterns": {
+    "1292": [
+      3,
+      17,
+      29,
+      35,
+      33
+    ],
+    "164466": [
+      3,
+      17,
+      21,
+      26,
+      29,
+      33
+    ],
+    "8536": [
+      21
+    ],
+    "1492": [
+      3,
+      8,
+      23,
+      33,
+      34
+    ],
+    "7090": [
+      3,
+      16
+    ],
+    "166903": [
+      3,
+      34
+    ],
+    "8528": [
+      2,
+      8,
+      23,
+      33,
+      34
+    ]
+  }
+}

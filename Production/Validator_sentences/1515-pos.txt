@@ -1,0 +1,10 @@
+Die Rückwärtszüge sind immer nur auf das nächstgelegene freie Igelfeld möglich!
+Zieht ein Spieler rückwärts auf ein Igelfeld, so zählt er für diesen Zug keine Karotten, sondern erhält Karotten und kann so seinen Vorrat auffüllen.
+Ein Rückwärtszug ist in diesem Fall nicht erlaubt.
+Schadenspunkte können zugefügt werden, aber sie können auch wieder geheilt werden – dann rückt der Marker auf der Skala wieder aufwärts
+Punktekarten behindern den Spieler.
+Er bekommt sie immer wieder auf die Hand, kann sie aber während des Spiels nicht nutzen.
+Dennoch muss er rechtzeitig beginnen, sie zu sammeln, denn nur die Punktekarten zählen am Ende des Spiels.
+Bei der Anzahl der verwendeten Hilfe-Karten zählen natürlich nur die Karten, die euch neue Hinweise/Lösungen verraten haben.
+Du kannst dein Rennschwein auch rückwärts im Uhrzeigersinn anspielen (um beispielsweise eine verpasste Matschpfütze zu erreichen oder einen Mitspieler in eine Wasserpfütze zu schubsen).
+Wenn ein Ermittler erfolgreich ein Tor geschlossen hat, kann er sofort fünf Hinweismarker abgeben um es dauerhaft zu versiegeln.

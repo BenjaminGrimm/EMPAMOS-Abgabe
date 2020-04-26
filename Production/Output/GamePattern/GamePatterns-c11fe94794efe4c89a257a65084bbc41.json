@@ -1,0 +1,116 @@
+{
+  "id": "c11fe94794efe4c89a257a65084bbc41",
+  "sentences": [
+    "Im n\u00e4chsten Zug mu\u00dft Du dann wenn m\u00f6glich das Startfeld r\u00e4umen.",
+    "Fremde Figuren k\u00f6nnen Dein Startfeld niemals besetzen.",
+    "Sollten einmal von einem Spieler keine Figuren mehr auf der Laufbahn stehen darf er bis zu dreimal w\u00fcrfeln",
+    "wenn er an der Reihe ist um zu versuchen eine Sonne zu w\u00fcrfeln.",
+    "Sobald Du den Spielplan mit einer Figur einmal umrundet hast und ein Symbol w\u00fcrfelst das nicht mehr auf den Feldern bis zu Deinem Startfeld abgebildet ist kannst",
+    "Du Deine Figur auf eines Deiner 4 setzen um die die Laufstrecke herumf\u00fchrt.",
+    "3 5 Spielende",
+    "Wer seine letzte Spielfigur als erster ins Ziel gebracht hat hat das Spiel gewonnen.",
+    "244520 Disney",
+    "Wer schafft es als erster seine 4 Spielfiguren einmal um die Laufstrecke herum ins Ziel zu bringen?",
+    "Unterwegs gilt es die Mitspieler so oft wie m\u00f6glich zu \u00e4rgern und ihre Figuren zu schlagen damit sie wieder von vorn beginnen m\u00fcssen.",
+    "Spieltyp",
+    "W\u00fcrfelspiel",
+    "Spielerzahl",
+    "Altersempfehlung Spieldauer 20 Min.",
+    "Taktik",
+    "Gl\u00fcck Spielmaterial",
+    "1 Spielplan Spielfiguren",
+    "16 Figurenhalter 1 Symbolw\u00fcrfel 1",
+    "Spielanleitung Spielziel",
+    "Wer als erster seine 4 Spielfiguren nach Hause gebracht hat gewinnt das Spiel.",
+    "Spielvorbereitung",
+    "Vor dem ersten Spiel m\u00fc\u00dft Ihr vorsichtig die Figuren aus dem l\u00f6sen und in die Figurenhalter stecken.",
+    "Jeder Spieler w\u00e4hlt eine Gestalt aus dem Film und nimmt sich die 4 Spielfiguren John Smith oder 3 Figuren werden auf den gro\u00dfen Kreis mit der entsprechenden Abbildung in der Ecke des gestellt.",
+    "Die 4. Figur kommt auf das dazu passende Startfeld auf der Laufstrecke.",
+    "Wenn Ihr nur zu zweit spielt solltet Ihr von gegen\u00fcberliegenden Bildfeldern starten.",
+    "Nicht benutzte Spielfiguren bleiben in der Spieleschachtel.",
+    "Der j\u00fcngste Spieler beginnt die \u00fcbrigen folgen im Uhrzeigersinn.",
+    "0 Spielablauf",
+    "Wer an der Reihe ist w\u00fcrfelt und setzt seine Spielfigur auf das n\u00e4chste Feld mit dem gew\u00fcrfelten Symbol.",
+    "Gezogen wird immer links herum im Uhrzeigersinn",
+    "Andere Spielfiguren eigene und fremde kannst Du \u00fcberspringen.",
+    "Aber vergi\u00df nicht Du kannst immer nur auf das n\u00e4chste Feld mit dem gew\u00fcrfelten Symbol ziehen.",
+    "Ist es von einer fremden Figur besetzt wird sie geschlagen und zur\u00fcck auf ihr gro\u00dfes gestellt.",
+    "Sie mu\u00df wieder von vorn anfangen.",
+    "Steht auf dem Feld auf dem Du landest eine Deiner eigenen Figuren mu\u00dft Du mit einer Deiner anderen Spielfiguren ziehen oder aussetzen.",
+    "Die Sonne Immer wenn Du",
+    "eine Sonne w\u00fcrfelst stellst Du eine Spielfigur von Deinem gro\u00dfen auf das Startfeld vorausgesetzt",
+    "es ist frei.",
+    "Wenn das Feld besetzt oder Dein gro\u00dfes leer ist kannst Du auch mit einer anderen Deiner Spielfiguren ziehen."
+  ],
+  "patterns": {
+    "1292": [
+      2,
+      3,
+      4,
+      18,
+      29,
+      30,
+      32,
+      35,
+      37,
+      39,
+      27
+    ],
+    "3173": [
+      0,
+      1,
+      4,
+      17,
+      24,
+      37,
+      23,
+      33
+    ],
+    "164466": [
+      2,
+      7,
+      20,
+      27
+    ],
+    "3142": [
+      7,
+      10,
+      20,
+      22,
+      25
+    ],
+    "8536": [
+      2,
+      4,
+      5,
+      31,
+      32,
+      35,
+      39
+    ],
+    "1492": [
+      7,
+      20
+    ],
+    "7090": [
+      1,
+      4,
+      5,
+      7,
+      9,
+      22,
+      24
+    ],
+    "166903": [
+      7,
+      9,
+      20,
+      22,
+      35
+    ],
+    "8528": [
+      6,
+      20
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+Dein Zug besteht immer aus 3 Phasen:
+1. Aktionsphase: 4 Aktionen ausführen
+aus den 3 folgenden Phasen besteht
+1. Phase
+2. Phase
+3. Phase
+1. Rohstofferträge
+2. Handel
+3. Bauen
+Wer an der Reihe ist, hat in der ange­gebenen Reihenfolge folgende Aktions-Möglichkeiten:
+1. Er muß die Rohstofferträge  (-») dieses  Zuges  auswürfeln  (das Ergebnis gilt für alle Spieler).
+2.  Er kann handeln (-»): Mit seinen Mitspielern Rohstoffe tauschen.
+3. Er kann bauen (-»):  Straßen  (-»),  Siedlungen  (-*)  oder  Städte  (-»), und/oder Entwicklungskarten (-») kaufen.
+Ein Spielzug besteht aus den folgenden 5 Phasen:

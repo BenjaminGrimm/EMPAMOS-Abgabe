@@ -1,0 +1,75 @@
+{
+  "id": "10ca8b680455f34b55a96e368567bdcd",
+  "sentences": [
+    "Deutsch Bilder auf Seite 2",
+    "Das Spiel hat eine goldene Regel 4 mit 4 einzigartigen Zielen.",
+    "W\u00e4hle jeweils die W\u00fcrfel die im unteren Teil jeder einzelnen Aufgabe abgebildet sind.",
+    "F\u00fcr alle m\u00fcssen Farbe Position und Winkel der W\u00fcrfel beachtet werden.",
+    "Die erbaute Konstruktion muss immer auf dem Tisch stehen.",
+    "Siehe die Bilder auf Seite 2 zur Verdeutlichung der Regeln jedes Schwierigkeitsgrades",
+    "GOLDENE REGEL",
+    "Alle L\u00f6sungen m\u00fcssen eine vollst\u00e4ndige Schlange ergeben",
+    "Kopf K\u00f6rper Schwanz.",
+    "DIE NACHBAUSCHLANGE",
+    "DIE",
+    "Die Schlange den in der Aufgabe gezeigten W\u00fcrfeln anpassen.",
+    "Farbe Position und Winkel der W\u00fcrfel beachten.",
+    "DIE fallen sichtbaren Fl\u00e4chen eine durchg\u00e4ngige Schlange von Kopf bis Schwanz arrangieren.",
+    "Nur die schwarze ist nicht Teil der Schlange.",
+    "DIE Auf allen sichtbaren Fl\u00e4chen eine durchg\u00e4ngige Schlange von Kopf bis Schwanz arrangieren.",
+    "Alle sichtbaren Fl\u00e4chen m\u00fcssen Teil der Schlange sein.",
+    "falle rundum sichtbaren Fl\u00e4chen eine durchg\u00e4ngige Schlange von Kopf bis Schwanz arrangieren.",
+    "Alle rundum sichtbaren Fl\u00e4chen m\u00fcssen Teil der Schlange sein.",
+    "4 Deutsch",
+    "Franz\u00f6sisch page 2 4 de 4 des de couleur Position angle des illustration page 2 niveau.",
+    "REGLE",
+    "pr\u00e4senter r\u00e4te corps queue.",
+    "couleur Position angle",
+    "des ASSEMBLER de t\u00e4te queue des des de r\u00e4te queue des des ire eile partie de DE de r\u00e4te queue de des de Franz\u00f6sisch",
+    "5 71 Englisch Page 2 game 1 golden 4",
+    "levels 4 all levels note position angle stand See page 2 level.",
+    "GOLDEN",
+    "All MATCH",
+    "Match in Note position angle all FIX Fix not",
+    "ALL all 6 Englisch Holl\u00e4ndisch 2 1",
+    "regel 4 4 Kies de alle niveaus van de de 2 niveaus.",
+    "REGEL",
+    "Alle slang",
+    "VORM DE",
+    "SLANG",
+    "Vorm de slang de van de DE",
+    "SLANG slang van tot de van de DE",
+    "SLANG slang van tot de van de van de",
+    "die niet 5 360 SLANG slang van tot die alle De alle van de Holl\u00e4ndisch 7"
+  ],
+  "patterns": {
+    "1292": [
+      2,
+      3,
+      11,
+      12
+    ],
+    "164466": [
+      1,
+      7,
+      16,
+      18,
+      26,
+      30,
+      31,
+      39
+    ],
+    "3142": [
+      1
+    ],
+    "1492": [
+      2
+    ],
+    "3173": [
+      4
+    ],
+    "166903": [
+      1
+    ]
+  }
+}

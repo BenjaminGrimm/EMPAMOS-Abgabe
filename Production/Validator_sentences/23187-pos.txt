@@ -1,0 +1,36 @@
+Ihr könnt euren Sieg mit dem folgenden Wertungssystem bewerten.
+So haben Sie nach einigen Partien einen „Highscore&quot; und werden feststellen, daß die Patienten mit Ihrer zunehmenden Spielerfahrung größere Chancen haben, einen geeigneten Spender zu finden.
+Ihr könnt in folgender Tabelle nachschauen, wie gut ihr gewesen seid.
+Ihr könnt in folgender Tabelle nachschauen, wie gut ihr gewesen seid.
+Ihr könnt in folgender Tabelle nachschauen, wie gut ihr gewesen seid.
+Ihr könnt in folgender Tabelle nachschauen, wie gut ihr gewesen seid.
+Ihr könnt in folgender Tabelle nachschauen, wie gut ihr gewesen seid.
+Ihr könnt in folgender Tabelle nachschauen, wie gut ihr gewesen seid.
+Euer Team versucht nun, die höchste Gesamtpunktzahl zu erreichen
+Wie erfolgreich er dabei war, lässt sich in der jeweiligen Erfolgstabelle ablesen:
+Wie gut hast du abgeschnitten?
+Seid ihr in die Geschichte eingegangen?
+Dann vergleicht der Spieler die Anzahl seiner Siegpunkte mit der folgenden Tabelle und kann ermitteln, welchen Level er erreicht hat.
+Am Ende des Spiels werden die Punkte gezählt und die erreichte gemeinsame Leistung in der Tabelle abgelesen:
+So kann das erfolgreichste Rateteam ermittelt werden.
+0-9 P. Das war wohl nix - probiert es am besten gleich noch einmal!
+10-18 P. Schon ganz gut - aber nach Hause fliegen können die beiden damit noch nicht.
+19-24 P. O.K. - im Notfall können sie den Heimweg nach Kreton bereits antreten.
+25-30 P. Sehr gut - die beiden können guten Gewissens ihr Raumschiff startklar machen!
+31-36 P. Großartig - guten Heimflug!
+Je nach Gesamtsumme am Spielende erreicht ihr folgenden Status:
+21 Punkte: Säugling
+24 Punkte: Schulkind
+27 Punkte: Student
+30 Punkte: Professor
+33 Punkte: Weiser
+Die Qualität des Feuerwerks kann Dank der Bewertungsskala des „Internationalen Feuerwerker Verbands“ ermittelt werden:
+0 - 5 Oje! Die Zuschauer buhen.
+6 - 10 Schwach! Kaum Applaus.
+11 - 15 OK! Die Zuschauer sind Besseres gewohnt.
+16 - 20 Gut! Die Zuschauer sind erfreut.
+21 - 24 Sehr gut! Die Zuschauer sind begeistert.
+25 Legendär! Die Zuschauer werden diese Show nie vergessen.
+Für eine bessere Einschätzung eurer Leistung könnt ihr folgende Bewertungskriterien zugrunde legen:
+Falls ihr alle Nahrungsmittel abtransportiert habt, dann ist euer Sieg umso beeindruckender, je mehr Felder die Katze bis zur Speisekammer noch vor sich hat (die Speisekammer zählt als letztes Feld mit):
+Falls die Katze die Speisekammer betreten hat, bevor ihr alle Nahrungsmittel abtransportieren konntet ist eure Niederlage weniger niederschmetternd, je weniger Stückchen ihr zurücklassen musstet:

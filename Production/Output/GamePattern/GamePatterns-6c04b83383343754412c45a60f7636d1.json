@@ -1,0 +1,82 @@
+{
+  "id": "6c04b83383343754412c45a60f7636d1",
+  "sentences": [
+    "Hoppla raus!",
+    "Ein lustiges W\u00fcrfel spiel",
+    "SPIEL REG",
+    "1. Teilnehmer 2 bis 4 Personen.",
+    "2.",
+    "Bei 2 Teilnehmern \u00fcbernimm jeder Spieler 2 je 4 Steine 5 bei 3 und 4 Teilnehmern jede Person 1 Bereitstellung der Steine auf den Punkten au\u00dferhalb der Spielfigur.",
+    "3.",
+    "Gespielt wird mit einem W\u00fcrfel.",
+    "4. f\u00fcr jede ist der Punk de Spielfigur.",
+    "5.",
+    "Bei jedem Wurf darf nach der Anzahl der geworfenen Augen mit einem?",
+    "der 4 Steine von Punk zu Punkt werden und zwar nur in Ein ist nicht gestattet.",
+    "6.",
+    "Bei Spielbeginn darf jede Partei mit dem ersten Wurf sofort einen Stein? ins Spiel r\u00fccken.",
+    "Weitere Steine k\u00f6nnen nur bei W\u00fcrfen von 6 Augen in das Spiel genommen werden.",
+    "Bei einem solchen Wurf von 6 Augen mu\u00df ein neuer Stein in das Spielfeld gezogen werden wenn sich noch ein?",
+    "eigener Stein auf einem der befindet.",
+    "Au\u00dferdem darf bei jedem Wurf von 6 Augen noch einmal gew\u00fcrfelt werden.",
+    "7.",
+    "Kann mit der vollen Zahl eines Wurfes ein Punk besetzt werden auf?",
+    "dem sich bereits ein Stein befindet so kann dieser Stein geschlagen werden.",
+    "Ein geschlagener Stein mu\u00df wieder auf eines der zur\u00fcck.",
+    "Auch ein eigener Stein mu\u00df geschlagen werden wenn nicht mit einem anderen eigenen Stein ger\u00fcckt werden kann",
+    "eigener oder gegnerischer Steine ist gestattet.",
+    "8.",
+    "Jeder Stein mu\u00df die ganze Spielfigur bis zu den punkten durchziehen.",
+    "9.",
+    "Ein Zielpunkt mu\u00df mit der vollen Zahl eines Wurfes erreicht werden.",
+    "10.",
+    "Gewinner ist wer zuerst seine s\u00e4mtlichen Steine auf die gebracht hat."
+  ],
+  "patterns": {
+    "1292": [
+      1,
+      7,
+      15,
+      17,
+      25,
+      5
+    ],
+    "8528": [
+      5,
+      11,
+      25,
+      27,
+      29
+    ],
+    "3173": [
+      15,
+      16,
+      20,
+      21
+    ],
+    "164466": [
+      1,
+      29
+    ],
+    "8536": [
+      10,
+      11,
+      17,
+      20,
+      22
+    ],
+    "1492": [
+      5,
+      11,
+      13,
+      16,
+      20,
+      23,
+      25,
+      29
+    ],
+    "166903": [
+      29
+    ]
+  }
+}

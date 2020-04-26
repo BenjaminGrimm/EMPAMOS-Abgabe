@@ -1,0 +1,101 @@
+{
+  "id": "5a2b9963ca82079cda733bb37e797b32",
+  "sentences": [
+    "Ein mit taktischen Elementen f\u00fcr 2 4 Spieler ab 5. Spielidee Anja Spieldauer 10 Minuten Inhalt 8 20 rot und gr\u00fcn 1 Farbw\u00fcrfel Ziel",
+    "Die Spieler versuchen die eigene Schildkr\u00f6te m\u00f6glichst schnell \u00fcber den Parcours zu bringen und hinter dem letzten Wegfeld zu landen.",
+    "Vorbereitung",
+    "Legt die zu einem langen Parcours aus in beliebiger Anordnung.",
+    "Jeder Spieler bekommt die beiden Spielfiguren einer Farbe.",
+    "Bei drei Spielern werden die Spielfiguren der \u00fcbrigen Farbe als neutrale Figuren mitgezogen.",
+    "Bei zwei Spielern hat jeder die Spielfiguren von zwei Farben.",
+    "Legt den Farbw\u00fcrfel bereit.",
+    "Ablauf",
+    "Der j\u00fcngste Spieler beginnt und w\u00fcrfelt einmal.",
+    "Zeigt der W\u00fcrfel die Farbe Rot oder Dunkelgr\u00fcn?",
+    "Der Spieler setzt eine Spielfigur der eigenen Farbe auf das n\u00e4chste Feld der gew\u00fcrfelten Farbe.",
+    "Zeigt der W\u00fcrfel eine andere Farbe?",
+    "Der Spieler bewegt eine beliebige Spielfigur der gew\u00fcrfelten Farbe ein Feld vorw\u00e4rts.",
+    "Wichtig Steht auf dem Feld auf das eine Spielfigur gezogen werden soll bereits eine Spielfigur?",
+    "Die neu ankommende Spielfigur wird oben auf die schon dort stehende gestellt.",
+    "Auf den entstehen nach und nach Stapel.",
+    "Steht die Spielfigur die bewegt werden soll mitten in einem Stapel?",
+    "Alle Figuren die oben auf der Figur stehen werden Stehen mehrere Figuren einer Farbe in einem Stapel?",
+    "Die obere Figur wird bewegt.",
+    "Anschlie\u00dfend ist der n\u00e4chste Spieler an der Reihe und w\u00fcrfelt.",
+    "Ende",
+    "Das Ziel ist hinter dem letzten Es z\u00e4hlt wie ein weiteres rotes oder gr\u00fcnes Feld.",
+    "Auch wenn eine Spielfigur auf dem letzten Feld steht und ein Feld vorgezogen werden soll darf sie ins Ziel und mit ihr alle Figuren die \u00fcber ihr sind",
+    "Das Spiel endet sobald der erste Spieler seine Spielfiguren hinter das letzte Feld gezogen hat und das Spiel gewinnt.",
+    "Anja 1993 Neue Anschrift ab 09 2009 53 Berlin"
+  ],
+  "patterns": {
+    "1292": [
+      0,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      18,
+      20,
+      23,
+      24,
+      15
+    ],
+    "164466": [
+      1,
+      9,
+      20,
+      24
+    ],
+    "3142": [
+      1,
+      24
+    ],
+    "8536": [
+      4,
+      6,
+      10,
+      12,
+      13,
+      14,
+      23
+    ],
+    "1492": [
+      1,
+      4,
+      6,
+      22,
+      24
+    ],
+    "7090": [
+      1,
+      18,
+      19,
+      23,
+      24
+    ],
+    "3173": [
+      1,
+      3,
+      11,
+      16,
+      17,
+      18,
+      23
+    ],
+    "166903": [
+      1,
+      23,
+      24
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+Der letzte Charakter, der sich noch im Spiel befindet, gewinnt.
+Das Spiel wird solange fortgeführt, bis nur noch ein Spieler übrig bleibt, der nicht von Dino attackiert wurde.
+Als einziger Spieler dem Bankrott zu entgehen und MONOPOLY als reichster Spieler zu beenden.
+Das Spiel endet, wenn nur noch ein Spieler übrig ist.
+Last One Standing:
+Der Spieler, der am Ende noch ein paar Sekunden übrig hat, rettet sich ins Ziel und gewinnt das Spiel.
+Das Spiel endet, wenn der vorletzte Spieler ausgeschieden ist.
+Wer als letzter Spieler mit mindestens einem Honigtropfen übrig bleibt, erhält einen grünen Honigtropfen als Spielgewinn.
+Der als Letzter im Felde stehende ist Sieger.
+Wer nämlich als letzter noch eine oder mehrere Mäuse besitzt, hat das Spiel gewonnen
+Wer zum Schluß übrig bleibt, hat gewonnen.
+Der Spieler, der als letzter übrig bleibt, gewinnt das Spiel
+als letzter noch im Spiel ist
+Gewinner ist derjenige, welcher mit seinem Hütchen zuletzt das Spielfeld behauptet, wenn alle Hütchen der Gegner gefangen sind.
+Wer mit seiner Spielfigur als Letzter noch im Spieleland ist, nachdem alle anderen Spieler das letzte Feld des Weges erreicht haben, hat das Spiel gewonnen.
+Wer als Letzter noch Raumfahrer auf dem Mond hat, gewinnt!
+Das Spiel endet, sobald nur noch ein Spieler (einen) Raumfahrer auf dem Spielfeld hat
+Der Besitzer dieses glücklichen Fischleins gewinnt das Spiel!

@@ -1,0 +1,74 @@
+{
+  "id": "5d287ed98070a6f4f1bad6b5029d228d",
+  "sentences": [
+    "von Ein W\u00fcrfelspiel um viele Fragen und lustiges Geschehen bei einem Spaziergang.",
+    "F\u00fcr 2 bis 6 Spieler ab 6 Jahren f\u00fcr jung und alt!",
+    "Inhalt 150 Spielkarten 1",
+    "Spielplan 2 W\u00fcrfel 6",
+    "Figuren",
+    "Vorbereitung des Spiels",
+    "Vor Beginn entscheiden sich die Spieler f\u00fcr einen der 3 1. blaue Karten leichte Fragen 2. gr\u00fcne Karten Fragen 3. rote Karten schwere Fragen",
+    "Der ausgew\u00e4hlte Kartensto\u00df wird mit den Fragen nach unten in die richtige Reihenfolge gelegt von 1 bis 50. Spielablauf",
+    "Jeder Spieler nimmt sich eine Figur und stellt diese an den Start den Ausgangspunkt des Spazierganges.",
+    "Wer die h\u00f6chste Augenzahl w\u00fcrfelt darf beginnen.",
+    "Kommt die Figur auf ein blaues Feld w\u00fcrfele noch einmal gr\u00fcnes Feld r\u00fccke auf die n\u00e4chste Zahl vor oder w\u00fcrfele noch einmal rotes Feld w\u00fcrfele noch einmal und gehe um die gew\u00fcrfelte Augenzahl zur\u00fcck.",
+    "gelbes Feld gehe zur\u00fcck zur n\u00e4chsten Zahl Feld mit einer Zahl",
+    "ein Mitspieler nimmt die Karte mit der entsprechenden Zahl auf und liest die darauf stehende Frage laut vor.",
+    "Diese mu\u00df von dem Spieler dessen Figur auf der Zahl steht beantwortet werden.",
+    "Bei richtiger Beantwortung der Frage mu\u00df der Anweisung der gefolgt werden.",
+    "Wird die Frage nur zum Teil beantwortet so darf nur 1 Punkt weiter ger\u00fcckt werden.",
+    "Bei falscher Beantwortung wird eine Runde ausgesetzt.",
+    "Kommt ein Spieler auf einen Punkt bei dem die Frage schon gestellt wurde und somit aus dem Rennen ist hat die Zahl f\u00fcr ihn keine Bedeutung mehr.",
+    "Wird eine 6 gew\u00fcrfelt darf nicht nochmals gew\u00fcrfelt werden."
+  ],
+  "patterns": {
+    "1292": [
+      0,
+      2,
+      3,
+      6,
+      7,
+      9,
+      10,
+      12,
+      18,
+      8
+    ],
+    "8528": [
+      8,
+      15,
+      17
+    ],
+    "73230": [
+      8
+    ],
+    "3173": [
+      3,
+      13,
+      15,
+      6,
+      8
+    ],
+    "164466": [
+      1,
+      17
+    ],
+    "3142": [
+      6,
+      8,
+      17
+    ],
+    "8536": [
+      10,
+      15,
+      18
+    ],
+    "1492": [
+      17
+    ],
+    "7090": [
+      1,
+      13
+    ]
+  }
+}

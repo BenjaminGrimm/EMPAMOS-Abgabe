@@ -1,0 +1,106 @@
+{
+  "id": "13f1dfae7dd454f6682ae7d97e3eb26a",
+  "sentences": [
+    "Die frechen Kinder die Blumen",
+    "Der W\u00fcrfel bestimmt ihre Farbe an der Form kannst du sie unterscheiden!",
+    "Autor Thomas Illustration Johann",
+    "2012 Alter ab 3 Jahre Spieler Spieldauer min Inhalt 16 Blumen aus Holz 1",
+    "Farbw\u00fcrfel",
+    "Anleitung Spielziel",
+    "Die lustigen K\u00e4fer haben sich in der Wiese versteckt.",
+    "Sie machen sich einen Spa\u00df daraus sich unter die Blumen zu mischen wenn ihr",
+    "nach den roten blauen oder gelben Bl\u00fcten sucht die euch der W\u00fcrfel vorgibt.",
+    "Deckt sie schnell wieder zu denn sie z\u00e4hlen nicht!",
+    "Denn Nur wer am Ende die meisten Blumen mit gefunden hat gewinnt das Spiel.",
+    "Die Form der Blumen hilft euch rAlle",
+    "Blumen werden mit der gr\u00fcnen R\u00fcckseite nach oben auf den Tisch gelegt und gut gemischt.",
+    "Jetzt noch den Farbw\u00fcrfel bereit legen und schon kann los gehen.",
+    "Spielverlauf fit",
+    "Das j\u00fcngste Kind beginnt und w\u00fcrfelt einmal.",
+    "Dann darf es eine Blume aufdecken.",
+    "Stimmt die Farbe der Bl\u00fcte mit der des W\u00fcrfels \u00fcberein nimmt das Kind die Blume und legt sie als Gewinn offen vor sich ab.",
+    "Stimmt die Farbe der Bl\u00fcte nicht mit der des W\u00fcrfels \u00fcberein dreht es die Blume wieder um und das n\u00e4chste Kind im Uhrzeigersinn ist an der Reihe.",
+    "fit Deckt das Kind eine Blume auf und es kommt ein K\u00e4fer zum Vorschein muss es sie ebenfalls wieder umdrehen Niete Jede gibt es einmal pro Farbe und je einmal mit K\u00e4fer.",
+    "Aus den Formen der bereits gewonnenen Bl\u00fcten kann man sehen welche Farbe noch in welchen verbleibenden Formen versteckt sein kann!",
+    "Sind bereits alle vier Bl\u00fcten einer Farbe in den Besitz der Spieler \u00fcbergegangen und sie wird wieder gew\u00fcrfelt hat das betreffende Kind noch einen frei.",
+    "Das Spiel endet wenn nur noch die 4 \u00fcbrig sind.",
+    "Wer je nach Spielerzahl zuerst eine bestimmte Anzahl Bl\u00fcten gefunden hat gewinnt das Spiel.",
+    "fit",
+    "Bei 2 Spielern braucht man dazu 6 Bl\u00fcten fit bei 3 Spielern",
+    "5 Bl\u00fcten fit bei 4 Spielern 4 Bl\u00fcten und fit bei 5 Spielern 3 Bl\u00fcten.",
+    "Gut gemacht!",
+    "Wenn mehrere Spieler die gleiche Anzahl Bl\u00fcten gefunden haben haben sie zusammen gewonnen!",
+    "Spielvorbereitung",
+    "Ende des Spiels Georg GmbH Co.",
+    "KG Werkstra\u00dfe 1",
+    "F\u00fcrth http"
+  ],
+  "patterns": {
+    "1292": [
+      1,
+      7,
+      8,
+      12,
+      13,
+      15,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "164466": [
+      3,
+      10,
+      13,
+      21,
+      22,
+      23,
+      25,
+      26,
+      28,
+      30
+    ],
+    "3142": [
+      10,
+      22,
+      23,
+      28
+    ],
+    "8536": [
+      1,
+      8,
+      15,
+      18,
+      19,
+      20
+    ],
+    "1492": [
+      9,
+      10,
+      22,
+      23,
+      25,
+      26,
+      28
+    ],
+    "7090": [
+      3,
+      10
+    ],
+    "3173": [
+      7,
+      12
+    ],
+    "166903": [
+      10,
+      23,
+      28
+    ],
+    "8528": [
+      10,
+      23,
+      25
+    ]
+  }
+}

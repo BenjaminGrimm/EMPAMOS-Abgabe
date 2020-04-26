@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="value" attr.type="double" for="edge" id="d0"/>
+<graph edgedefault="undirected"><node id="1292:Zufall"/>
+<node id="3173:Gemeinsames Spielfeld"/>
+<node id="3142:Verlierbedingung"/>
+<node id="8536:Aktionspunkte"/>
+<node id="164466:Loswerden"/>
+<node id="166903:Ankommen"/>
+<node id="1492:Siegbedingung"/>
+<node id="8528:Siegpunkte"/>
+<node id="7090:Kooperative Spielform"/>
+<edge source="1292:Zufall" target="1292:Zufall">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="1292:Zufall" target="3173:Gemeinsames Spielfeld">
+  <data key="d0">2.2555831265508686</data>
+</edge>
+<edge source="1292:Zufall" target="3142:Verlierbedingung">
+  <data key="d0">0.2350230414746545</data>
+</edge>
+<edge source="1292:Zufall" target="8536:Aktionspunkte">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="3173:Gemeinsames Spielfeld" target="3173:Gemeinsames Spielfeld">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="3142:Verlierbedingung" target="3142:Verlierbedingung">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="8536:Aktionspunkte" target="8536:Aktionspunkte">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="8536:Aktionspunkte" target="1492:Siegbedingung">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="164466:Loswerden" target="164466:Loswerden">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="164466:Loswerden" target="166903:Ankommen">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="166903:Ankommen" target="1492:Siegbedingung">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="166903:Ankommen" target="166903:Ankommen">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="166903:Ankommen" target="8528:Siegpunkte">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="1492:Siegbedingung" target="1492:Siegbedingung">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="1492:Siegbedingung" target="8528:Siegpunkte">
+  <data key="d0">2.032258064516129</data>
+</edge>
+<edge source="8528:Siegpunkte" target="8528:Siegpunkte">
+  <data key="d0">3.0</data>
+</edge>
+<edge source="7090:Kooperative Spielform" target="7090:Kooperative Spielform">
+  <data key="d0">3.0</data>
+</edge>
+</graph></graphml>

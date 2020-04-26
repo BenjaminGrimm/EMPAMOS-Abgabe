@@ -1,0 +1,101 @@
+{
+  "id": "eef665edf1120dfeb9bf9127280c54c5",
+  "sentences": [
+    "Spielplan bestehend aus drei Teilen Spielziel",
+    "Wer w\u00fcrfelt die richtigen Farben umrundet als Erster die Laufbahn und bringt seine drei Spiel figuren als Sieger ins Ziel?",
+    "Spielvorbereitung",
+    "Setzt den Spielplan zusammen und legt ihn f\u00fcr alle gut erreichbar in die Mitte.",
+    "Jeder Spieler w\u00e4hlt eine Farbe und stellt die Spielfiguren dieser Farbe auf die in den Ecken des Wer als Letzter Geburtstag hatte beginnt.",
+    "Danach seid ihr im Uhrzeigersinn an der Reihe.",
+    "Und los geht Wer an der Reihe ist w\u00fcrfelt mit dem Farbw\u00fcrfel.",
+    "Solange noch keine eurer Spielfiguren auf der Laufbahn ist d\u00fcrft ihr bis zu dreimal w\u00fcrfeln.",
+    "W\u00fcrfelt ihr eure eigene Farbe setzt ihr eine eurer Figuren auf das erste Feld der Laufbahn Pfeilfeld Sobald eine eurer Figuren auf der Laufbahn steht d\u00fcrft ihr nur noch einmal w\u00fcrfeln wenn ihr an der Reihe seid.",
+    "Hinweis",
+    "Sollte es im Verlauf des Spiels nochmals dazu kommen dass ihr",
+    "keine Spielfigur mehr auf der Laufbahn habt d\u00fcrft ihr nat\u00fcrlich wieder bis zu drei Mal w\u00fcrfeln um eine Figur vom Startfeld auf das Pfeilfeld zu ziehen.",
+    "Der W\u00fcrfel bestimmt wie weit ihr eure Figuren bei jedem Spielzug ziehen d\u00fcrft Immer bis zum n\u00e4chsten Feld der Farbe die der W\u00fcrfel zeigt.",
+    "Habt ihr mehrere Figuren auf der Laufbahn k\u00f6nnt ihr euch aussuchen mit welcher Figur ihr ziehen m\u00f6chtet.",
+    "Weiterhin gilt noch Folgendes euren",
+    "erreicht habt d\u00fcrft ihr eure Spielfigur sofort auf das letzte freie der drei ziehen.",
+    "\u00dcber das d\u00fcrft ihr nicht hinausziehen.",
+    "Das hei\u00dft ihr umrundet die Laufbahn nur einmal.",
+    "K\u00f6nnt ihr euren W\u00fcrfelwurf mit keiner eurer Figuren ausf\u00fchren verf\u00e4llt er und der n\u00e4chste Spieler ist an der Reihe.",
+    "Eure eigenen und die Figuren der anderen Spieler d\u00fcrft ihr jederzeit \u00fcberspringen.",
+    "Endet euer Zug auf einem Feld auf dem bereits eine andere Figur steht wird diese hinausgeworfen und zur\u00fcck auf ihr Startfeld gesetzt.",
+    "Eigene Figuren k\u00f6nnen nicht hinaus geworfen werden.",
+    "Wenn ihr mit der entsprechenden Farbe das Feld vor Spielende",
+    "Wer als Erster seine drei Spielfiguren ins Ziel gebracht hat gewinnt das Spiel.",
+    "Schmidt",
+    "Spiele GmbH",
+    "21 Berlin",
+    "Mensch \u00e4rgere Dich nicht http"
+  ],
+  "patterns": {
+    "1292": [
+      1,
+      4,
+      6,
+      7,
+      8,
+      11,
+      12,
+      13,
+      15,
+      16,
+      18,
+      22,
+      3
+    ],
+    "3173": [
+      0,
+      3,
+      11,
+      20,
+      4,
+      13,
+      15
+    ],
+    "164466": [
+      1,
+      6,
+      23
+    ],
+    "3142": [
+      11,
+      13,
+      23
+    ],
+    "8536": [
+      8,
+      11,
+      12,
+      13,
+      18,
+      19,
+      20,
+      22
+    ],
+    "1492": [
+      1,
+      4,
+      15,
+      23
+    ],
+    "7090": [
+      8,
+      17,
+      18,
+      20,
+      23
+    ],
+    "166903": [
+      1,
+      8,
+      15,
+      23
+    ],
+    "8528": [
+      23
+    ]
+  }
+}

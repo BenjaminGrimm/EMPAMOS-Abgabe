@@ -1,0 +1,110 @@
+{
+  "id": "33814743250e7b0c185e347b76e1f6d5",
+  "sentences": [
+    "ALEX 2 in Equipment 1 board 7 in different 2 sets 7 like",
+    "7 rings Game game in ring.",
+    "First rings",
+    "Start first player",
+    "set 7 board player",
+    "ring board not",
+    "player board deck deck down in front Start subsequent 7 end loser new ring board player in first Start",
+    "In first first made player not ring in subsequent player may Step in like King in in in Chinese such may made in ring in end ring was Diagonal orthogonal see rings ring 1.",
+    "ring show ring.",
+    "2.",
+    "Opponent shows same shows ring.",
+    "3.",
+    "may Opponent ring",
+    "same Bis ring may toD not",
+    "AB",
+    "Bedeutet Der ist es! auf venezianisch",
+    "ALEX f\u00fcr 2 Spieler Zubeh\u00f6r 1",
+    "Spielplan Felder 7 in verschiedene Farben 2 S\u00e4tze zu je 7 Karten Farben wie die der 7 Ringe Spiel",
+    "Es werden mehrere Runden gespielt.",
+    "Spielziel in jeder Runde ist es ein Ring zu bekommen.",
+    "Wer zuerst 4 Ringe hat hat gewonnen.",
+    "Vorbereitung",
+    "Vor der ersten Runde Jeder bekommt einen die 7 werden beliebig auf den Spielplan gesetzt",
+    "ein Spieler legt einen Ring auf ein beliebiges freies Feld aber nicht direkt neben einer Figur jeder Spieler bestimmt geheim welche Spielfigur",
+    "die seine ist er gibt die entsprechende Karte als unterste in sein P\u00e4ckchen und legt dieses verdeckt vor sich hin.",
+    "Vor den folgenden Runden Die 7 bleiben wo sie am Ende der vorigen Runde waren der Verlierer der vorigen Runde",
+    "legt einen neuen Ring auf dem Spielplan jeder w\u00e4hlt wieder geheim eine Spielfigur und die entsprechende Karte wie in der erstes Runde.",
+    "Start",
+    "In der ersten Runde startet der Spieler der den Ring nicht gelegt hat in den folgenden Runden immer der Spieler der die vorige Runde gewonnen hat.",
+    "Z\u00fcge",
+    "Wer am Zug ist kann eine beliebige Figur ziehen.",
+    "Diese kann um ein Feld gezogen werden wie der K\u00f6nig im Schach oder \u00fcber eine oder mehrere Nachbarfiguren h\u00fcpfen wie in Halma Aber Achtung!",
+    "Am Ende des Zuges mu\u00df die Figur dem Ring n\u00e4her stehen als vorher.",
+    "Diagonale Entfernung gilt als gr\u00f6\u00dfer als siehe Diagramm.",
+    "Ringe sammeln",
+    "Es gibt drei M\u00f6glichkeiten einen Ring zu gewinnen und damit die Runde zu beenden 1.",
+    "Man zieht mit seiner geheimen Figur in den Ring zeigt seine Karte und nimmt den Ring vom Spielfeld.",
+    "2.",
+    "Hat jedoch der Gegner die gleiche Figur gew\u00e4hlt und beweist er es indem er die unterste Karte zeigt dann erh\u00e4lt er den Ring.",
+    "3.",
+    "Die dritte M\u00f6glichkeit ist die Herausforderung",
+    "Wer am Zug ist kann auf jene Figur zeigen die er f\u00fcr die seines Gegners h\u00e4lt und sagen Hat er recht bekommt er den Ring wenn nicht erh\u00e4lt ihn sein Gegner Diagramm",
+    "Wenn auch die Zahl der Z\u00fcge gleich ist gilt n\u00e4her dem Ring als und n\u00e4her als man kann daher eine Figur von nach ziehen oder von nach aber nicht von nach oder von nach AB"
+  ],
+  "patterns": {
+    "1292": [
+      17,
+      22,
+      23,
+      24,
+      26,
+      30,
+      31,
+      36,
+      38,
+      42
+    ],
+    "3173": [
+      17,
+      22,
+      26,
+      36,
+      23,
+      31
+    ],
+    "164466": [
+      20,
+      28
+    ],
+    "3142": [
+      28,
+      41,
+      42
+    ],
+    "8536": [
+      23,
+      30,
+      31,
+      35,
+      41,
+      42
+    ],
+    "1492": [
+      16,
+      18,
+      19,
+      20,
+      22,
+      23,
+      25,
+      28,
+      35,
+      40
+    ],
+    "166903": [
+      20,
+      35
+    ],
+    "8528": [
+      16,
+      20,
+      28,
+      35,
+      40
+    ]
+  }
+}

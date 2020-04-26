@@ -1,0 +1,85 @@
+{
+  "id": "36100330c4dcb6af22a72cd1ec2bfee8",
+  "sentences": [
+    "Spieltyp",
+    "W\u00fcrfelspiel Spielerzahl",
+    "2 6 Altersempfehlung ab 6 Jahre Spieldauer 20 Minuten Taktik",
+    "0 0 0 0 Gl\u00fcck Gut gew\u00fcrfelt ist halb gewonnen das ist das Motto in diesem schnellen und span Lieblingsspiel aller Zwerge",
+    "Wer am Ende die meisten gesammelt hat ist Sieger.",
+    "Spielmaterial 1 Spielplan 2",
+    "W\u00fcrfel",
+    "1 T\u00f6pfchen",
+    "100 Chips Spielvorbereitung",
+    "Das T\u00f6pfchen wird in die Mitte des Spiel plans auf das Feld 7 gestellt und alle Chips werden hineingelegt.",
+    "Ein beliebiger Spieler beginnt alle anderen folgen im Uhrzeigersinn.",
+    "Spielverlauf Kommt ein Spieler an die Reihe wirft er beide W\u00fcrfel",
+    "Er nimmt eine Goldm\u00fcnze Chip aus dem T\u00f6pfchen in der Mitte und legt sie auf einen leeren Kreis der gew\u00fcrfelten Zahl.",
+    "Sind bereits alle Kreise einer Zahl wirft ein Spieler nun diese Zahl darf er alle dort liegenden an sich nehmen.",
+    "Diese M\u00fcnzen geh\u00f6ren f\u00fcr den Rest des Spiels ihm sie werden nicht wieder auf dem Spielplan abgelegt.",
+    "Die gerade Z\u00e4hl wird im weiteren Spielverlauf wieder wie gewohnt mit M\u00fcnzen aufgef\u00fcllt.",
+    "W\u00fcrfelt ein Spieler eine 12 darf er eine beliebige andere Zahl ausw\u00e4hlen und dort einen Chip bzw. diese sofern sie komplett belegt ist abr\u00e4umen.",
+    "Spielende",
+    "Das Spiel endet wenn ein Spieler mindestens 20 M\u00fcnzen sammeln konnte dieser Spieler ist Sieger.",
+    "Ein Spiel ist aber auch dann zu Ende wenn keine Chips mehr im T\u00f6pfchen liegen in die Fall",
+    "gewinnt der Spieler der bis dahin die meisten M\u00fcnzen gesammelt hat.",
+    "Nr 176044"
+  ],
+  "patterns": {
+    "1292": [
+      3,
+      10,
+      11,
+      12,
+      16,
+      13
+    ],
+    "3173": [
+      5,
+      14,
+      9,
+      12,
+      13
+    ],
+    "164466": [
+      3,
+      4,
+      8,
+      9,
+      10,
+      11,
+      18,
+      19,
+      20
+    ],
+    "3142": [
+      13,
+      18,
+      19,
+      20
+    ],
+    "8536": [
+      16
+    ],
+    "1492": [
+      4,
+      16,
+      18,
+      19,
+      20
+    ],
+    "7090": [
+      2,
+      3
+    ],
+    "166903": [
+      4,
+      18,
+      20
+    ],
+    "8528": [
+      4,
+      18,
+      20
+    ]
+  }
+}

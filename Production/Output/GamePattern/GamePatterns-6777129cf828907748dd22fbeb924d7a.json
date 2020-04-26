@@ -1,0 +1,116 @@
+{
+  "id": "6777129cf828907748dd22fbeb924d7a",
+  "sentences": [
+    "Sch\u00fctze",
+    "Deine Umwelt",
+    "Inhalt",
+    "1 gro\u00dfer Spielplan",
+    "24 6 Spielfiguren W\u00fcrfel",
+    "Mit unserem aktuellen Familienspiel Sch\u00fctze",
+    "Deine Umwelt wollen wir auf spielerische Art einige Anregungen und Gedanken zum Thema Umweltschutz geben.",
+    "Jahrtausende lang lebte der Mensch in Einklang mit der Natur.",
+    "Erst in den letzten Jahrzehnten ist Verh\u00e4ngnisvolles geschehen Gef\u00e4hrliche Giftstoffe werden ungefiltert und in gro\u00dfer Menge ins Wasser geleitet und in die Luft geblasen.",
+    "Sauberes Wasser wird immer weniger.",
+    "Das Grund wasser senkt sich die Wurzeln der Pflanzen k\u00f6nnen es nicht mehr erreichen.",
+    "Der Regen bringt die Schadstoffe der Luft zur Erde zur\u00fcck.",
+    "Die Pflanzen die eine gewisse Menge der Giftstoffe filtern k\u00f6nnen werden immer weniger.",
+    "Die wenigen Pflanzen schaffen das Filtern nicht mehr und sterben.",
+    "Die Folge",
+    "Ein Drittel unserer und Pflanzenarten ist bereits ausgestorben oder stark gef\u00e4hrdet.",
+    "Immer mehr Gift dringt in den Boden ein der Wald stirbt.",
+    "Was k\u00f6nnen wir dagegen tun?",
+    "Was kann der einzelne tun?",
+    "Zun\u00e4chst mu\u00df es jedem bewu\u00dft werden was da vor sich geht.",
+    "Jeder einzelne kann einiges tun auch wenn es noch keine gro\u00dfe L\u00f6sung ist.",
+    "Denn die mu\u00df von der Industrie von der Landwirtschaft und von den Politikern kommen.",
+    "Jeder einzelne kann aber darauf einwirken da\u00df viele bewu\u00dft zu denken anfangen.",
+    "Umdenken tut not.",
+    "Ein Leben ohne saubere Umwelt ohne die Natur ist undenkbar.",
+    "Dieses Spiel gibt zeigt auf damit die Umwelt wieder sauber wird.",
+    "Spielverlauf Jeder Mitspieler w\u00e4hlt sich einen farbigen Spielstein aus und setzt ihn auf den gro\u00dfen Pfeil vor das Spielfeld mit der Nummer 1.",
+    "Die 24 werden mit der R\u00fcckseite nach oben auf das da f\u00fcr vorgesehene Feld in der Mitte des gelegt.",
+    "Der J\u00fcngste in der Runde darf beginnen und setzt seinen Spielstein der gew\u00fcrfelten Augenzahl entsprechend vor.",
+    "Auf dem Spielplan gibt es gr\u00fcne und rote sogenannte Ereignisfelder.",
+    "Kommt ein Spieler auf eines dieser Felder so mu\u00df er eine Ereigniskarte vom Stapel nehmen.",
+    "Steht er auf einem gr\u00fcnen Ereignisfeld so hat er sich umweltbewu\u00dft verhalten und liest Punkt Ader Er vor oder l\u00e4\u00dft sich die Karte von einem \u00e4lteren Mitspieler vorlesen.",
+    "Dann folgt er den dort gegebenen Anweisungen.",
+    "Kommt ein Spieler jedoch auf ein rotes Ereignisfeld dann war sein Verhalten nicht umweltfreundlich und somit gilt Punkt der jeweiligen Ereigniskarte.",
+    "Auch hier mu\u00df er die gegebenen Anweisungen ausf\u00fchren.",
+    "Die werden dann wieder unter den Stapel gelegt.",
+    "Dann ist der n\u00e4chste an der Reihe.",
+    "Der Spielplan soll nur eine symbolische Darstellung unserer Umwelt sein aus diesem Grund k\u00f6nnen auch die nicht immer mit dem Geschehen auf dem Spielplan \u00fcbereinstimmen.",
+    "Darf ein Spieler zur Belohnung nochmals w\u00fcrfeln und kommt dabei wieder auf ein farbiges Spielfeld so erh\u00e4lt er in diesem Fall keine Ereigniskarte mehr.",
+    "Auf einem numerierten Spielfeld k\u00f6nnen gleichzeitig mehrere Spielfiguren stehen.",
+    "Wer als erster die Zahl 100 in der Mitte des genau erw\u00fcrfelt ist Sieger unseres Und nun viel Spa\u00df immer nach dem Motto Sch\u00fctze Deine Umwelt 79677"
+  ],
+  "patterns": {
+    "1292": [
+      4,
+      28,
+      30,
+      31,
+      33,
+      35,
+      37,
+      38,
+      40,
+      27
+    ],
+    "8528": [
+      31,
+      33,
+      3,
+      12,
+      13,
+      20
+    ],
+    "73230": [
+      22
+    ],
+    "3173": [
+      3,
+      26,
+      29,
+      37,
+      38,
+      39,
+      27,
+      30,
+      35
+    ],
+    "164466": [
+      9,
+      10,
+      13,
+      16,
+      33
+    ],
+    "3142": [
+      33,
+      38
+    ],
+    "8536": [
+      6,
+      15,
+      20,
+      22,
+      26,
+      28,
+      38,
+      39
+    ],
+    "1492": [
+      5,
+      9,
+      10,
+      12,
+      13,
+      20,
+      38,
+      40
+    ],
+    "166903": [
+      25
+    ]
+  }
+}

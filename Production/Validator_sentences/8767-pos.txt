@@ -1,0 +1,64 @@
+Ermittler besitzen zudem einen aktuellen Wert für jede dieser Fertigkeiten, beruhend darauf, wie sie ihre Fertigkeitenanzeiger positioniert haben (siehe Seite 6).
+Wenn ein Ermittler Boni auf eine Fertigkeit erhält, so erhält jede spezielle Fertigkeitsprobe, die auf dieser Fertigkeit basiert, ebenfalls diese Boni.
+Jeder Spieler erhält einen Ermittler-Charakterbogen, der die Fähigkeiten, Fertigkeiten und die Startausrüstung des Ermittlers, den der Spieler kontrolliert, beschreibt.
+Diese Marker werden genutzt, um aktuelle Fertigkeiten, Hinweise, Geistige Gesundheit, Ausdauer und das momentan vorhandene Geld anzuzeigen.
+Zu Beginn hat jeder Held 1 Stärkepunkt.
+Abhängig von der Klasse deines Charakters und seinem Intelligenzmodifikator erhältst du eine bestimmte Anzahl von Fertigkeitspunkten, die du als Charakter der 1. Stufe für Fertigkeiten ausgeben kannst.
+Der Erwerb von Fertigkeiten geht schneller, wenn du auf jede Fertigkeit, die du erwirbst, 4 Fertigkeitspunkte (dein Maximum) ausgibst, entsprechend dem Beispiel in dem Startpaket der jeweiligen Klasse.
+Jeder Bogen —einer für jeden Spieler— hat einen Ausdauer- und Bargeldzähler, 3 Lagermöglichkeiten für Gegenstände und den Zähler für die erledigten Aufgaben des Planes.
+Ein Spieler kann nicht mehr Ausdauer, Bargeld oder Gegenstände haben, als Platz auf seinem Bogen vorhanden ist.
+Sie werden benutzt um den momentanen Stand an Ausdauer und Bargeld eines Spielers anzuzeigen und für das Wählen des Sündenbocks.
+Platziere die verbleibenden beiden Marker auf dem Feld «0» bei Ausdauer und Bargeld auf dem Häftlingsbogen.
+Spiele eine Karte, die die Stufe eines Spielers verändert
+Verlauf ihrer vielen Abenteuer können die Spieler Geld und Ausrüstung ansammeln, die ihre Fähigkeiten und Möglichkeiten beträchtlich erweitern können.
+Auf dieser sind der Name und Clan des Zwerges, seine besondere Fähigkeit und seine Werte zu den Attributen Kampf, Handwerk und Laufen vermerkt.
+Der jeweilige Wert zeigt an, wie viele Würfel ihr in Kämpfen, beim Senden einer Botschaft an den Rat der Zwerge, beim Bewegen und für die verschiedensten Proben verwenden dürft.
+Charaktere kann man leicht daran erkennen, dass sie über einen Stärkewert verfügen.
+Abwehrwert: Die Zahl in der linken oberen Ecke gibt an, wie gut sich ein Charakter verteidigen kann.
+Fernkampfwert (rot): Dies ist die Zahl im roten Sechseck an der unteren linken Seite des Spielsteins.
+Nahkampfwert (gelb): Dies ist die Zahl im gelben Sechseck an der unteren rechten Seite des Spielsteins.
+Deshalb wenden wir uns zunächst seinen charakterlichen und körperlichen Eigenschaften zu:
+Die Werte dieser Eigenschaften hängen weitgehend vom Schicksal ab.
+Sie würfeln jede Eigenschaft Ihres Helden aus.
+Den Zahlenwert der Eigenschaft können Sie dann auf der Skala rechts ablesen. Die Skala jeder Eigenschaft reicht von 1 bis 20.
+Ein Mensch kann diese Eigenschaft bis auf 20 steigern, doch dazu ist ein langes, erfahrungsreiches Leben erforderlich.
+Wenn Ihr Held sein Dasein beginnt, beträgt seine KLUGHEIT höchstens 13.
+Wenn er aktiviert ist, kann ein Charakter Inspirationswürfel verwenden, um seine Eigenschaftswerte zu erhöhen und seine Fähigkeiten einzusetzen.
+Wenn er jedoch in eine Aktion des Gegenspielers verwickelt ist, kann er die Inspirationswürfel verwenden, die in Reserve gehalten wurden, um eine seiner Eigenschaften zu verbessern oder eine Fähigkeit einzusetzen.
+Diese Karten sind am Stärkewert zu erkennen.
+Wenn dein Angriffswert mindestens den Stärkewert auf der Begegnungskarte erreicht, gewinnst du den Kampf (Gleichstand reicht also bereits!), ansonsten verlierst du.
+In diesem Beispiel gewinnst du den Kampf, weil die Summe aus deinem Würfelwurf + Bonus für das „Angriff +2“-Feld + Boni für deine ausgespielten Ausrüstungskarten einen Angriffswert von „10“ ergibt.
+Das genügt gerade so, um den Stärkewert der Begegnungskarte zu erreichen.
+Fertigkeitswerte befinden sich sowohl bei Crewmitgliedern als auch bei Ausrüstung.
+Jedes Symbol auf einer Crew- oder Ausrüstungskarte zählt als ein Fertigkeitspunkt.
+Es gibt Ausrüstung, die Fertigkeitspunkte, Merkmale oder besondere Eigenschaften mit sich bringt.
+Einige Jobs erfordern bestimmte Mindest-Fertigkeitspunkte, andere bestimmte Merkmale.
+Figuren werden über ihre Profilwerte definiert.
+Die Stärkepunkte symbolisieren Körperkraft, Ausdauer und Kampfgeschick eines Charakters.
+Wenn ein Charakter Stärkepunkte verliert, muß er Punktezähler abgeben.
+Der Stärkewert kann niemals unter die Anfangsstärke des Charakters sinken.
+Der Charakter gewinnt die Stärkepunkte aller im Kampf besiegten Tiere, Monster und Drachen zu seiner Anfangsstärke hinzu.
+Die Punktezähler für das Talent sind blau.
+Punktezähler werden nur für das Anfangstalent und für während des Spiels hinzugewonnene Talentpunkte ausgelegt.
+Auf dem Charakter-Blatt werden fortlaufend die aktuellen Werte für Widerstandskraft und Kampfkraft dargestellt - durch Marken, die auf den Feldern verschoben werden.
+Die Kampfkraft gibt an, welche Fähigkeiten ein Held im Kampf hat. Sie kann durch Waffen und Rüstungsteile erhöht werden.
+Jede Waffe oder Rüstung hat ihren speziellen Wert, um den sie die Kampfkraft des Helden steigert.
+Unterwegs sammelt jeder Proviant und verbessert seine Charaktermerkmale (Mut, Klugheit, Stärke) - je nachdem, auf welches Feld der jeweilige Spieler Bilbo zieht.
+Verluste verringern die Charakterfähigkeiten des Spielers.
+Der betroffene Charaktermarker wird auf seiner Charaktertafel entsprechend nach oben oder unten geschoben.
+Zieht ein Spieler Bilbo auf ein Ringfeld, so darf der Spieler den mächtigen Einen Ring nehmen und vor sich ablegen, muss aber auch den violetten Marker auf seiner Charaktertafel ein Feld nach unten ziehen, seine Klugheit wird schwächer.
+Geschenkkarten bringen sofortige Vorteile wie zusätzliche Proviantplättchen oder steigende Charakterfähigkeiten (Mut, Klugheit, Stärke).
+Der Spieler muss den entsprechenden Marker auf seiner Charaktertafel um ein Feld nach unten schieben.
+Das Energielevel dieser Spezialfähigkeit steigt um das Ergebnis, aber höchstens bis zum Maximum.
+Diese Fähigkeiten kann jeder Held in seinem Zug aktivieren, jedoch nur wenn das Energielevel der Fähigkeit voll aufgeladen ist.
+Die Spezialfähigkeiten laden sich entweder passiv im Spiel auf (jeder gewürfelte Stern steigert das Energielevel einer ausgewählten Spezialfähigkeit um 1) oder werden aktiv über eine Aufladeaktion geladen.
+Mit der Spielfigur eines klassischen Brettspiels haben unsere Helden wenig gemeinsam, sie sind vielmehr echte Persönlichkeiten, mit eigenen Stärken, Schwächen und Begabungen.
+Teilweise können Sie über die Eintragung selbst entscheiden, teilweise müssen Sie die Entscheidung dem Würfel überlassen, denn auch in Aventurien ist eine &gt;Geburt&lt; ein schicksalhafter Vorgang, bei dem der Zufall eine wichtige Rolle spielt.
+Verwenden Sie bitte für alle wesentlichen Eintragungen in das Dokument einen Kugelschreiber, denn viele Angaben und Werte verändern sich im Laufe Ihres Heldenlebens.
+Auf diese Weise haben Sie einen ausgezeichneten Überblick hinsichtlich der Entwicklung Ihres Helden.
+Ein Mensch kann diese Eigenschaft bis auf 20 steigern, doch dazu ist ein langes, erfahrungsreiches Leben erforderlich.
+Wenn Ihr Held sein Dasein beginnt, beträgt seine KLUGHEIT höchstens 13.
+Sie würfeln jede Eigenschaft Ihres Helden aus.
+Bei manchen Städten darf ein Spieler, anstatt eine Niederlassung besetzen, eine seiner Eigenschaften weiterentwickeln.
+Um Eigenschaften weiterzuentwickeln müssen Handelsrouten zu Städten mit dem entsprechenden Piktogramm eingerichtet werden.
+Durch das Weiterentwickeln der Eigenschaft Actiones kann man bis zu fünf Aktionen pro Zug erhalten.

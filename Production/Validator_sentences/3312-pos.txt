@@ -1,0 +1,505 @@
+Wertung
+Die Spieler werten nun alle Plättchen, auf denen sie mit einer eigenen Jurte vertreten sind.
+Dazu addieren sie die auf den Plättchen aufgedruckten Siegpunktzahlen.
+Schließlich werden 10, 6 bzw. 3 Bonuspunkte an die Spieler mit dem größten, zweitgrößten und drittgrößten zusammenhängenden Gebiet verteilt.
+Der Spieler mit den meisten Siegpunkten gewinnt das Spiel.
+Das dritte Gewitter-Plättchen wird auf die Seite mit dem Blitz gedreht.
+Das Spiel endet sofort, und die Spieler erhalten 0 Punkte, unabhängig davon, wie viele Feuerwerkskarten sie ausgespielt haben.
+Ein Ermittler beginnt das Spiel mit der Anzahl von Geistige-Gesundheit- und Ausdauermarkern die auf seinem Charakterbogen aufgelistet sind.
+Ausdauermarker repräsentieren das momentane Level der physischen Gesundheit des Ermittlers.
+Geistige-Gesundheit-Marker repräsentieren das momentane Level des mentalen Zustandes des Ermittlers.
+Jeder Spieler erhält jetzt die Anzahl an Geistige-Gesundheit-Markern entsprechend des Geistige-Gesundheit-Wertes sowie die Anzahl von Ausdauermarkern gemäß dem Ausdauerwert des Ermittlers.
+Wer danach die wenigsten Minuspunkte auf seinem Konto hat, ist der große Match-Sieger.
+Es gewinnt der Spieler mit den wenigsten Strafpunkten.
+Es gewinnt der Spieler mit den wenigsten Minuspunkten.
+Gewinner ist nach mehreren Spielen der Spieler mit den wenigsten Punkten.
+Es gewinnt der Spieler mit den wenigsten Minuspunkten.
+Wer die wenigsten Minuspunkte hat, gewinnt.
+Alle Feuerfallen im Spiel wurden aufgedeckt. Die Wächterinnen gewinnen.
+Drachenfrüchte sammeln:
+Es gewinnt, wer als Erster sechs Drachenfrüchte seiner Farbe sammeln und auf seine Drachen-Legetafel ablegen kann.
+Wertung
+Die Spieler werten nun alle Plättchen, auf denen sie mit einer eigenen Jurte vertreten sind.
+Dazu addieren sie die auf den Plättchen aufgedruckten Siegpunktzahlen.
+Schließlich werden 10, 6 bzw. 3 Bonuspunkte an die Spieler mit dem größten, zweitgrößten und drittgrößten zusammenhängenden Gebiet verteilt.
+Der Spieler mit den meisten Siegpunkten gewinnt das Spiel.
+Jeder Würfel entspricht einem Aktionspunkt (AP).
+Kann oder will ein Spieler nicht die gesamte Anzahl an Aktionspunkten nutzen, so darf er auch welche verfallen lassen.
+Für jeden Aktionspunkt (AP) darf der Spieler beide Schiffe um jeweils ein Feld orthogonal angrenzend über das Meer bewegen.
+Mit den zur Verfügung stehenden Aktionspunkten können allgemeine Landschafts- oder eigene Dorfplättchen aus dem Vorrat genommen werden.
+Dabei kostet jedes eigene Dorfplättchen, unabhängig von seiner Größe, genau einen Aktionspunkt.
+Die allgemeinen Landschaftsplättchen kosten ihrer Größe entsprechend 1-6 Aktionspunkte.
+Je Aktionspunkt wird die Zählscheibe auf der Fortschrittsleiste des Spielertableaus um ein Feld weiter geschoben.
+Mit den zur Verfügung stehenden Aktionspunkten werden die neben dem eigenen Spielertableau liegenden allgemeinen Landschafts- und Dorfplättchen auf Inseln, auf denen mindestens ein eigenes Kontor steht, verbaut.
+Für den Bau jedes Dorfplättchens benötigt man jeweils einen Aktionspunkt.
+Für den Bau jedes allgemeinen Landschaftsplättchens braucht man, je nach Größe, 1-6 Aktionspunkte.
+Mit den zur Verfügung stehenden Aktionspunkten kann man sich aus der Auslage auf dem Zentralplan weitere Warenmarker kaufen.
+Diese kosten 2, 3 oder 4 Aktionspunkte.
+Für jeden Aktionspunkt setzt der Spieler seine Reihenfolgescheibe auf der Sonderaktionsleiste ein Feld vor.
+Durch Abgabe von Gold kann jeder Spieler die Anzahl seiner Aktionspunkte beliebig erhöhen.
+Wählt der Besitzer die abgebildete Aktion, so erhält er zusätzlich 2 Aktionspunkte.
+Wählt der Besitzer eine der beiden Aktionen, so erhält er zusätzlich 1 Aktionspunkt.
+Wählt der Besitzer die Aktion Schifffahrt, kann er einmalig den Marker einsetzen und erhält zusätzlich 8 Aktionspunkte für beide Schiffe.
+Er muss die Kosten für beide Plättchen mit Aktionspunkten bezahlen können.
+Drei Aktionspunkte (AP) hat jeder zur Verfügung, wenn er an die Reihe kommt.
+3 Aktionspunkte pro Spieler und Runde
+Für 1 AP kann ein Spieler eine der drei offen ausliegenden Karten auf die Hand nehmen.
+Für 2 AP kann direkt die oberste Karte vom Aufnahmestapel gezogen werden.
+Für 1 AP kann ein Spieler eine seiner Handkarten mit der Rückseite nach oben vor sich ablegen.
+Für 1 AP kann ein Spieler eine seiner Handkarten offen an einen Geschäftemacher bzw. die dort bereits liegende/n Karte/n (»Reihe«) anlegen.
+Jeder Spieler kann Art und Reihenfolge der Aktionen frei bestimmen.
+Da nach der dritten Wertung das Spiel sofort endet, kann es vorkommen, daß hier ein Spieler eventuell einen oder zwei Aktionspunkte verliert.
+Wenn du am Zug bist, darfst du bis zu 4 Aktionen ausführen, die du aus folgenden drei Möglichkeiten wählen kannst: „Aufdecken&quot;, „Laufen&quot; und „Schieben&quot;.
+Du darfst die Aktionen „Aufdecken&quot; und „Laufen&quot; beliebig auf deine 4 Mäuse verteilen.
+Die Aktion „Schieben&quot; darfst du pro Zug nur ein einziges Mal ausführen.
+Ansonsten kannst du sowohl die Anzahl als auch die Reihenfolge der Aktionen beliebig kombinieren.
+Es ist erlaubt, weniger als 4 Aktionen durchzuführen.
+Jedes Aufdecken eines Daches zählt als 1 Aktion.
+Jedes Feld, über das dabei gezogen wird, zählt als eine Aktion „Laufen&quot;.
+Als je 1 Aktion zählt
+Wenn du die Aktion „Schieben&quot; ausführen möchtest, nimmst du das übrig gebliebene Plättchen und steckst es in einen der Schlitze.
+Schieben ist die einzige Aktion, die du nur einmal pro Zug ausführen darfst.
+Jeder Spieler wählt eine Farbe und platziert das AktionsRad seiner Farbe derart vor sich, dass die Seite mit 0-3 Aktionen sichtbar ist und der Kartenrand mit der 0 in Richtung Spielfeld zeigt.
+1) Erwerb von Aktionspunkten
+2) Benutzung aller oder einiger Aktionspunkte
+Phase 1: Erwerb von Aktionspunkten
+Der erste Spieler am Zug fügt seinem Aktions-Rad 2 Aktionspunkte (2AP) hinzu, indem er es so dreht, dass der Kartenrand mit der 2 in Richtung Spielfeld zeigt.
+Überschreitet die Gesamtzahl 3, dann drehe das Aktions-Rad auf die Seite 4-7, um die Gesamtzahl der verfügbaren Aktionspunkte des Spielers anzuzeigen.
+Phase 2: Benutzung aller oder einiger Aktionspunkte
+Der aktive Spieler darf so viele Aktionen ausführen, wie sein Aktionsrad anzeigt.
+Er muss nicht notwendigerweise alle Aktionspunkte verbrauchen.
+Bis zu 3 Aktionen können für einen späteren Spielzug aufgespart werden.
+Die Aktionspunkte können entweder zwischen mehreren Charakteren aufgeteilt oder auch alle mit einem einzigen Charakter verbraucht werden.
+In diesem ersten Tutorial kannst du 1AP ausgeben, um:
+Ein Raum kann für 1AP aufgedeckt (offen gelegt) werden, wenn einer deiner Charaktere direkten Zugang zu ihm hat, bevor er aufgedeckt wird.
+Daher kann ein solcher Raum für je 1AP aufgedeckt werden.
+Um den Raum zu betreten muss nach der Aktion „Raum aufdecken&quot; eine weitere Aktion „Charakter bewegen&quot; ausgeführt werden.
+Bezahle 1AP um einen deiner Charaktere zu bewegen.
+Die Zahl in weiß neben dem Bewegungs-Symbol auf der Charakterkarte bestimmt, wie viele Zonen weit sich der Charakter für 1AP bewegen kann (z.B. kann der Naga für 1AP 3 Zonen weit ziehen).
+Zudem kannst du weitere AP ausgeben, um eine erneute Bewegung auszuführen.
+Für einen Bewegungspunkt kann ein Charakter sich in der Startzone bewegen und sich dem anderen Raum gegenüberstellen.
+Manche sind permanent und benötigen nicht den Verbrauch von AP um sie zu nutzen.
+Andere benötigen, gekennzeichnet durch das neben ihrem Fähigkeitensymbol, den Verbrauch von AP.
+Der blaue Spieler verbraucht 1AP, um seinen Naga 3 Zonen weit zu bewegen.
+Andere dagegen müssen, gekennzeichnet durch das i &#039;, neben ihrem Fähigkeitensymbol, mit AP aktiviert werden.
+Für 1AP kann ein Charakter, der sich in der Zone mit dem Drehmechanismus befindet, den Raum um 90° in Pfeilrichtung drehen.
+Er kann auch 2AP für eine 180°- oder 3AP für eine 270°-Drehung aufwenden, usw.
+Er kann sogar beide im Wechsel drehen, solange er nur pro 90°-Drehung eines der Räume 1AP verbraucht.
+1AP erlaubt es dir nur, jeweils einen Raum zu drehen!
+Du kannst nicht beide Räume mit dem gleichen 1AP drehen.
+Eine Sprungkarte zu spielen, kostet 1AP.
+In diesem Tutorial wird jetzt auch folgende Aktion für 1AP verfügbar: • einen Nahkampf beginnen
+Ein Charakter kann gegen einen gegnerischen Charakter, der sich in der gleichen Zone befindet einen Nahkampf beginnen, indem er 1AP verbraucht.
+Der aktive Spieler kann einen zusätzlichen 1AP ausgeben, um einen weiteren Nahkampf zu beginnen, wenn er dies wünscht.
+Ein verwundeter Charakter verliert seine Spezialfähigkeiten, es sei denn, in der Charakterbeschreibung ist ausdrücklich eine spezielle Ausnahme formuliert, und kann keine Aktionen ausführen.
+Der blaue Spieler verbraucht 1AP und erklärt, dass sein Naga den gelben Koloss angreift.
+Du musst trotzdem den 1AP zahlen.
+In diesem Tutorial wird jetzt auch folgende Aktion für 1AP verfügbar: • einen Fernkampf beginnen
+Verbrauche 1AP, um den Fernkampf wie einen normalen Nahkampf auszulösen.
+Die Kosten für den Gruppenkampf betragen weiterhin insgesamt 1AP inklusive aller beteiligten Schützen.
+Für einen weiteren AP kann der blaue Kleriker mit dem Bogen im selben Spielzug auf den gelben Goblin schießen.
+Die Meuchlerin kann für 1AP angrenzende Fallgitter öffnen und schließen, als ob sie einen Schlüssel bei sich trüge (siehe Schlüssel im Abschnitt Objekte).
+Der Kleriker kann einen Verwundeten, der sich in der gleichen Zone befindet, für 1AP heilen.
+Der Koloss kann für 1AP ein angrenzendes Fallgitter zerstören.
+Dagegen kann es aber den Drehmechanismus eines Raumes auslösen und diesen für 1AP um 90 drehen.
+Der Golem zerstört für 1AP alle Mauern des Raumes, in dem er sich gerade befindet.
+Ein Mechanork, in einer Zone mit einem Drehmechanismus, kann den Raum für 1AP in eine beliebige Richtung um 90 drehen.
+Für den 1AP kann er stattdessen auch den Partnerraum (gleiche Farbe) in eine beliebige Richtung drehen.
+Der Taschendieb kann für 1AP einem gegnerischen Charakter in derselben Zone ein Objekt stehlen.
+Einmal pro Spielzug kann der Samurai einen Nahkampf für 0AP beginnen.
+Die Telekinetin kann für 1AP ferngesteuert ein Objekt bewegen.
+Die Diebin kann für 1AP angrenzende Fallgitter öffnen und schließen, als ob sie einen Schlüssel bei sich trüge (siehe Schlüssel im Abschnitt Objekte).
+Wird der Troll verwundet, kann er sich für 1AP regenerieren.
+Die Wand-Läuferin kann für 1AP von ihrer Zone aus durch eine angrenzende Mauer hindurch laufen, um in der Zone auf der anderen Seite der Mauer wieder zu erscheinen.
+Eine Doppel-Mauer, die zwei Zonen voneinander trennt gilt für diese Aktion als einfache Mauer und kann mit nur 1AP überwunden werden.
+Befindet sich der Krieger angrenzend zu einem geschlossenen Fallgitter, kann er es für 1AP zerstören.
+Wer den Bogen bei sich trägt, kann, wie für jeden Kampf üblich, 1AP verbrauchen, um einen Fernkampf zu beginnen.
+Ein Charakter, der einen Schlüssel bei sich trägt, kann für 1AP ein angrenzendes geschlossenes Fallgitter öffnen oder ein offenes Fallgitter schließen.
+Ein Charakter mit der Spezialfähigkeit magische Begabung kann für 1AP die Schriftrolle benutzen, um den auf ihr niedergeschriebenen Zauberspruch zu wirken, d.h. einen Feuerball auf einen anderen Charakter abzufeuern.
+Ein Charakter mit magischer Begabung kann für 1AP die Schriftrolle benutzen, um den Raum, in dem er sich gerade befindet mit einem angrenzenden Raum auszutauschen (nicht diagonal).
+Die Zahl auf der ausgelegten Paddelkarte zeigt an, um wie viele Flussfelder man sein(e) Kanu(s) bewegt.
+Wer beide Kanus bewegt, zieht jedes der beiden Kanus um die komplette Zugweite.
+Wer an einer Fundstelle einen Edelstein auflädt oder (aus taktischen Gründen) ablädt, verbraucht dafür jeweils 2 Paddelpunkte, die er von der Zugweite seines Kanus abzieht.
+Dabei dürfen ausnahmsweise (überzählige) Paddelpunkte verfallen.
+Normalerweise kann ein Spieler nur 1 Aktionskarte ausspielen (1 freie Aktion).
+Jeder Spieler hat 1 freie Aktion
+Er kann durch bestimmte Aktionskarten weitere Aktionen erhalten.
+„+X Aktion(en)“ - Der Spieler darf X weitere Aktionskarten ausspielen.
+Danach werden die Punktekarten ebenfalls in 3 offenen Stapeln ausgelegt: Ein Anwesen-, ein Herzogtum- und ein Provinzstapel.
+Von den nicht ausgelegten Punktekarten nimmt sich jeder Spieler 3 Anwesen (siehe Kasten unten: Der Kartensatz des Spielers bei Spielbeginn).
+Eventuell übriggebliebene Punktekarten werden in die Schachtel zurückgelegt.
+Liegen bereits alle Hinweis-Plättche mit der schwarzen Seite nach oben, darf diese Aktion nicht gewählt werden!
+ODER
+Ihre Geschwindigkeit beträgt momentan 4, wodurch sie 4 Bewegungspunkte für diesen Zug zur Verfügung hat.
+Wenn sich der Ermittler des Spielers in Arkham befindet (z.B. im Französischen Viertel), erhält er so viele Bewegungspunkte wie sein Geschwindigkeitswert auf dem Ermittler-Charakterbogen anzeigt.
+Ein Spieler kann einen Bewegungspunkt verwenden, um von einem Gebiet des Spielbrettes zu einem anderen Gebiet zu gelangen, solange beide Gebiete durch eine gelbe Linie verbunden sind
+Ein Bewegungspunkt erlaubt dem Ermittler sich von einem Standort zu einem Straßengebiet, von einem Straßengebiet zu einem anderen oder von einem Straßengebiet zu einem Standort zu bewegen
+Jeder Zug ist eine Fahrt mit dem Bus, der U-Bahn oder mit den bekannten Londoner Taxis.
+Man muß dafür ein entsprechendes Ticket abgeben.
+Der Spieler mit dem Etappen-Startspielermarker beginnt die erste Etappe (und damit das Spiel), indem er in seinem Zug genau 1 Aktion durchfuhrt.
+Dann führt der Spieler zu seiner linken 1 Aktion durch, dann der folgende Spieler usw.
+Wenn du an die Reihe kommst, hast du die Wahl aus 4 verschiedenen Aktionsmöglichkeiten, von denen du genau 1 durchführen musst:
+Solange sich noch Etappen-Wettplättchen auf dem Spielplan befinden, darfst du dir mit dieser Aktion eines davon nehmen, egal wie viele bereits vor dir liegen und welche Farben diese haben.
+Sollte dein Wüstenplättchen bereits auf der Rennstrecke liegen, darfst du es mit dieser Aktion auf ein anderes Feld umlegen (nach denselben Regeln).
+Als Aktion kannst du auf das tolle Kamel wetten.
+Immer wenn du an die Reihe kommst, wählst du eine der folgenden vier Aktions-Möglichkeiten:
+Wer an der Reihe ist, muss genau eine der folgenden 4 Aktionen ausführen:
+2. Aktion wählen und durchführen
+Es gibt zwei Möglichkeiten:
+Aktionstaste wählen
+Aktion ausführen
+Erklären Sie bitte den  Kindern vor Spielbeginn die vier mög­lichen Zugrichtungen und die Funktionsweise der Richtungs­tasten.
+Außerdem stehen jedem Spieler jedes Mal, wenn er an der Reihe ist, 10 Aktionspunkte (AP) für seine Aktionen im Spiel zur Verfügung.
+Sobald Sie an der Reihe sind, dürfen Sie bestimmte Aktionen in beliebiger Reihenfolge ausführen, für die Sie unterschiedlich viele AP verbrauchen.
+AP sind also eine Art Kosten für jede Ihrer Aktionen.
+Das Handsymbol zeigt an, wie viele Aktionspunkte euren Charakteren zur Verfügung stehen, abhängig von der Anzahl ihrer Lebenspunkte: Eure Handkarten und Aktionspunkte gelten für beide Charaktere gemeinsam.
+Auch eure Aktionspunkte könnt ihr beliebig auf beide Charaktere aufteilen.
+Dafür hast du Aktionspunkte zur Verfügung, die du beliebig unter deinen beiden Charakteren aufteilen darfst.
+Die Anzahl deiner Aktionspunkte für den aktuellen Zug bestimmst du zu Beginn des Zugs (siehe S. 5, Die Charaktere).
+ENTW EDER 2 der folgenden Einzelaktionen in beliebiger Reihenfolge (es darf auch zweimal dieselbe gewählt werden):
+O D ER folgende Kombi-Aktion:
+Es zählt für ihn als Siegpunkt.
+Nachdem alle Motive aus der Geschichte genannt wurden, dürfen die Spieler, die keinen Fehler gemacht haben, ihre gewonnenen Bildplättchen verdeckt auf ihren Siegpunktstapel legen.
+Alle Spieler, die Fehler gemacht haben bzw. sich nicht errinnern konnten, müssen so viele Siegpunktplättchen abgeben, wie es die schwarze Wolke am Farbfeld auf der Ablagetafel des aktiven Geschichtenerzählers anzeigt.
+Besitzt der Spieler noch offene Siegpunktplättchen aus der aktuellen Runde, so werden diese bevorzugt abgegeben, um die Minuspunkte zu begleichen.
+Wenn in einer Runde kein Spieler einen Fehler gemacht hat, darf sich der Geschichtenerzähler als Belohnung für seine gelungene Eselsbrücke ein StoppPlättchen auf seinen Siegpunktstapel legen.
+Ein Stopp-Plättchen zählt also 1 Siegpunkt und sorgt möglicherweise dafür, dass ein Spieler weniger Siegpunktplättchen als vorgeschrieben abgeben muss.
+Die Wertungen bewirken, daß die Geschäfte der Spieler auf ihre Marktmacht hin überprüft werden und ihnen entsprechend viel Reibach zugute kommt
+Nur bei der dritten und letzten Wertung gibt es auch Reibacheinbußen:
+Nach jeder Wertung werden alle Einkünfte (und bei der 3. Wertung evtl. auch die Verluste) für jeden Spieler auf einem Blatt notiert.
+Auf der Rückseite dieser Spielregel befindet sich ein Wertungsblatt - als- Vorlage zum Kopieren.
+Es gewinnt der Spieler, der nach der dritten Wertung den größten Gesamt-Reibach vorweisen kann.
+Der erste Spieler, der am Ende seines Zugs 20 Siegpunkte gesammelt hat, gewinnt das Spiel.
+Ihr legt die Siegpunktekarten getrennt nach Werten (1, 2 und 5 Siegpunkte) in einzelnen Stapeln oberhalb der Prestigekarten bereit, so dass alle Spieler sie gut erreichen können.
+Das Ziel des Spiels ist es also, mit Gebäuden und dem Verkauf von Baumaterialien die meisten Siegpunkte zu sammeln.
+Die Götter belohnen die Spieler zwei Mal während des Spiels mit Siegpunkten.
+Der Bau bestimmter Gebäude oder der Transport von Kristallschädeln nach Chichen Itza bringen ebenfalls Siegpunkte
+Dann werden noch übrige Rohstoffe in Siegpunkte umgewandelt und eventuell Siegpunkte für bestimmte Monumente vergeben.
+Wer zum Spielschluss die meisten Siegpunkte hat, ist Spielsieger
+Der Spieler erhält (jedes Mal, wenn er ein Gebäude baut, 2 Siegpunkte (Tikal Aktionsfeld 2 oder 4, Uxmal Aktionsfeld 4).
+Der Spieler erhält sofort 3 Siegpunkte.
+Von Zeit zu Zeit laden die Familien den König ein, den Baufortschritt zu begutachten. Je nachdem, in welcher Stadt die prächtigsten Gebäude gebaut wurden, erhalten die Familien vom König Münzen für den Kauf von weiteren Bausteinen oder Siegpunkte.
+Am Spielende gewinnt die Familie mit den meisten Siegpunkten.
+Hat ein Spieler alle Landschaftsfelder, die an einen Dschungelbereich angrenzen, mit seinen Forschern besetzt, erhält er umgehend das entsprechende Tierplättchen sowie Siegpunkte:
+Zudem rückt er um die Zahl, die der gerade geleerte Dschungelbereich anzeigt (2, 3 oder 4), mit seinem Forscher auf der Siegpunkteleiste des Spielplans vor.
+Die Siegpunkte, die man fürs Ergattern eines Tierplättchens erhält, entsprechen immer der Anzahl Forscher, die man dafür benötigt hat.
+Anschließend muss er den violetten Marker des entsprechenden Tiers auf dem Spielplan um 1 Feld nach oben versetzen:
+Er (und nur er!) erhält dafür sofort pro Tier, das er hiervon besitzt (das große Tierplättchen zählt wie zwei Tiere), 1 Siegpunkt bzw. 0 Punkte, falls er kein solches Tier besitzt.
+Es kann Vorkommen, dass ein Spieler aufgrund der Sonderfunktionen seiner Karten im Etui einen Marker in den Aktionsphasen B oder C bzw. einen Marker mehrfach bewegen darf:
+In allen Fällen erhält er immer für jeden Schritt die entsprechenden Siegpunkte.
+Wird ein Marker auf das oberste Feld der Leiste (= 5er-Bereich) gezogen, kann er anschließend zwar nicht mehr weiter nach oben versetzt werden, die Siegpunkte werden aber weiterhin für jeden weiteren (virtuellen) Schritt vergeben.
+Die Marker werden im Laufe des Spieles in immer höhere Bereiche gezogen.
+Deren Werte (0-5) sind zum einen Multiplikatoren für die Schlusswertung (s.u.), zum anderen wird dadurch aber auch das Spielende bestimmt.
+Am Ende jeder Runde wird überprüft, ob die Werte der Bereiche, in denen sich die 5 Marker befinden, mindestens die Summe von 7 (bei 2 Spielern), 9 (bei 3 Spielern) oder 11 (bei 4 Spielern) ergeben.
+Jeder Spieler erhält zu seinen bisherigen Siegpunkten noch welche hinzu:
+10 Siegpunkte pro eigenem Satz aus allen 5 verschiedenen Tieren;
+pro Tierplättchen den Wert des Bereichs, in dem sich sein Marker befindet;
+1 Siegpunkt für jeweils 2 seiner restlichen Spielsteine.
+Der Spieler mit den meisten Siegpunkten gewinnt.
+Bei Gleichstand gewinnt von diesen Spielern derjenige, der noch mehr Spielsteine übrig hat.
+Die Götter belohnen die Spieler zwei Mal während des Spiels mit Siegpunkten.
+Der Bau bestimmter Gebäude oder der Transport von Kristallschädeln nach Chichen Itza bringen ebenfalls Siegpunkte.
+Dann werden noch übrige Rohstoffe in Siegpunkte umgewandelt und eventuell Siegpunkte für bestimmte Monumente vergeben.
+Wer zum Spielschluss die meisten Siegpunkte hat, ist Spielsieger!
+Der Spieler erhält (jedes Mal, wenn er ein Gebäude baut, 2 Siegpunkte (Tikal Aktionsfeld 2 oder 4, Uxmal Aktionsfeld 4).
+Der Spieler erhält sofort 3 Siegpunkte.
+Sobald ein Spieler eine durchgehende Handelsroute (Abzweigungen zählen nicht) aus mindestens fünf Ochsenkarren besitzt, die nicht von fremden Siedlungen oder Tempelstädten unterbrochen wird, erhält er die Sonder-Siegpunktkarte „Längste Handelsroute“ (→).
+Der Besitz der „Längsten Handelsroute&quot; ist 2 Siegpunkte wert.
+Karten mit Siegpunkten werden grundsätzlich geheim gehalten.
+Sie werden erst aufgedeckt, wenn ein Spieler insgesamt 10 Siegpunkte erreicht hat.
+„Pharaos Segen&quot; ist 1 Siegpunkt wert.
+Geld sammeln, neue Wahlhelfer rekrutieren oder doch besser konkret Siegpunkte für den Wahl erfolg einsacken?
+Falls im gewählten Büro Siegpunkt-Marker aus den vorherigen Runden liegen, nimmt der Spieler sich diese und legt sie als Stapel vor sich ab.
+Grüne und gelbe Aktionen kommen erst in der nächsten Phase zum Einsatz, um neue Karten zu kaufen bzw. Siegpunkte zu kassieren.
+Warenkarten sind Mittel zum Zweck, um an die begehrten Stammeskarten zu kommen.
+Diese bringen während des Spiels Vorteile und am Ende Siegpunkte.
+Diese gilt es geschickt zu kombinieren, so dass man mehr Siegpunkte in Form von Silberkreuzen sammelt als der Mitspieler.
+Nun erfolgt die Wertung, indem die Spieler alle ihre Siegpunkte in Form von Silberkreuzen (Siegpunktplättchen und Silberkreuze auf Stammeskarten) zusammenzählen.
+Einige Stammeskarten bringen noch zusätzliche Punkte (siehe Texte auf den Karten).
+Zur Ermittlung der Siegpunkte der Spieler werden nun die Zinsbeträge der Kredite mit den Faktoren auf der Zählleiste gewichtet.
+Jede Stimme bringt einen Siegpunkt.
+Zusätzliche Siegpunkte gibt es für die Mehrheit in einer Patriziergruppe, für die Beeinflussung einer ganzen Gruppe und für den Gewinn eines geheimen Einflußbonus.
+Wer am Ende die meisten Siegpunkte hat, entscheidet über Ägyptens Unabhängigkeit und gewinnt.
+Hat ein Spieler am Ende des Spieles in der auf seiner Karte genannten Gruppe die Mehrheit der Patrizier für sich gewonnen (also mindestens 3 der 5), so hat er seine Aufgabe erfüllt und erhält dafür zwei zusätzliche Siegpunkte.
+Siegpunkte
+Innerhalb einer Patrizier-Gruppe können mehrfach Siegpunkte gewonnen werden.
+Wer die meisten Siegpunkte hat, gewinnt.
+Erreiche in 6 Runden (bei 5 Spielern in 5 Runden) die meisten Siegpunkte bei den verschiedenen Wertungen und werde zum König der Isle of Skye.
+Ab der dritten Runde erhält man noch weiteres Gold für jeden Mitspieler, der mehr Siegpunkte hat, also sich auf der Wertungsleiste vor dem eigenen Spielstein befindet.
+Alle Spieler erhalten Siegpunkte gemäß der Wertungsplättchen dieser Runde.
+Pro Siegpunkt setzen die Spieler ihren Spielstein auf der Wertungsleiste ein Feld vor.
+Jedes Wertungsplättchen wird nur drei Mal im Spiel gewertet.
+Nach der letzten Runde erhält jeder Spieler noch Siegpunkte für Plättchen mit einer Schriftrolle, die er in sein eigenes Clangebiet eingebaut hat.
+Befindet sich die Schriftrolle in einem abgeschlossenen Gebiet, erhält man die doppelte Punktzahl.
+Weiterhin tauscht jeder Spieler noch sein Gold in Siegpunkte ein:
+Für jeweils 5 Gold erhält er 1 Siegpunkt.
+Wer nun am meisten Siegpunkte erreicht hat, ist der Gewinner.
+Das Ziel des Spiels ist es also, mit Gebäuden und dem Verkauf von Baumaterialien die meisten Siegpunkte zu sammeln.
+Zusätzlich zählt dein Einfluss am Ende des Spiels als Siegpunkte.
+Die aufgedruckten Werte dieser Karten zählen am Ende des Spiels als Siegpunkte (SP).
+Jeder Kaufmannsbonus-Marker zählt zusätzlich drei Punkte.
+Ein runder Siegpunktmarker wird für jeden Spieler auf das Feld „Null&quot; der Wertungsleiste gesetzt.
+Am Ende des Spiels wird ihr Zahlenwert als Siegpunkte angerechnet.
+Zusätzlich erhält der Spieler mit dem höchsten Opfer 3 Bonuspunkte.
+Das Feld, auf dem der Siegpunktmarker des führenden Spielers steht, gibt an, welche Art zum Einsatz kommt:
+Für die Spieler mit den höchsten oder niedrigsten Geboten gibt es an den Stationen nun Vorteile, Siegpunkte, Bonuspunkte oder Nachteile.
+Er erhält sofort 1 Siegpunkt (Wertungsleiste) und gewinnt jeden Gleichstand, solange die Figur vor ihm steht.
+Der Spieler mit dem höchsten Gebot erhält entsprechend dem Würfel mit der höchsten Augenzahl Siegpunkte und zieht seinen Siegpunktmarker entsprechend viele Felder auf der Wertungsleiste voran.
+Wie immer, gewinnt auch hier der Spieler mit der Chocolatlfigur, bzw. der Spieler mit den wenigsten Siegpunkten bei einem Gleichstand.
+Der Spieler mit den meisten Siegpunkten hat die Götter am meisten erfreut und ist der Sieger des Spiels.
+Um die meisten Siegpunkte zu erringen, kämpfen die Spieler mal für das eine, mal für das andere Haus.
+Die Spieler versuchen Siegpunkte zu erringen, indem sie in den Auseinandersetzungen der Fürstenhäuser die gegnerischen Landstriche erobern.
+Gutshofkarten bestimmen, wieviele Versorgungskarten Sie am Ende einer Runde nachziehen dürfen, Kontorkarten bringen am Ende des Spiels zusätzliche Siegpunkte.
+Jeder Spieler, dessen Gesinnungskarte das erfolgreiche Fürstenhaus zeigt, bekommt die Siegpunkte, die in der Wertungstabelle auf der eroberten Landschaftskarte des unterlegenen Hauses vermerkt sind.
+Der Stratege erhält zusätzlich 2 Punkte.
+Die Punkte werden sofort notiert
+140 Holzwürfel (je 20 kleine und 15 große Würfel in 4 Farben - zählen als Siegpunkte)
+Dazu setzt jeder Spieler die Anführer seiner Dynastie ein, gründet und erweitert Königreiche, baut Monumente, trägt Konflikte aus und erringt Siegpunkte in den genannten Bereichen.
+Für das Setzen eines Anführers gibt es keinen Siegpunkt.
+Ohne Anführer auf dem Spielplan kann man aber keine Siegpunkte sammeln!
+Alle Spieler vergleichen zunächst nur die Zahl der Siegpunkte in ihrem jeweils schwächsten Bereich.
+Den Siegpunkt erhält derjenige Spieler, der diesen Anführer besitzt.
+Siegpunkte werden sofort nach dem Legen des Plättchens genommen und hinter den Sichtschirm gelegt.
+Kleine Würfel zählen einen, große Würfel fünf Siegpunkte.
+In jedem Spiel werden zu Beginn 7 Siegpunktkarten ausgelegt.
+Die 3 Festen Siegpunktkarten sind in jeder Partie dabei, während die 4 anderen zufällig gezogen werden.
+Auf jede dieser Karten wird eine bestimmte Anzahl von Siegpunktplättchen gelegt.
+Sobald auf 4 Siegpunktkarten eine Plättchen mehr liegen, ist das Spielende nah.
+Da sich also die Möglichkeiten, Siegpunkte zu erringen, von Partie zu Partie ändern, musst du deine Spielweise jedes Mal neu auf die aktuellen Gegebenheiten ausrichten.
+Siegpunktkarten
+Es gibt drei Karten mit Festen Siegpunkten („Fixed“) und zehn Karten mit Variablen Siegpunkten.
+Die Karten mit Festen Siegpunkten sind immer im Spiel, aber nur vier der zehn Karten mit Variablen Siegpunkten.
+Auf jede Karte legt ihr eine bestimmte Anzahl von Siegpunktplättchen.
+Die überzähligen Siegpunktplättchen werden beiseitegelegt.
+Als Erstes sollte jeder Spieler seine Siegpunkte zählen und seinen Siegpunktmarker entsprechend auf der Siegpunktleiste platzieren.
+Alle Spieler sollten bei Spielbeginn gleich viele Siegpunkte haben - die Anzahl ihrer kontrollierten Gebiete mal drei.
+Es ist wichtig, während des Spiels immer den aktuellen Siegpunktstand mittels des Siegpunktmarkers auf der Siegpunktleiste anzuzeigen.
+Die Siegpunktleiste beginnt bei 12.
+Sollte ein Spieler das Ende der Siegpunktleiste erreichen (was ebenfalls unwahrscheinlich ist), müssen die darüber hinausgehenden Punkte notiert oder anderweitig markiert werden.
+Jedes Gebiet unter deiner Kontrolle bringt dir 3 Siegpunkte.
+Hast du ein SP-Plättchen erhalten, so kannst du dies unter keinen Umständen wieder verlieren.
+Wenn ein Mitspieler eines deiner Gebiete erobert, in dem du eine Stadt besitzt, so verlierst du zwar die Punkte für das Gebiet, aber die zwei Punkte, die du für das Bauen der Stadt erhalten hast, behältst du.
+Du kannst diese Aktion nur wählen, wenn du selbst das Spiel gewinnst, also die meisten Siegpunkte hast.
+Habt ihr es rechtzeitig geschafft, alle Tiere ins Floß zu puzzeln, gehen die Siegpunkte an die „Ja&quot;-Tipper.
+Hat die Zeit nicht gereicht oder waren es doch zu viele Tiere, dann gehen die Siegpunkte an die „Nein&quot;-Tipper.
+1. Runde = je 1 Punkt 2. Runde = je 2 Punkte 3. Runde = je 3 Punkte 4. Runde = je 4 Punkte 5. Runde = je 5 Punkte 6. Runde = je 6 Punkte
+Punkteverteilung:
+Es gewinnt, wer bei Spielende die meisten Siegpunkte hat.
+Jede dieser fünf Kartensorten wird dann für sich als offener Stapel in der Tischmitte bereitgelegt, und zwar so, dass jeweils obenauf die Karten mit der niedrigsten Siegpunktzahl (unten rechts im Glaskolben) liegen und anschließend die anderen Karten mit zunehmender Siegpunktzahl folgen, so dass ganz unten jeweils die Karte mit der höchsten Siegpunktzahl liegt.
+Jeder Spieler addiert die Siegpunkte in den Glaskolben aller seiner Trank-Karten und zählt für jeden seiner kleinen Tränke noch einen Siegpunkt hinzu.
+Wer die meisten Siegpunkte hat, ist Gewinner.
+Von nun an können die Städte Geld verlieren und sogar Schulden machen, für die sie Schuld-Marker erhalten (im Wert von -1 bzw. -5 Siegpunkten).
+Wertungsblock
+So können die Punkte, die bestimmte Stadt-Karten einbringen, mit einbezogen und auch Team-Wertungen vorgenommen werden.
+Der Spieler mit den meisten Siegpunkten gewinnt.
+Gefährtenkarten mit lilafarbenem Texthintergrund können am Spielende zusätzliche Siegpunkte bringen:
+Wer am Ende des Spiels die meisten Punkte hat, gewinnt.
+ein Chip zählt 1 Punkt
+Die Punkte-Chips werden neben den Spielplan bereitgelegt. Zu Spielbeginn erhalten die Spieler keine Chips.
+Die Punktwertung
+Entscheidend für die Punktevergabe ist, wie viele Gäste an einem Tisch sitzen und welche Nationalität sie besitzen.
+Davon zieht er den Punktwert seiner Gästekärtchen ab, die sich noch in seinem Vorrat befinden.
+Es entstehen Straßen, Städte, Klöster und Wiesen, auf welche die Spieler ihre Gefolgsleute setzen können, um Punkte zu ergattern.
+Da man sowohl während des Spiels als auch am Ende Punkte erhalten kann, steht der Sieger erst nach der Schlusswertung fest.
+Alle Punkte werden sofort auf der Wertungstafel vermerkt.
+Erreicht oder überschreitet ein Zählstein erneut das Feld 0, so wird er hingelegt.
+Jedes Wappen zählt 2 Punkte extra.
+In Auf nach Indien! erhaltet ihr Siegpunkte für die Gründung neuer Küstenstädte, den Verkauf von Gütern, die Errichtung von Gebäuden und die Entwicklung von Technologien.
+Je nachdem, wo du sie einsetzt, zählst du mit ihnen Geld oder Siegpunkte, segeln sie als Schiffe gen Indien, stellen sie Handelsgüter dar oder zeigen deinen Besitz verschiedener Gebäude an.
+Siegpunktkarte
+Holzwürfel auf den 5 Feldern deiner Siegpunktleiste (1-5) stellen Geschichtsschreiber dar und geben an, wie viele Siegpunkte du hast.
+Du darfst diese später verkaufen, um Geld und Siegpunkte zu erhalten.
+Jeder Spieler erhält jeweils 1 Siegpunktkarte, 1 Verwaltungskarte und 1 Übersichtskarte.
+Während des Spiels zeigst du deine Siegpunkte mit Hilfe von Holzwürfeln an.
+Holzwürfel auf den 5 Feldern deiner Siegpunktleiste stellen Geschichtsschreiber dar und geben jeweils an, wie viele Siegpunkte du besitzt.
+Jeder Geschichtsschreiber zeigt höchstens 5 Siegpunkte an.
+Wenn du mehr als 5 Siegpunkte besitzt, musst du für jeweils weitere 5 Siegpunkte einen Holzwürfel aus Lissabon nehmen und als Geschichtsschreiber auf deine Siegpunktleiste stellen.
+Wenn du das nicht machst, verfallen die überzähligen Siegpunkte.
+Befindet sich eines deiner Schiffe unterhalb einer noch unentdeckten Küstenstadtkarte, erhältst du nun 1 Siegpunkt und drehst die entsprechende Karte auf ihre Vorderseite.
+Der Spieler, der die letzte Küstenstadt in der Reihe entdeckt (also die 12. bei 4 Spielern bzw. die 9. bei 3 Spielern), erhält dafür sogar 2 Siegpunkte statt 1, denn er hat Indien erreicht!
+Wie viel Geld und wie viele Siegpunkte dir der Verkauf einbringt, hängt von der Anzahl unterschiedlicher Handelsgüter ab, die du verkaufst.
+Einmal pro Spielzug erhältst du 1 Siegpunkt für je 3 neue Schiffe, deren Bewegung während der Aktion Schiffe bewegen in Lissabon oder einer deiner Festungen beginnt.
+Bei Spielende erhältst du 1 Siegpunkt.
+Nun bestimmen alle Spieler ihre Siegpunktzahl.
+Siegpunkte durch die eigenen Geschichtsschreiber
+1 Siegpunkt für jeden eigenen Markt
+1 Siegpunkt für jede eigene Festung
+2 Siegpunkte für jede eigene Kirche
+Siegpunkte durch bestimmte Technologien
+Beachtet, dass ihr die Siegpunkte für Gebäude und Technologien während des Spiels nicht über die Geschichtsschreiber festhaltet.
+Siegpunkten
+Der Schnellste ruft „Ubongo!&quot; und zieht rasch Edelsteine aus dem Beutel.
+Solange die Sanduhr läuft, versuchen auch sie, ihre Tiere auf der Legetafel richtig zu platzieren und dafür Edelsteine zu ergattern.
+Wer am Ende die meisten Edelsteine besitzt, hat gewonnen!
+Es gewinnt, wer die meisten Edelsteine gesammelt hat.
+Haben mehrere Spieler gleich viele Edelsteine, gewinnen sie gemeinsam.
+Legt die gesammelten Edelsteine gut sichtbar vor euch ab, damit die anderen die Anzahl eurer Steine sehen können.
+Je wertvoller die Kombination, desto mehr Punkte könnt ihr euch aufschreiben.
+Wer als Erster 6000 Punkte erreicht, gewinnt.
+Der Käpt&amp;#039;n erhält den Punkteblock, trägt die Namen der Spieler ein und notiert während des Spiels für jeden die erzielten Punkte.
+Auf dieser Karte sind die möglichen Würfelkombinationen abgebildet und wie viele Punkte diese wert sind.
+Um Punkte zu erhalten, muss der Spieler seine Kaperfahrt freiwillig beenden, bevor er einen dritten Totenkopf würfelt.
+Der Spieler erhält null Punkte, allen Mitspielern werden für jeden gewürfelten Totenkopf 100 Punkte von ihrer aktuellen Punktzahl auf dem Punkteblock abgezogen.
+Dazu braucht man viele Punkte in Pinguinkarten und mindestens ebenso viele Punkte in Schollenkarten.
+Und hat man sogar mehr Pinguine als Eisschollen, gibt es Punktabzug.
+Spielende und Wertung
+Anschließend ermittelt jeder Spieler seine Punkte.
+Es gewinnt der Spieler, der die meisten Punkte erreicht hat.
+Bei Gleichstand gewinnt von den daran beteiligten Spielern, wer mehr Schollenkarten gesammelt hat.
+Alle Punkte werden sofort auf der Wertungstafel vermerkt.
+Erreicht oder überschreitet ein Zählstein erneut das Feld 0, so wird er hingelegt.
+Bei Gleichstand erhalten alle beteiligten Spieler die vollen Punkte.
+Zelte haben keine Auswirkung auf die Mehrheiten und damit die Plättchen- und Punkteverteilung.
+Prärien bzw. Prärieflächen werden zunächst nicht gewertet.
+Die Besitzer der Farmer können erst am Ende des Spiels Punkte bekommen.
+(Wichtig bei der Schlusswertung!)
+Nun folgt die Schlusswertung, in der nicht fertiggestellte Eisenbahnstrecken, Berge und Städte gewertet werden.
+Nun erhalten die Spieler auch Punkte für die Farmer auf der Prärie.
+Am Schluss werden noch alle Punkte der Schürfplättchen hinzugezählt.
+GOLDWERTUNG
+Nun dreht jeder Spieler seine Schürfplättchen um und zählt die entsprechenden Punkte zum bisherigen Punktestand hinzu.
+Jeder Spieler zählt jetzt die Skarabäen auf seinen Plättchen:
+Jeder Skarabäus auf einem Plättchen, das mit der Vorderseite nach oben im eigenen Vorrat liegt, zählt einen Pluspunkt.
+Der (oder die) Spieler mit den meisten Punkten gewinnt.
+WERTUNG
+Jedes Rathaus, das Sie bauen, zählt 1 Siegpunkt.
+Jeder ins Spiel gebrachte goldene Pferdeappel zählt als 1 Gewinnpunkt für Weiß.
+Nach jedem Durchgang werden die Gewinnpunkte notiert.
+Nach Ablauf einer bestimmten Zeit oder einer festgelegten Anzahl von Runden, gewinnt der Spieler mit der höchsten Punktzahl.
+Zählt nur die Sack-Symbole in der rechten unteren Ecke!
+Der Spieler mit den meisten Sack-Symbolen gewinnt.
+Bei Gleichstand gewinnt derjenige der am Gleichstand beteiligten Spieler, der mehr Sackkarten gewonnen hat.
+Du erhältst selbst dann einen Siegpunkt, wenn ein Krieg, den der König ausgerufen hat, verloren geht - solange du hinreichend Truppen schickst!
+Für je 2 Gold, die dann noch fehlen, verliert er 1 Siegpunkt.
+Jeder Spieler setzt eine seiner beiden Holzscheiben als Siegpunktscheibe auf das Feld 2 der umlaufenden Siegpunktleiste.
+Beides bringt wieder Siegpunkte für das Endergebnis.
+Nach der dritten Runde decken die Spieler ihre Auszeichnungen und Preise auf und vergleichen ihre Gesamtpunkte (die Punkte stehen in der oberen linken Ecke der Karten). Der Spieler mit den meisten Punkten gewinnt.
+Der Spieler mit den meisten Punkten gewinnt.
+Wenn immer noch Gleichstand herrscht, gewinnt der Spieler mit den meisten Gold-Auszeichnungen.
+Wer nun in den meisten Blumenbeeten die alleinige Mehrheit erzielen konnte, gewinnt das Spiel.
+Für den Fall, dass ein Spieler am Spielende in mehr als 8 Blumenbeeten die alleinige Mehrheit erzielt hat, werden auch diese mitgezählt.
+Bei Gleichstand gewinnt der am Gleichstand beteiligte Spieler, der insgesamt die meisten Symbole auf seinen Auftragskarten hat
+Gibt es auch hier einen Gleichstand, gewinnt der am Gleichstand beteiligte Spieler, der die meisten Verstärkungschips besitzt.
+Wertung Die Spieler, die gerade nicht an der Reihe sind, bilden die Jury.
+Die Mitglieder der Jury müssen sich darauf einigen, wie viele Punkte zwischen 0 und 5 sie dem aktiven Spieler für seine Antwort geben.
+Mögliche Wertungskriterien sind z. B. Ehrlichkeit, Originalität, Überraschung etc.
+Das Spiel endet sofort, wenn ein Spieler seinen dritten Siegerpokal gewinnen konnte
+Ihr könnt in folgender Tabelle nachschauen, wie gut ihr gewesen seid.
+Wenn auf einer Hilfe-Karte nur etwas stand, das ihr sowieso schon wusstet, zählt diese Hilfe-Karte nicht für die Wertung.
+Jeder Spieler addiert alle Werte seiner Münzen.
+Der Spieler mit der höchsten Gesamtsumme ist Sieger.
+Sollten mehrere Spieler die höchste Summe haben, dann gewinnt von diesen Spielern derjenige, der die höchste einzelne Münze besitzt.
+Alle Schätze, die ein Spieler gewinnt, egal mit welchem seiner beiden Schatzjäger, werden am Ende zusammengezählt.
+Gewinner des Spiels ist jedoch nicht das Team, das als erstes 6 Karten erwerben kann, sondern das Team, das als erstes 33 oder mehr Punkte erzielt.
+Hierzu werden die Zahlen, die auf den VisionaryKarten aufgedruckt sind und die Menge der Bauelemente angeben, zusammengezählt.
+Wer als Erster sein Glupschgeisterversteck vollständig (mit 9 Glupschgeistern) gefüllt hat, gewinnt!
+Nach dieser Schlusswertung zählen alle Spieler ihr Geld.
+Die Beträge seiner einzelnen Plättchen sollte jeder Spieler addieren und sich dann den Gesamtbetrag aus der Bank nehmen (bzw. in die Bank zahlen).
+Das Abliefern der Steine bringt auf verschiedene Arten unterschiedlich viele Punkte:
+Mal gibt es mehr Punkte, mal weniger, mal sofort, mal am Runden- oder Spielende.
+Wer nach 6 Runden die meisten Punkte hat, gewinnt.
+Die lila „Statuen“-Karten und die grünen „Verzierungs“-Karten bringen dir am Spielende Punkte.
+Tropfen sammeln
+Bei 4 Spielerinnen gewinnt, wer 7 Gewinnpunkte gesammelt hat.
+besteht ganz offensichtlich im Sammeln von Gewinnpunkten (gewonnene MeineWelt-Karten)
+Jede Stadt bringt zwei Siegpunkte.
+Karten  mit  Siegpunkten  sollten tunlichst  erst am  Ende  des  Spieles aufgedeckt werden,  wenn  der  Spieler  sicher  ist,  10  Siegpunkte  zu besitzen.
+Schließlich kann der Spieler, der an der Reihe ist, bauen, um die Anzahl seiner Siegpunkte (-») zu erhöhen!
+Jede Siedlung zählt einen Siegpunkt.
+Alle Spieler versuchen, durch listiges Ausspielen ihrer Zahlenkarten möglichst viele Mäusekarten mit Pluspunkten zu ergattern und die negativen Geierkarten den Mitspielern zu überlassen.
+Wer am Ende die meisten Pluspunkte verbuchen kann, gewinnt.
+Bei Fits versuchen die Spieler, die Felder ihrer Spieltafeln so mit Spielsteinen zu füllen, dass sie dafür möglichst viele Punkte erhalten.
+Zählt eure Punkte aus der ersten und zweiten Wertung zusammen.
+Wer die höchste Summe hat, ist Fits-Meister. Doch schon wartet die nächste Herausforderung...
+Zusätzlich braucht ihr noch Papier und Bleistift zum Notieren der Punkte.
+Auch hier werden komplette waagerechte Reihen mit 1 Punkt gewertet.
+Sieht man am Schluss genau 3 Symbole einer Farbe, gibt es dafür 3 Bonuspunkte.
+Jeder Spieler errechnet nun seine Punkte, und zwar erhält er:
+Der Spieler mit den meisten Punkten gewinnt die Partie.
+1 Punkt für jedes Goldstück 2 Punkte für jedes blaue Juwel 3 Punkte für jedes rote Juwel 4 Punkte für jedes weiße Juwel.
+Wertung
+Die Spieler werten nun alle Plättchen, auf denen sie mit einer eigenen Jurte vertreten sind.
+Dazu addieren sie die auf den Plättchen aufgedruckten Siegpunktzahlen.
+Schließlich werden 10, 6 bzw. 3 Bonuspunkte an die Spieler mit dem größten, zweitgrößten und drittgrößten zusammenhängenden Gebiet verteilt.
+Der Spieler mit den meisten Siegpunkten gewinnt das Spiel.
+Für jede im Stapel enthaltene Karte, die irgendeinem anderen Kamel entspricht, muss der Besitzer dieser Karte 1 ÄP in die Bank zahlen.
+Nun erhält bzw. verliert jeder Spieler Geld für die Etappen-Wettplättchen und Pyrami­denplättchen, die er vor sich liegen hat.
+Dabei erhalten bzw. verlieren die Spieler Geld, je nachdem, auf welche Kamele sie während der Etappe durch das Nehmen von Etappen-Wettplättchen gesetzt haben.
+Ihr werdet bestraft, wenn ihr euch nicht am Bau aller vier Monumente beteiligt habt.
+Jeder Spieler, der bis zum Spielende nicht mindestens je 1 Stein an den vier Orten „Pyramide“, „Tempel“, „Grab­kammer“ und „Obelisken“ abgeliefert hat, bekommt 5 Punkte abgezogen.
+Gelingt es einem anderen Spieler, eine längere Straße als der jeweilige Besitzer zu bauen, erhält dieser sofort die Sonderkarte.
+Die 5 Geierkarten haben Minuswerte von -1 bis -5 und schmälern die hart errungenen Mäusepluspunkte entsprechend.
+ede Karte, die Sie nehmen müssen, bringt Ihnen für jeden Hornochsen einen Minuspunkt ein!
+Wer aufgrund einer „niedrigen Karte&quot; eine komplette Reihe nehmen muss, wählt sich in der Regel die Reihe mit den wenigsten Minuspunkten aus.
+Auf jeder Karte sind zwischen den Zahlen Hornochsenköpfe abgebildet. Jeder Hornochse stellt einen Minuspunkt dar!
+Das Spiel endet, wenn alle Karten ausgespielt wurden. Jetzt nimmt jeder seinen Hornochsenstapel und zählt seine Minuspunkte.
+Für jeden Gast, den ein Spieler zu einem Tisch bringen konnte, erhält er Punkte. Gäste, die an der Bar Platz nehmen müssen, bringen dem Spieler häufig Minuspunkte ein. Wer am Ende des Spiels die meisten Punkte hat, gewinnt.
+Der Spieler erhält null Punkte, allen Mitspielern werden für jeden gewürfelten Totenkopf 100 Punkte von ihrer aktuellen Punktzahl auf dem Punkteblock abgezogen.
+Und hat man sogar mehr Pinguine als Eisschollen, gibt es Punktabzug.
+Kassiert er jedoch beispielsweise einen grünen Stich, dann muss er sich, da er kein grünes Siegel besitzt, ein schwarzes Strafsiegel nehmen - jedes schwarze Strafsiegel zählt am Ende drei Strafpunkte.
+Wer nach mehreren Durchgängen die wenigsten Strafpunkte hat, ist Sieger.
+Minuspunkt
+Ermittler besitzen zudem einen aktuellen Wert für jede dieser Fertigkeiten, beruhend darauf, wie sie ihre Fertigkeitenanzeiger positioniert haben (siehe Seite 6).
+Wenn ein Ermittler Boni auf eine Fertigkeit erhält, so erhält jede spezielle Fertigkeitsprobe, die auf dieser Fertigkeit basiert, ebenfalls diese Boni.
+Jeder Spieler erhält einen Ermittler-Charakterbogen, der die Fähigkeiten, Fertigkeiten und die Startausrüstung des Ermittlers, den der Spieler kontrolliert, beschreibt.
+Diese Marker werden genutzt, um aktuelle Fertigkeiten, Hinweise, Geistige Gesundheit, Ausdauer und das momentan vorhandene Geld anzuzeigen.
+Zu Beginn hat jeder Held 1 Stärkepunkt.
+Abhängig von der Klasse deines Charakters und seinem Intelligenzmodifikator erhältst du eine bestimmte Anzahl von Fertigkeitspunkten, die du als Charakter der 1. Stufe für Fertigkeiten ausgeben kannst.
+Der Erwerb von Fertigkeiten geht schneller, wenn du auf jede Fertigkeit, die du erwirbst, 4 Fertigkeitspunkte (dein Maximum) ausgibst, entsprechend dem Beispiel in dem Startpaket der jeweiligen Klasse.
+Jeder Bogen —einer für jeden Spieler— hat einen Ausdauer- und Bargeldzähler, 3 Lagermöglichkeiten für Gegenstände und den Zähler für die erledigten Aufgaben des Planes.
+Ein Spieler kann nicht mehr Ausdauer, Bargeld oder Gegenstände haben, als Platz auf seinem Bogen vorhanden ist.
+Sie werden benutzt um den momentanen Stand an Ausdauer und Bargeld eines Spielers anzuzeigen und für das Wählen des Sündenbocks.
+Platziere die verbleibenden beiden Marker auf dem Feld «0» bei Ausdauer und Bargeld auf dem Häftlingsbogen.
+Spiele eine Karte, die die Stufe eines Spielers verändert
+Verlauf ihrer vielen Abenteuer können die Spieler Geld und Ausrüstung ansammeln, die ihre Fähigkeiten und Möglichkeiten beträchtlich erweitern können.
+Auf dieser sind der Name und Clan des Zwerges, seine besondere Fähigkeit und seine Werte zu den Attributen Kampf, Handwerk und Laufen vermerkt.
+Der jeweilige Wert zeigt an, wie viele Würfel ihr in Kämpfen, beim Senden einer Botschaft an den Rat der Zwerge, beim Bewegen und für die verschiedensten Proben verwenden dürft.
+Charaktere kann man leicht daran erkennen, dass sie über einen Stärkewert verfügen.
+Abwehrwert: Die Zahl in der linken oberen Ecke gibt an, wie gut sich ein Charakter verteidigen kann.
+Fernkampfwert (rot): Dies ist die Zahl im roten Sechseck an der unteren linken Seite des Spielsteins.
+Nahkampfwert (gelb): Dies ist die Zahl im gelben Sechseck an der unteren rechten Seite des Spielsteins.
+Deshalb wenden wir uns zunächst seinen charakterlichen und körperlichen Eigenschaften zu:
+Die Werte dieser Eigenschaften hängen weitgehend vom Schicksal ab.
+Sie würfeln jede Eigenschaft Ihres Helden aus.
+Den Zahlenwert der Eigenschaft können Sie dann auf der Skala rechts ablesen. Die Skala jeder Eigenschaft reicht von 1 bis 20.
+Ein Mensch kann diese Eigenschaft bis auf 20 steigern, doch dazu ist ein langes, erfahrungsreiches Leben erforderlich.
+Wenn Ihr Held sein Dasein beginnt, beträgt seine KLUGHEIT höchstens 13.
+Wenn er aktiviert ist, kann ein Charakter Inspirationswürfel verwenden, um seine Eigenschaftswerte zu erhöhen und seine Fähigkeiten einzusetzen.
+Wenn er jedoch in eine Aktion des Gegenspielers verwickelt ist, kann er die Inspirationswürfel verwenden, die in Reserve gehalten wurden, um eine seiner Eigenschaften zu verbessern oder eine Fähigkeit einzusetzen.
+Diese Karten sind am Stärkewert zu erkennen.
+Wenn dein Angriffswert mindestens den Stärkewert auf der Begegnungskarte erreicht, gewinnst du den Kampf (Gleichstand reicht also bereits!), ansonsten verlierst du.
+In diesem Beispiel gewinnst du den Kampf, weil die Summe aus deinem Würfelwurf + Bonus für das „Angriff +2“-Feld + Boni für deine ausgespielten Ausrüstungskarten einen Angriffswert von „10“ ergibt.
+Das genügt gerade so, um den Stärkewert der Begegnungskarte zu erreichen.
+Fertigkeitswerte befinden sich sowohl bei Crewmitgliedern als auch bei Ausrüstung.
+Jedes Symbol auf einer Crew- oder Ausrüstungskarte zählt als ein Fertigkeitspunkt.
+Es gibt Ausrüstung, die Fertigkeitspunkte, Merkmale oder besondere Eigenschaften mit sich bringt.
+Einige Jobs erfordern bestimmte Mindest-Fertigkeitspunkte, andere bestimmte Merkmale.
+Figuren werden über ihre Profilwerte definiert.
+Die Stärkepunkte symbolisieren Körperkraft, Ausdauer und Kampfgeschick eines Charakters.
+Wenn ein Charakter Stärkepunkte verliert, muß er Punktezähler abgeben.
+Der Stärkewert kann niemals unter die Anfangsstärke des Charakters sinken.
+Der Charakter gewinnt die Stärkepunkte aller im Kampf besiegten Tiere, Monster und Drachen zu seiner Anfangsstärke hinzu.
+Die Punktezähler für das Talent sind blau.
+Punktezähler werden nur für das Anfangstalent und für während des Spiels hinzugewonnene Talentpunkte ausgelegt.
+Auf dem Charakter-Blatt werden fortlaufend die aktuellen Werte für Widerstandskraft und Kampfkraft dargestellt - durch Marken, die auf den Feldern verschoben werden.
+Die Kampfkraft gibt an, welche Fähigkeiten ein Held im Kampf hat. Sie kann durch Waffen und Rüstungsteile erhöht werden.
+Jede Waffe oder Rüstung hat ihren speziellen Wert, um den sie die Kampfkraft des Helden steigert.
+Unterwegs sammelt jeder Proviant und verbessert seine Charaktermerkmale (Mut, Klugheit, Stärke) - je nachdem, auf welches Feld der jeweilige Spieler Bilbo zieht.
+Verluste verringern die Charakterfähigkeiten des Spielers.
+Der betroffene Charaktermarker wird auf seiner Charaktertafel entsprechend nach oben oder unten geschoben.
+Zieht ein Spieler Bilbo auf ein Ringfeld, so darf der Spieler den mächtigen Einen Ring nehmen und vor sich ablegen, muss aber auch den violetten Marker auf seiner Charaktertafel ein Feld nach unten ziehen, seine Klugheit wird schwächer.
+Geschenkkarten bringen sofortige Vorteile wie zusätzliche Proviantplättchen oder steigende Charakterfähigkeiten (Mut, Klugheit, Stärke).
+Der Spieler muss den entsprechenden Marker auf seiner Charaktertafel um ein Feld nach unten schieben.
+Das Energielevel dieser Spezialfähigkeit steigt um das Ergebnis, aber höchstens bis zum Maximum.
+Diese Fähigkeiten kann jeder Held in seinem Zug aktivieren, jedoch nur wenn das Energielevel der Fähigkeit voll aufgeladen ist.
+Die Spezialfähigkeiten laden sich entweder passiv im Spiel auf (jeder gewürfelte Stern steigert das Energielevel einer ausgewählten Spezialfähigkeit um 1) oder werden aktiv über eine Aufladeaktion geladen.
+Mit der Spielfigur eines klassischen Brettspiels haben unsere Helden wenig gemeinsam, sie sind vielmehr echte Persönlichkeiten, mit eigenen Stärken, Schwächen und Begabungen.
+Teilweise können Sie über die Eintragung selbst entscheiden, teilweise müssen Sie die Entscheidung dem Würfel überlassen, denn auch in Aventurien ist eine &gt;Geburt&lt; ein schicksalhafter Vorgang, bei dem der Zufall eine wichtige Rolle spielt.
+Verwenden Sie bitte für alle wesentlichen Eintragungen in das Dokument einen Kugelschreiber, denn viele Angaben und Werte verändern sich im Laufe Ihres Heldenlebens.
+Auf diese Weise haben Sie einen ausgezeichneten Überblick hinsichtlich der Entwicklung Ihres Helden.
+Ein Mensch kann diese Eigenschaft bis auf 20 steigern, doch dazu ist ein langes, erfahrungsreiches Leben erforderlich.
+Wenn Ihr Held sein Dasein beginnt, beträgt seine KLUGHEIT höchstens 13.
+Sie würfeln jede Eigenschaft Ihres Helden aus.
+Bei manchen Städten darf ein Spieler, anstatt eine Niederlassung besetzen, eine seiner Eigenschaften weiterentwickeln.
+Um Eigenschaften weiterzuentwickeln müssen Handelsrouten zu Städten mit dem entsprechenden Piktogramm eingerichtet werden.
+Durch das Weiterentwickeln der Eigenschaft Actiones kann man bis zu fünf Aktionen pro Zug erhalten.

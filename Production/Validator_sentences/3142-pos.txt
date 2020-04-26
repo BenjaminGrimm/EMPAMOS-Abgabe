@@ -1,0 +1,10 @@
+Dieses Team hat verloren.
+Das Spiel endet, wenn beide Spieler eines Teams nicht mehr ziehen können.
+Kann ein Spieler keinen Zug mehr machen, weil alle seine Spielsteine gefangen oder geschlagen sind und er auch keine Reserven mehr hat, so ist das Spiel beendet.
+Wenn ein Spieler sein drittes Proviant-Kärtchen verloren hat.
+Die Spieler haben leider verloren und starten gleich ein neues Spiel, um Leo doch noch zum Friseur zu bringen.
+Der Wolf hat verloren.
+Das Spiel endet sofort, und die Spieler erhalten 0 Punkte, unabhängig davon, wie viele Feuerwerkskarten sie ausgespielt haben.
+In diesem bedauernswerten Fall verlieren alle Spieler das Spiel.
+Wenn aber die Regentropfen alle Wurzelfelder besetzt haben, so ist dieser Baum versauert und dieses Spiel verloren.
+Wenn um Mitternacht die Geisterstunde beginnt, entwischt euch Hubi für dieses Mal und ihr könnt ihn erst wieder in einem neuen Spiel fangen.

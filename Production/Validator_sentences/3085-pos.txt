@@ -1,0 +1,9 @@
+Sobald an einer Zieltafel die erforderliche Anzahl von Karten anliegt, wird diese Tafel ausgewertet und die dort ausliegenden Prämiensteine vergeben.
+Wer entsprechend dieser Tabelle genügend Steine gesammelt hat, muss diese Prämiensteine sofort abgeben (zurück in die Schachtel).
+Die Geldkarten Zunächst werden alle Kupfer-, Silber- und Goldkarten als 3 getrennte Stapel offen ausgelegt.
+Häufig wird den Ermittlern mitgeteilt, dass sie Gegenstände „für den Listenpreis“ oder „für 1$ über Listenpreis“ kaufen können.
+Gegenstände können einfach durch das Ablegen von Geldmarkern in Höhe des Preises gekauft werden.
+Der Listenpreis eines Gegenstandes kann immer in der unteren, rechten Ecke der Karte gefunden werden.
+Geldmarker repräsentieren das aktuelle Vermögen des Ermittlers.
+Sie können verwendet werden um Ausrüstung zu kaufen usw.
+Die Zahlenkarte mit dem höchsten Wert gewinnt das Rennen um die Mäusekarte. Hat jeder Spieler seine Zahlenkarte verdeckt abgelegt, werden diese Karten gleichzeitig aufgedeckt.

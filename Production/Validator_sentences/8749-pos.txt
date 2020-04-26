@@ -1,0 +1,6 @@
+Das dritte Gewitter-Plättchen wird auf die Seite mit dem Blitz gedreht.
+Das Spiel endet sofort, und die Spieler erhalten 0 Punkte, unabhängig davon, wie viele Feuerwerkskarten sie ausgespielt haben.
+Ein Ermittler beginnt das Spiel mit der Anzahl von Geistige-Gesundheit- und Ausdauermarkern die auf seinem Charakterbogen aufgelistet sind.
+Ausdauermarker repräsentieren das momentane Level der physischen Gesundheit des Ermittlers.
+Geistige-Gesundheit-Marker repräsentieren das momentane Level des mentalen Zustandes des Ermittlers.
+Jeder Spieler erhält jetzt die Anzahl an Geistige-Gesundheit-Markern entsprechend des Geistige-Gesundheit-Wertes sowie die Anzahl von Ausdauermarkern gemäß dem Ausdauerwert des Ermittlers.

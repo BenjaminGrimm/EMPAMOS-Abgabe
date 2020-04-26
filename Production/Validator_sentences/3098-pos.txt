@@ -1,0 +1,19 @@
+Hast du die Ameise eines Mitspielers gefangen, bekommst du eine Belohnung: Bewege eine deiner Ameisen!
+Pro rückwärts gezogenes Feld gibt es immerhin 10 Karotten aus dem Vorrat.
+Stimmt dann die Ziffer auf dem Feld mit seiner aktuellen Position im Rennen überein, so erhält er das Zehnfache dieser Zahl an Karotten aus dem Vorrat.
+Dafür bekommt er dann Karotten und zwar die zehnfache Menge, die seiner aktuellen Position im Rennen entspricht: z.B. vierte Position = 40 Karotten
+Wer es schafft, eine Reihe von 6 Steinen zu vervollständigen, bildet einen Qwirkle und erhält für diese Reihe zusätzlich 6 Sonderpunkte.
+Immer wenn dies der Fall ist, dürft ihr euch die entsprechenden Karten aus dem Stapel der Rätsel-Karten heraussuchen und anschauen.
+Ihr werdet eine oder mehrere neue Rätsel-Karten finden, die ihr sofort aus dem Stapel der Rätsel-Karten heraussuchen und anschauen dürft.
+Ist der Code wirklich richtig?
+Jederzeit, wenn ein Ermittler seine Bewegung an einem Standort beendet, der Hinweismarker enthält, nimmt er sofort beliebig viele oder alle dieser Hinweismarker auf.
+Wenn ein Ermittler Boni auf eine Fertigkeit erhält, so erhält jede spezielle Fertigkeitsprobe, die auf dieser Fertigkeit basiert, ebenfalls diese Boni.
+Wenn jedoch ein Ermittler einen Bonus nur für eine spezielle Fertigkeitsprobe erhält, so gilt dieser Bonus nicht für andere Proben, die auf dieser Fertigkeit basieren.
+Ermittler können Hinweismarker verwenden um Boni bei Fertigkeitsproben zu erhalten oder um Tore permanent zu versiegeln.
+Fertigkeitskarten gewähren typischerweise entweder einen Bonus auf eine spezielle Fertigkeit oder sie erlauben dir den Würfel erneut zu werfen
+Wer zuerst drei Ritter vor sich liegen hat, erhält die Sonderkarte Größte Rittermacht (-»), die 2 Siegpunkte wert ist.
+Für jede vollständige (=lückenlose) waagerechte Reihe gibt es 1 Punkt. Ihr könnt somit höchstens 10 Punkte erreichen.
+Leider bekommt ihr hier aber eben auch keinen Punkt gut geschrieben.
+Sieht man am Schluss genau 3 Symbole einer Farbe, gibt es dafür 3 Bonuspunkte.
+Bei Spiel 2 sind also maximal 19 Punkte erreichbar: 10 Punkte für vollständige Reihen und 9 Bonuspunkte für gleiche Symbole.
+Bei der nächsten Etappenwertung erhältst du dann für jedes Pyramidenpiattchen, dass du dir während der Etappe genommen hast, 1 Ägyptisches Pfund.

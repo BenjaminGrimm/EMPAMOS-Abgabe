@@ -1,0 +1,20 @@
+Legt ein Spieler eine „Aussetzen!“-Karte ab, muss der nächste Spieler aussetzen, d.h. er wird übersprungen.
+Stimmt der Gegenstand, auf den gezeigt wird, mit dem auf der Hinweiskarte nicht überein, muss der betreffende Spieler für diese Runde aussetzen und darf seine Figur in dieser Runde auch nicht bewegen.
+Die Spielreihenfolge wird umgekehrt. Du darfst aussetzen.
+Du darfst aussetzen.
+Du darfst aussetzen und bestimmen, wer als Nächster an der Reihe ist.
+Wer einen solchen Fehler macht, der scheidet sofort aus der laufenden Runde aus.
+Er darf sich keine weiteren Gegenstände mehr nehmen und wird auch nicht bei der Rundenwertung berücksichtigt.
+Aufgehaltene Ermittler erhalten keine Bewegungspunkte und bewegen sich nicht in der Bewegungsphase.
+In der darauf folgenden Spielrunde ist der Ermittler wieder in der Lage, sich normal zu bewegen.
+Wenn der Ermittler durch ein Tor gesogen wird, das durch eine Begegnung auftaucht, so wird er aufgehalten.
+Der Ermittler wird sich in der nächsten Bewegungsphase nicht bewegen.
+Als Ergebnis dieses Schocks und der Verwirrung, wird der Ermittler „Aufgehalten“ und kippt seinen Ermittlermarker auf die Seite.
+Der Ermittler ist auf 1 Geistige Gesundheit wiederhergestellt, erhält also 1 Geistige-Gesundheit-Marker zurück und er hat keine weiteren Begegnungen mehr in dieser Spielrunde.
+Der Ermittler kann an der nächsten Spielrunde wieder normal teilnehmen.
+Der Ermittler ist auf 1 Ausdauer wiederhergestellt, erhält also 1 Ausdauermarker zurück und er hat keine weiteren Begegnungen mehr in dieser Spielrunde.
+Der Ermittler kann an der nächsten Spielrunde wieder normal teilnehmen.
+Der Spieler setzt die komplette nächste Spielrunde aus
+In der dann folgenden Spielrunde nimmt der Spieler wieder normal teil.
+Wird eure Startkarte aufgedeckt, setzt ihr bei diesem Zug aus.
+Ihr dürft auch auf das Legen eines Spielsteins verzichten!

@@ -1,0 +1,86 @@
+{
+  "id": "bc18fa33e4747d02e625c463012cb8eb",
+  "sentences": [
+    "Inhalt",
+    "1 Spielbrett mit Stern in 3 Farben 30 in 3 Farben je 10 pro Farbe",
+    "Ziel des Spiels",
+    "Alle eigenen aus seinem in den gegen\u00fcberliegenden Zacken zu bringen.",
+    "Vor dem Spiel Jeder Spieler w\u00e4hlt seine Farbe und verteilt seine 10 auf die 10 Felder innerhalb seines Zackens wie es 1 zeigt Und Jetzt geht los",
+    "Die Spieler stimmen sich ab",
+    "wer anf\u00e4ngt.",
+    "Das Spiel geht dann im Uhrzeigersinn reihum weiter.",
+    "Pro Durchgang darf immer nur eine Spielfigur gezogen werden.",
+    "Es gibt zwei Zugm\u00f6glichkeiten",
+    "Entweder den Einzelschritt zum n\u00e4chsten Punkt entlang den Linien in jede beliebige Richtung wie es 2 zeigt.",
+    "Oder das \u00dcberspringen eines eigenen oder gegnerischen sofern sich dahinter ein freier Punkt zum Landen nach 2 3 dem Sprung befindet wie es 3 zeigt.",
+    "Die einzelnen Spr\u00fcnge werden in gerader Linie gemacht sind aber mehrere Spr\u00fcnge innerhalb eines Zuges m\u00f6glich dann kann die Richtung nach jedem Sprung ge\u00e4ndert werden.",
+    "Innerhalb eines Zuges darf eine Spielfigur nur einmal \u00fcbersprungen werden.",
+    "Pro Durchgang darf beim nie mehr als eine Figur gezogen werden.",
+    "d\u00fcrfen nie mit verbunden werden.",
+    "\u00dcbersprungene bleiben im Spiel.",
+    "Wer gewinnt?",
+    "Wer als erster Spieler alle seine Spielfiguren in den dem gegen\u00fcberliegenden Zacken gebracht hat ist der Gewinner des Spiels.",
+    "1990 GmbH GmbH Lange Wende 2 4770 Soest"
+  ],
+  "patterns": {
+    "1292": [
+      1,
+      4,
+      8,
+      10,
+      14
+    ],
+    "8528": [
+      10,
+      11,
+      3,
+      5,
+      17,
+      18
+    ],
+    "73230": [
+      4
+    ],
+    "3173": [
+      1,
+      3,
+      4,
+      12
+    ],
+    "164466": [
+      3,
+      4,
+      5,
+      16,
+      17,
+      18
+    ],
+    "3142": [
+      3,
+      18
+    ],
+    "8536": [
+      10,
+      12,
+      13,
+      14
+    ],
+    "1492": [
+      3,
+      5,
+      6,
+      9,
+      11,
+      12,
+      17,
+      18
+    ],
+    "7090": [
+      9,
+      18
+    ],
+    "166903": [
+      18
+    ]
+  }
+}

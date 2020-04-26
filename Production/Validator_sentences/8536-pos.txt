@@ -1,0 +1,135 @@
+Jeder Würfel entspricht einem Aktionspunkt (AP).
+Kann oder will ein Spieler nicht die gesamte Anzahl an Aktionspunkten nutzen, so darf er auch welche verfallen lassen.
+Für jeden Aktionspunkt (AP) darf der Spieler beide Schiffe um jeweils ein Feld orthogonal angrenzend über das Meer bewegen.
+Mit den zur Verfügung stehenden Aktionspunkten können allgemeine Landschafts- oder eigene Dorfplättchen aus dem Vorrat genommen werden.
+Dabei kostet jedes eigene Dorfplättchen, unabhängig von seiner Größe, genau einen Aktionspunkt.
+Die allgemeinen Landschaftsplättchen kosten ihrer Größe entsprechend 1-6 Aktionspunkte.
+Je Aktionspunkt wird die Zählscheibe auf der Fortschrittsleiste des Spielertableaus um ein Feld weiter geschoben.
+Mit den zur Verfügung stehenden Aktionspunkten werden die neben dem eigenen Spielertableau liegenden allgemeinen Landschafts- und Dorfplättchen auf Inseln, auf denen mindestens ein eigenes Kontor steht, verbaut.
+Für den Bau jedes Dorfplättchens benötigt man jeweils einen Aktionspunkt.
+Für den Bau jedes allgemeinen Landschaftsplättchens braucht man, je nach Größe, 1-6 Aktionspunkte.
+Mit den zur Verfügung stehenden Aktionspunkten kann man sich aus der Auslage auf dem Zentralplan weitere Warenmarker kaufen.
+Diese kosten 2, 3 oder 4 Aktionspunkte.
+Für jeden Aktionspunkt setzt der Spieler seine Reihenfolgescheibe auf der Sonderaktionsleiste ein Feld vor.
+Durch Abgabe von Gold kann jeder Spieler die Anzahl seiner Aktionspunkte beliebig erhöhen.
+Wählt der Besitzer die abgebildete Aktion, so erhält er zusätzlich 2 Aktionspunkte.
+Wählt der Besitzer eine der beiden Aktionen, so erhält er zusätzlich 1 Aktionspunkt.
+Wählt der Besitzer die Aktion Schifffahrt, kann er einmalig den Marker einsetzen und erhält zusätzlich 8 Aktionspunkte für beide Schiffe.
+Er muss die Kosten für beide Plättchen mit Aktionspunkten bezahlen können.
+Drei Aktionspunkte (AP) hat jeder zur Verfügung, wenn er an die Reihe kommt.
+3 Aktionspunkte pro Spieler und Runde
+Für 1 AP kann ein Spieler eine der drei offen ausliegenden Karten auf die Hand nehmen.
+Für 2 AP kann direkt die oberste Karte vom Aufnahmestapel gezogen werden.
+Für 1 AP kann ein Spieler eine seiner Handkarten mit der Rückseite nach oben vor sich ablegen.
+Für 1 AP kann ein Spieler eine seiner Handkarten offen an einen Geschäftemacher bzw. die dort bereits liegende/n Karte/n (»Reihe«) anlegen.
+Jeder Spieler kann Art und Reihenfolge der Aktionen frei bestimmen.
+Da nach der dritten Wertung das Spiel sofort endet, kann es vorkommen, daß hier ein Spieler eventuell einen oder zwei Aktionspunkte verliert.
+Wenn du am Zug bist, darfst du bis zu 4 Aktionen ausführen, die du aus folgenden drei Möglichkeiten wählen kannst: „Aufdecken&quot;, „Laufen&quot; und „Schieben&quot;.
+Du darfst die Aktionen „Aufdecken&quot; und „Laufen&quot; beliebig auf deine 4 Mäuse verteilen.
+Die Aktion „Schieben&quot; darfst du pro Zug nur ein einziges Mal ausführen.
+Ansonsten kannst du sowohl die Anzahl als auch die Reihenfolge der Aktionen beliebig kombinieren.
+Es ist erlaubt, weniger als 4 Aktionen durchzuführen.
+Jedes Aufdecken eines Daches zählt als 1 Aktion.
+Jedes Feld, über das dabei gezogen wird, zählt als eine Aktion „Laufen&quot;.
+Als je 1 Aktion zählt
+Wenn du die Aktion „Schieben&quot; ausführen möchtest, nimmst du das übrig gebliebene Plättchen und steckst es in einen der Schlitze.
+Schieben ist die einzige Aktion, die du nur einmal pro Zug ausführen darfst.
+Jeder Spieler wählt eine Farbe und platziert das AktionsRad seiner Farbe derart vor sich, dass die Seite mit 0-3 Aktionen sichtbar ist und der Kartenrand mit der 0 in Richtung Spielfeld zeigt.
+1) Erwerb von Aktionspunkten
+2) Benutzung aller oder einiger Aktionspunkte
+Phase 1: Erwerb von Aktionspunkten
+Der erste Spieler am Zug fügt seinem Aktions-Rad 2 Aktionspunkte (2AP) hinzu, indem er es so dreht, dass der Kartenrand mit der 2 in Richtung Spielfeld zeigt.
+Überschreitet die Gesamtzahl 3, dann drehe das Aktions-Rad auf die Seite 4-7, um die Gesamtzahl der verfügbaren Aktionspunkte des Spielers anzuzeigen.
+Phase 2: Benutzung aller oder einiger Aktionspunkte
+Der aktive Spieler darf so viele Aktionen ausführen, wie sein Aktionsrad anzeigt.
+Er muss nicht notwendigerweise alle Aktionspunkte verbrauchen.
+Bis zu 3 Aktionen können für einen späteren Spielzug aufgespart werden.
+Die Aktionspunkte können entweder zwischen mehreren Charakteren aufgeteilt oder auch alle mit einem einzigen Charakter verbraucht werden.
+In diesem ersten Tutorial kannst du 1AP ausgeben, um:
+Ein Raum kann für 1AP aufgedeckt (offen gelegt) werden, wenn einer deiner Charaktere direkten Zugang zu ihm hat, bevor er aufgedeckt wird.
+Daher kann ein solcher Raum für je 1AP aufgedeckt werden.
+Um den Raum zu betreten muss nach der Aktion „Raum aufdecken&quot; eine weitere Aktion „Charakter bewegen&quot; ausgeführt werden.
+Bezahle 1AP um einen deiner Charaktere zu bewegen.
+Die Zahl in weiß neben dem Bewegungs-Symbol auf der Charakterkarte bestimmt, wie viele Zonen weit sich der Charakter für 1AP bewegen kann (z.B. kann der Naga für 1AP 3 Zonen weit ziehen).
+Zudem kannst du weitere AP ausgeben, um eine erneute Bewegung auszuführen.
+Für einen Bewegungspunkt kann ein Charakter sich in der Startzone bewegen und sich dem anderen Raum gegenüberstellen.
+Manche sind permanent und benötigen nicht den Verbrauch von AP um sie zu nutzen.
+Andere benötigen, gekennzeichnet durch das neben ihrem Fähigkeitensymbol, den Verbrauch von AP.
+Der blaue Spieler verbraucht 1AP, um seinen Naga 3 Zonen weit zu bewegen.
+Andere dagegen müssen, gekennzeichnet durch das i &#039;, neben ihrem Fähigkeitensymbol, mit AP aktiviert werden.
+Für 1AP kann ein Charakter, der sich in der Zone mit dem Drehmechanismus befindet, den Raum um 90° in Pfeilrichtung drehen.
+Er kann auch 2AP für eine 180°- oder 3AP für eine 270°-Drehung aufwenden, usw.
+Er kann sogar beide im Wechsel drehen, solange er nur pro 90°-Drehung eines der Räume 1AP verbraucht.
+1AP erlaubt es dir nur, jeweils einen Raum zu drehen!
+Du kannst nicht beide Räume mit dem gleichen 1AP drehen.
+Eine Sprungkarte zu spielen, kostet 1AP.
+In diesem Tutorial wird jetzt auch folgende Aktion für 1AP verfügbar: • einen Nahkampf beginnen
+Ein Charakter kann gegen einen gegnerischen Charakter, der sich in der gleichen Zone befindet einen Nahkampf beginnen, indem er 1AP verbraucht.
+Der aktive Spieler kann einen zusätzlichen 1AP ausgeben, um einen weiteren Nahkampf zu beginnen, wenn er dies wünscht.
+Ein verwundeter Charakter verliert seine Spezialfähigkeiten, es sei denn, in der Charakterbeschreibung ist ausdrücklich eine spezielle Ausnahme formuliert, und kann keine Aktionen ausführen.
+Der blaue Spieler verbraucht 1AP und erklärt, dass sein Naga den gelben Koloss angreift.
+Du musst trotzdem den 1AP zahlen.
+In diesem Tutorial wird jetzt auch folgende Aktion für 1AP verfügbar: • einen Fernkampf beginnen
+Verbrauche 1AP, um den Fernkampf wie einen normalen Nahkampf auszulösen.
+Die Kosten für den Gruppenkampf betragen weiterhin insgesamt 1AP inklusive aller beteiligten Schützen.
+Für einen weiteren AP kann der blaue Kleriker mit dem Bogen im selben Spielzug auf den gelben Goblin schießen.
+Die Meuchlerin kann für 1AP angrenzende Fallgitter öffnen und schließen, als ob sie einen Schlüssel bei sich trüge (siehe Schlüssel im Abschnitt Objekte).
+Der Kleriker kann einen Verwundeten, der sich in der gleichen Zone befindet, für 1AP heilen.
+Der Koloss kann für 1AP ein angrenzendes Fallgitter zerstören.
+Dagegen kann es aber den Drehmechanismus eines Raumes auslösen und diesen für 1AP um 90 drehen.
+Der Golem zerstört für 1AP alle Mauern des Raumes, in dem er sich gerade befindet.
+Ein Mechanork, in einer Zone mit einem Drehmechanismus, kann den Raum für 1AP in eine beliebige Richtung um 90 drehen.
+Für den 1AP kann er stattdessen auch den Partnerraum (gleiche Farbe) in eine beliebige Richtung drehen.
+Der Taschendieb kann für 1AP einem gegnerischen Charakter in derselben Zone ein Objekt stehlen.
+Einmal pro Spielzug kann der Samurai einen Nahkampf für 0AP beginnen.
+Die Telekinetin kann für 1AP ferngesteuert ein Objekt bewegen.
+Die Diebin kann für 1AP angrenzende Fallgitter öffnen und schließen, als ob sie einen Schlüssel bei sich trüge (siehe Schlüssel im Abschnitt Objekte).
+Wird der Troll verwundet, kann er sich für 1AP regenerieren.
+Die Wand-Läuferin kann für 1AP von ihrer Zone aus durch eine angrenzende Mauer hindurch laufen, um in der Zone auf der anderen Seite der Mauer wieder zu erscheinen.
+Eine Doppel-Mauer, die zwei Zonen voneinander trennt gilt für diese Aktion als einfache Mauer und kann mit nur 1AP überwunden werden.
+Befindet sich der Krieger angrenzend zu einem geschlossenen Fallgitter, kann er es für 1AP zerstören.
+Wer den Bogen bei sich trägt, kann, wie für jeden Kampf üblich, 1AP verbrauchen, um einen Fernkampf zu beginnen.
+Ein Charakter, der einen Schlüssel bei sich trägt, kann für 1AP ein angrenzendes geschlossenes Fallgitter öffnen oder ein offenes Fallgitter schließen.
+Ein Charakter mit der Spezialfähigkeit magische Begabung kann für 1AP die Schriftrolle benutzen, um den auf ihr niedergeschriebenen Zauberspruch zu wirken, d.h. einen Feuerball auf einen anderen Charakter abzufeuern.
+Ein Charakter mit magischer Begabung kann für 1AP die Schriftrolle benutzen, um den Raum, in dem er sich gerade befindet mit einem angrenzenden Raum auszutauschen (nicht diagonal).
+Die Zahl auf der ausgelegten Paddelkarte zeigt an, um wie viele Flussfelder man sein(e) Kanu(s) bewegt.
+Wer beide Kanus bewegt, zieht jedes der beiden Kanus um die komplette Zugweite.
+Wer an einer Fundstelle einen Edelstein auflädt oder (aus taktischen Gründen) ablädt, verbraucht dafür jeweils 2 Paddelpunkte, die er von der Zugweite seines Kanus abzieht.
+Dabei dürfen ausnahmsweise (überzählige) Paddelpunkte verfallen.
+Normalerweise kann ein Spieler nur 1 Aktionskarte ausspielen (1 freie Aktion).
+Jeder Spieler hat 1 freie Aktion
+Er kann durch bestimmte Aktionskarten weitere Aktionen erhalten.
+„+X Aktion(en)“ - Der Spieler darf X weitere Aktionskarten ausspielen.
+Danach werden die Punktekarten ebenfalls in 3 offenen Stapeln ausgelegt: Ein Anwesen-, ein Herzogtum- und ein Provinzstapel.
+Von den nicht ausgelegten Punktekarten nimmt sich jeder Spieler 3 Anwesen (siehe Kasten unten: Der Kartensatz des Spielers bei Spielbeginn).
+Eventuell übriggebliebene Punktekarten werden in die Schachtel zurückgelegt.
+Liegen bereits alle Hinweis-Plättche mit der schwarzen Seite nach oben, darf diese Aktion nicht gewählt werden!
+ODER
+Ihre Geschwindigkeit beträgt momentan 4, wodurch sie 4 Bewegungspunkte für diesen Zug zur Verfügung hat.
+Wenn sich der Ermittler des Spielers in Arkham befindet (z.B. im Französischen Viertel), erhält er so viele Bewegungspunkte wie sein Geschwindigkeitswert auf dem Ermittler-Charakterbogen anzeigt.
+Ein Spieler kann einen Bewegungspunkt verwenden, um von einem Gebiet des Spielbrettes zu einem anderen Gebiet zu gelangen, solange beide Gebiete durch eine gelbe Linie verbunden sind
+Ein Bewegungspunkt erlaubt dem Ermittler sich von einem Standort zu einem Straßengebiet, von einem Straßengebiet zu einem anderen oder von einem Straßengebiet zu einem Standort zu bewegen
+Jeder Zug ist eine Fahrt mit dem Bus, der U-Bahn oder mit den bekannten Londoner Taxis.
+Man muß dafür ein entsprechendes Ticket abgeben.
+Der Spieler mit dem Etappen-Startspielermarker beginnt die erste Etappe (und damit das Spiel), indem er in seinem Zug genau 1 Aktion durchfuhrt.
+Dann führt der Spieler zu seiner linken 1 Aktion durch, dann der folgende Spieler usw.
+Wenn du an die Reihe kommst, hast du die Wahl aus 4 verschiedenen Aktionsmöglichkeiten, von denen du genau 1 durchführen musst:
+Solange sich noch Etappen-Wettplättchen auf dem Spielplan befinden, darfst du dir mit dieser Aktion eines davon nehmen, egal wie viele bereits vor dir liegen und welche Farben diese haben.
+Sollte dein Wüstenplättchen bereits auf der Rennstrecke liegen, darfst du es mit dieser Aktion auf ein anderes Feld umlegen (nach denselben Regeln).
+Als Aktion kannst du auf das tolle Kamel wetten.
+Immer wenn du an die Reihe kommst, wählst du eine der folgenden vier Aktions-Möglichkeiten:
+Wer an der Reihe ist, muss genau eine der folgenden 4 Aktionen ausführen:
+2. Aktion wählen und durchführen
+Es gibt zwei Möglichkeiten:
+Aktionstaste wählen
+Aktion ausführen
+Erklären Sie bitte den  Kindern vor Spielbeginn die vier mög­lichen Zugrichtungen und die Funktionsweise der Richtungs­tasten.
+Außerdem stehen jedem Spieler jedes Mal, wenn er an der Reihe ist, 10 Aktionspunkte (AP) für seine Aktionen im Spiel zur Verfügung.
+Sobald Sie an der Reihe sind, dürfen Sie bestimmte Aktionen in beliebiger Reihenfolge ausführen, für die Sie unterschiedlich viele AP verbrauchen.
+AP sind also eine Art Kosten für jede Ihrer Aktionen.
+Das Handsymbol zeigt an, wie viele Aktionspunkte euren Charakteren zur Verfügung stehen, abhängig von der Anzahl ihrer Lebenspunkte: Eure Handkarten und Aktionspunkte gelten für beide Charaktere gemeinsam.
+Auch eure Aktionspunkte könnt ihr beliebig auf beide Charaktere aufteilen.
+Dafür hast du Aktionspunkte zur Verfügung, die du beliebig unter deinen beiden Charakteren aufteilen darfst.
+Die Anzahl deiner Aktionspunkte für den aktuellen Zug bestimmst du zu Beginn des Zugs (siehe S. 5, Die Charaktere).
+ENTW EDER 2 der folgenden Einzelaktionen in beliebiger Reihenfolge (es darf auch zweimal dieselbe gewählt werden):
+O D ER folgende Kombi-Aktion:

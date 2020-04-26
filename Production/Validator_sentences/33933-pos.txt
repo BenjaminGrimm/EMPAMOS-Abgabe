@@ -1,0 +1,66 @@
+Dann bewegt ihr euren Stein auf der Wertungstafel einfach weiter.
+Passe deinen Stufenzähler entsprechend an.
+Steige eine Stufe auf.
+Du hältst deine augenblickliche Stufe mit dem Stufenzähler fest.
+Du kannst nicht höher aufsteigen, als bis Stufe 10.
+Jede Zahlenkarte zählt 1 Minuspunkt, jede Aktionskarte 5 Minuspunkte und jede Mogel-Motte 10 Minuspunkte.
+In jedem Tempel wird separat festgestellt, wer die meisten Punkte in diesem Tempel erreicht hat
+Nachdem 3 Runden gespielt sind, zählen alle Spieler ihre erhaltenen Punkteplättchen und Bonusplättchen zusammen.
+Um das Spielbrett herum verläuft die Ruhmanzeige, auf der die Spieler ihren aktuellen Stand an Ruhm festhalten
+Für jeden im Spiel enthaltenen Clan gibt es einen zugehörigen Clanbogen, auf dem du den aktuellen Stand deiner Wut sowie deiner Werte und Aufrüstungen festhältst.
+Immer wenn sich ein Wert um 1 Stufe erhöht, bewegst du das entsprechende Clanplättchen ein Feld nach rechts.
+Wer mit einer Spielfigur die ganze Laufbahn einmal vollständig durchlaufen hat, zieht mit ihr auf die Zielfelder seiner Farbe vor.
+Super! Nimm den grauen Pokal und setze diesen von deinem eigenen Pokal ausgehend ein Feld weiter Richtung Ziel.
+Setze deinen Pokal an die Stelle des grauen Pokals und lege diesen wieder neben die Punkteleiste.
+Zeigt der graue Pokal bereits von dir erspielte Punkte an, sind diese verloren und der graue Pokal kommt zurück neben die Punkteleiste.
+Das Spiel endet, sobald ein Spieler seinen Pokal auf oder über das letzte Feld der Punkteleiste hinaus zieht und damit die „Rumpel-Raserei&quot; gewinnt.
+Wenn der Jäger Gesundheitspunkte verliert, wird dieser Marker entsprechend versetzt.
+Jeder Jäger erhält zu Beginn des Spiels einen dieser Marker und legt ihn auf die höchste Zahl seiner Gesundheits-Anzeige.
+Sobald ein Jäger von Dracula oder einem seiner neuen Vampire gebissen wird, erhält er einen „Gebissen“-Marker, den er in ein leeres Biss-Feld auf seinem Charakterbogen legen muss.
+Der Zustand von Draculas Blutvorrat wird mit diesen Markern auf seinem Charakterbogen angezeigt.
+Ständetafel (sozialer Aufstieg) mit Repräsentationskosten je Stufe
+4 Wappenplättchen, von denen er eines auf die unterste Stufe („0“) der Ständetafel legt.
+Hat ein Spieler nicht genug Geld, fällt er mit seinem Wappenplättchen auf die Stufe zurück, deren Kosten er noch vollständig bezahlen kann.
+Ein Spieler kann pro Runde um bis zu 2 Stufen aufsteigen.
+Es gewinnt der Spieler, der am Spielende mit seinem Wappenplättchen auf der Ständetafel am höchsten steht.
+Am Ende der Partie führt jeder Schuld-Marker für seinen Besitzer zu einem Verlust an Siegpunkten.
+Jeder von euch nimmt sich 1 Spielübersicht, die 3 Marker der von ihm gewählten Spielerfarbe sowie 1 Zettel vom Wertungsblock (das Forschungslabor).
+Markiert nun auf eurem Forschungslabor auf der von euch gewürfelten Farbe entsprechenden Forschungsleiste 1 Forschungsfortschritt (FF).
+Sie markiert auf der entsprechenden braunen Forschungsleiste die erste Bohne.
+Tragt auf eurem Forschungslabor auf dem jeweils letzten Feld der Forschungsleisten (mit der Abbildung einer Kaffeetasse) die Punkte ein, die die farblich entsprechende Fähigkeit laut Forschungsuntersetzer wert ist.
+Markiere mit einem Stift die entsprechende Anzahl an GP auf der Genusspunkteleiste deines Forschungslabors.
+Markiere dir entsprechend viele Forschungsfortschritte (FF) auf der zugehörigen Forschungsleiste deines Forschungslabors.
+Immer wenn du 1 FF einer bestimmten Farbe erhältst, markierst du ihn auf der entsprechenden Leiste.
+Jede Fähigkeit auf dem Forschungslabor zeigt eine Zahl von Genusspunkten (in einer Kaffeetasse), die du in dem Moment erhältst, in dem du die entsprechende Forschungsleiste abschließt.
+Eine Forschungsleiste gilt als abgeschlossen, wenn ihr letztes Feld (mit der Abbildung einer Kaffeetasse) markiert wird.
+Pro Aktion kann man die Hauptstadtstufe maximal um 1 erhöhen. Dazu bezahlt man die erforderlichen Rohstoffe (indem man sie aus der eigenen Schatzkammer in den allgemeinen Vorrat legt) und rückt den Kontrollmarker auf der Hauptstadttafel um 1 Feld nach rechts.
+Sobald das Feld unter der Kontrolle des aktiven Spielers ist, erhält er die auf dem Feld angegebene Anzahl an SP (er rückt seinen Machtmarker auf der Hauptstadttafel entsprechend weiter).
+Da jede Artefaktkarte 1 SP wert ist, müssen die Siegpunkteleisten beider Beteiligten dementsprechend angepasst werden.
+Alle Kontrollmarker des Verlierers werden durch Kontrollmarker des Siegers ersetzt und die SP-Leisten beider Spieler dementsprechend angepasst.
+Nach dem Sieg über einen Begegnungsmarker, dreht man den Marker um und überprüft, wie viele EP der Held erhält.
+Der Marker wird als Trophäe neben den Heldenbogen gelegt und bleibt dort, bis man beschließt die EP auszugeben, um den Helden eine Stufe aufsteigen zu lassen.
+Jeder Spieler erhält eine Wertungstafel sowie je einen Marker pro Farbe, die auf das entsprechende farbige Feld zu Beginn jeder Zählleiste auf die Wertungstafel gestellt werden.
+Entsprechend der Punktezahl pro Farbe dürfen die Marker auf der Wertungstafel vorwärts gezogen werden.
+Es gewinnt der Spieler, der mit dem letzten Marker auf seiner Wertungstafel die meisten Punkte erzielt hat.
+Jeder Spieler erhält eine Manaskala (Werte von 0 bis 8), 1 Zylinder und 1 Balken.
+Mit dem Zylinder wird die aktuelle Manamenge eines Spielers, mit dem Balken seine maximal mögliche Menge festgehalten.
+Dazu werden die Zylinder und der Balken auf der Skala jeweils um ein Feld nach rechts verschoben.
+Der Spieler muss jetzt so viele Manapunkte bezahlen, wie die Zahl auf dem transportierten Marker angibt. Dazu wird der Zylinder auf der Skala um die genannte Anzahl an Feldern nach links bewegt.
+Jeder Spieler bildet mit seinen Markern einen kleinen Stapel, damit die Spieler den Überblick behalten, wer gerade führt.
+Eine Partie Mesopotamien endet sofort, wenn ein Spieler alle vier eigenen Opfer-Marker auf dem Tempelplatz abgelegt hat.
+Jeder Bogen - einer für jeden Spieler - hat einen Ausdauer- und Bargeldzähler, 3 Lagermöglichkeiten für Gegenstände und den Zähler für die erledigten Aufgaben des Planes.
+Sie werden benutzt um den momentanen Stand an Ausdauer und Bargeld eines Spielers anzuzeigen und für das Wählen des Sündenbocks.
+23 Marker, um die erledigten Elemente des Plans auf einem Charakterbogen zu markieren.
+Jedes Mal, wenn ein Bergsteiger erfolgreich höher klettert (d. h. auf ein Feld mit mehr Siegpunkten als das Ausgangsfeld), wird der Marker (gleiche Figur) dieses Bergsteigers auf der Siegpunktleiste entsprechend vorgesetzt.
+Der Spieler mit der höchsten Summe an Siegpunkten seiner beiden Bergsteiger ist der Sieger des Spiels.
+Falls ein Bergsteiger jemals weniger als 1 Akklimatisierungspunkt hat, stirbt er. Seine Siegpunkte werden auf 1 Siegpunkt reduziert und die Figur wird vom Spielplan genommen.
+Die Punkte werden vermerkt, indem der Marker des Bergsteigers, der die Punkte erhält, auf der Spielertafel entsprechend vorgesetzt wird.
+Jeder Spieler erhält eine eigene Spielertafel, sowie zwei Bücherei Marker und vier Magiesteine in seiner Spielfarbe.
+Die Magiesteine werden wie folgt platziert:
+Jeder Spieler hat eine eigene Spielertafel, welche in die folgenden Bereiche aufgeteilt ist
+Dazu zieht der Spieler seinen Magiestein, um die auf dem Würfel angezeigte Anzahl Felder auf der Kristalltafel vorwärts.
+Sie dienen der Darstellung von Stärke (rot), Talent (blau), Lebensenergie (grün) und Gold (gelb).
+Die Punktezähler sollen die Spielübersicht erleichtern.
+Wenn ein Charakter Stärkepunkte verliert, muß er Punktezähler abgeben.
+Zu einem beliebigen Zeitpunkt während des Spiels kann er die Monsterkarte gegen Stärkepunktzähler eintauschen, wobei er für jeweils 7 Stärkepunkte auf den Monsterkarten 1 Stärkepunkt erhält.
+Die Gesamtstärke ergibt sich aus den Stärkepunktzählern und der Stärke, die in seinen magischen Gegenständen steckt oder von seinen Begleitern beigesteuert wird.

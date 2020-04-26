@@ -1,0 +1,261 @@
+Jeder Spieler legt verdeckt eine seiner Zahlenkarten auf den Tisch.
+Hat jeder Spieler seine Zahlenkarte verdeckt abgelegt, werden diese Karten gleichzeitig aufgedeckt.
+Wer die niedrigste Zahlenkarte ausgespielt hat, muss die Geierkarte nehmen!
+Legen in einer Runde zwei oder mehr Spieler Zahlenkarten mit demselben Wert aus, heben sich diese Karten gegenseitig auf.
+Wer die niedrigste Karte ausgespielt hat, legt sie als Erster in eine der vier Reihen, dann kommt die zweitniedrigste Karte in eine Reihe usw., bis auch die höchste Karte dieser Runde in einer Reihe untergebracht wurde.
+In jedem Spiel bestimmen 4 Auktionsschilder, nach welchen Regeln die Tiere in den Gehegen versteigert werden.
+Jedem Auktionsschild sind auf dem Spielplan zwei Gehege zugeordnet.
+Die Klassische Auktion seht ihr auf dem Spielplan bereits als Standardauktion aufgedruckt.
+Spielt in der ersten Partie mit folgenden 4 Auktionen: der Holländischen Auktion, der Auktion Katze im Sack und der Klassischen Auktion (2x).
+Die Standardversteigerung gilt somit in dieser Partie nur auf den beiden anderen Holzschildern.
+Die Erklärung aller Versteigerungen findet ihr im Beiheft ab S. 2.
+Ausschließlich bei dieser Auktions-Art liegen Tiere verdeckt aus ©:
+Stapelt in den beiden zur Auktion gehörenden Gehegen 3 Tiere verdeckt übereinander
+Legt außerdem noch den Auktionshammer und den Kuhflecken-Würfel bereit.
+Wer zu einem der Gehege zieht, versteigert Tiere an seine Mitspieler
+Welche Versteigerungsart dafür gilt, seht ihr auf dem Auktionsschild oberhalb des Geheges.
+Der Spieler, der am Zug ist, ist der aktuelle Versteigerer.
+Das heißt, er leitet die Versteigerung und erteilt dem Höchstbietenden den Zuschlag.
+Er selbst darf bei der Versteigerung nicht mitbieten.
+Das Spiel geht über vier Auktionen.
+In jeder Auktion werden Kunstwerke von fünf Künstlern unterschiedlicher Stilrichtungen angeboten und auf verschiedene Weise versteigert.
+Jede Auktion besteht aus einer Vielzahl von einzelnen Versteigerungen.
+Sieger ist, wer nach 4 Auktionen das meiste Geld besitzt.
+Der Startspieler wählt aus seinen Handkarten eine aus, die er offen versteigert.
+Die Versteigerungsart einer Karte wird durch das Symbol am Kartenrand geregelt.
+In MODERN ART werden vier Auktionen gespielt.
+Jede Auktion besteht aus einer Vielzahl einzelner Versteigerungen von Karten (Künstlerwerken).
+Nach jeder der vier Auktionen wird abgerechnet.
+Die Spieler erhalten zum einen Geld (Chips) für die Karten, die sie versteigern.
+Zum anderen erhalten sie am Ende einer Auktion Geld für die Karten, die sie ersteigert haben.
+Sieger ist, wer nach insgesamt vier Auktionen das meiste Geld besitzt.
+Der Bankhalter wird Startbieter bei der ersten Auktion.
+Das Mindestgebot für jede Aktie beträgt 1 Taler.
+Der Startbieter gibt mindestens das Mindestgebot ab oder er passt.
+Danach gibt jeder Spieler der Reihe nach im Uhrzeigersinn ein höheres Gebot als sein Vorgänger ab oder passt.
+Wer passt, steigt aus der laufenden Versteigerung aus.
+Es wird so lange geboten, bis alle Spieler außer einem gepasst haben.
+Der Spieler mit dem höchsten Gebot bezahlt den gebotenen Betrag an die Eisenbahngesellschaft (das Geld wird zur entsprechenden Gesellschaft an den Spielplanrand gelegt) und erhält dafür die Aktie, die er offen vor sich auslegt.
+Gibt kein Spieler ein Gebot auf die Aktie ab, bekommt der Startbieter die Aktie kostenlos.
+Der Spieler, der die Aktie bekommen hat, wird Startbieter bei der folgenden Auktion.
+Die Auktionen laufen stets gleich ab.
+Nachdem alle 8 Startaktien versteigert wurden, wird die Spielerreihenfolge bestimmt (siehe „Ermitteln der Spielerreihenfolge“, Seite 4).
+Versteigerung einer Aktie
+Der Spieler versteigert eine Aktie im Besitz einer beliebigen Gesellschaft.
+Die dritte Aktie einer jeden Gesellschaft darf erst dann versteigert werden, nachdem von allen 8 Gesellschaften je 2 Aktien im Umlauf sind.
+Der weitere Ablauf unterscheidet sich nicht von der Anfangsversteigerung:
+Reihum im Uhrzeigersinn gibt jeder Spieler ein Gebot ab, welches höher sein muss als das vorangegangene, oder er passt.
+Wer gepasst hat, darf in die laufende Auktion nicht wieder einsteigen.
+Es wird so lange geboten, bis alle Spieler außer einem gepasst haben.
+Der Spieler mit dem höchsten Gebot erhält den Zuschlag und bezahlt den gebotenen Betrag an die Gesellschaft.
+Passen alle Spieler, verbleibt die Aktie bei der Gesellschaft und kann zu einem späteren Zeitpunkt erneut angeboten werden.
+Es ist nicht immer von Vorteil, eine Aktie zum geringst möglichen Preis zu ersteigern.
+In umkämpften Auktionen sichern sich die Spieler die besten Fabriken und die wertvollsten Statussymbole für ihr eigenes Imperium.
+Eine Karte mit einem Auktionshammer kann jederzeit in Phase 3 eingesetzt werden.
+Eine Karte mit einem Blitz kann jederzeit im Spiel eingesetzt werden.
+3. Karten ersteigern
+Die ausliegenden Karten in der Börse werden der Reihe nach versteigert, beginnend mit der Karte, die am nächsten zum Nachziehstapel liegt.
+Der Startspieler beginnt, indem er entweder ein Gebot nennt, welches das Mindestgebot der Karte nicht unterschreiten darf, oder passt.
+Die anderen Spieler haben im Uhrzeigersinn die Möglichkeit das Gebot zu erhöhen oder zu passen.
+Wer einmal gepasst hat, kann für diese Karte nicht wieder in die Versteigerung einsteigen.
+Ist nur noch ein Spieler übrig, erhält er den Zuschlag, bezahlt das Gebot an die Bank und legt die Karte offen vor sich ab.
+Der Gewinner der Versteigerung erhält außerdem den Startspielerstein.
+Er beginnt die Versteigerung der nächsten Karte in der Reihe.
+Wird auf eine Karte gar kein Gebot abgegeben, wird sie ein Stück nach oben geschoben und bleibt liegen (siehe Beispiel oben).
+Findet sich in der folgenden Runde wieder kein Spieler, der die Karte ersteigern will, kommt sie auf den Ablagestapel.
+Bekommt ein Spieler den Zuschlag auf eine Karte, kann sie aber nicht bezahlen, weil er zu viel geboten hat, muss er sein ganzes Geld der Bank geben und die Versteigerung der Karte wird ohne ihn wiederholt.
+Die Versteigerungsphase dauert so lange, bis jede Karte einmal angeboten wurde.
+In dieser Phase können Aktionskarten mit dem Symbol gespielt werden - jedoch nicht während der Versteigerung einer Karte, also zwischen dem ersten Gebot und dem Zuschlag.
+Bekundet er Interesse an einem Auftrag, so können andere Spieler, die auch Interesse haben (oder den Preis hochtreiben wollen) für diesen Auftrag mitbieten.
+Alle Spieler können der Reihe nach - wie bei einer Auktion - ein Angebot abgeben.
+Als erstes darf der linke Nachbar des Spielers, der den Auftrag ausgewählt hat, ein Angebot abgeben oder passen.
+Danach folgen reihum die nächsten Spieler.
+Der Spieler, der den Auftrag ausgewählt hat, ist im Vorteil.
+Er braucht gegenüber seinen Mitbewerbern nicht höher zu steigern, um den Auftrag zu erhalten.
+Es genügt, wenn er mit dem letzten Angebot gleichzieht.
+Die Spieler, die nicht gepasst haben, können in der nächsten Bietrunde das bislang höchste Gebot noch erhöhen oder passen.
+Der Spieler, der den Auftrag ersteigert, muss den Kaufpreis laut Kostentabelle sofort an die Bank zahlen.
+Hat kein anderer Spieler ein Angebot abgegeben, erhält der Spieler, der den Auftrag ausgewählt hat, diesen ohne Zahlung.
+Bei KNOCK OUT werden die Bauteile versteigert.
+Jeder Spieler baut aus den ersteigerten Teilen seinen eigenen Turm.
+1. „Höchstbietend“
+Der Auktionator sagt: „Höchstbietend!“ und gibt selbst das erste Gebot ab.
+Dieses Gebot darf „NULL“ sein. Durch Zurufen können die Spieler das jeweils letzte Gebot beliebig erhöhen.
+Wer das höchste Gebot gemacht hat, legt die gebotenen Diamanten zurück in den Sack und erhält das Bauteil.
+Die zweite Versteigerungsform ist ungewöhnlich:
+Hier bietet der Auktionator einen unliebsamen Baustein an.
+Die Spieler müssen steigern, um ein solches Teil nicht zu erhalten.
+Die Aufforderung des Auktionators lautet in diesem Fall „Zum Ablehnen!“.
+Ohne ein Angebot zu machen, reicht er das Bauteil an seinen linken Nachbarn weiter. Dieser muss das Bauteil entweder nehmen oder einen Diamanten BIETEN, um es seinerseits an seinen linken Nachbarn weitergeben zu können. Dieser muss schon auf zwei Diamanten erhöhen, um das schwierige Bauteil nicht zu bekommen. Der nächste Spieler muss schon drei Diamanten bieten usw. Die Spieler legen die eingesetzten Diamanten vor sich ab, bis die Ablehnungsrunde beendet ist. Erst dann wird bezahlt!
+Wer aussteigt (nicht höher bieten möchte oder kann, sobald das Bauteil ihn erreicht), erhält das Bauteil umsonst zum Einbau. Seine Mitspieler jedoch müssen ihr jeweils letztes Gebot an die Kasse entrichten.
+Kommt das abzulehnende Bauteil nochmals zum Auktionator zurück, muss auch dieser selbst mitbieten, wenn er es nicht haben will.
+Versteigerung der Rennwagen
+Nacheinander finden 6 Versteigerungen statt - auch wenn weniger als 6 Spieler teilnehmen.
+Der Sieger jeder Versteigerung erhält einen Rennwagen seiner Wahl, wobei die Auswahl nach und nach immer kleiner wird.
+Ermitteln Sie auf beliebige Weise einen Spieler, bei dem die Versteigerung startet.
+Dieser Spieler muss ein Startgebot von mindestens 10.000 Top Race Euro abgeben, er darf nicht passen.
+Danach hat jeder Spieler reihum im Uhrzeigersinn die Möglichkeit, ein höheres Gebot abzugeben oder zu passen.
+Wer einmal passt, kann erst zur nächsten Versteigerung wieder einsteigen.
+Alle Gebote müssen 10.000 Top Race Euro oder ein Vielfaches davon betragen.
+Sobald alle Spieler gepasst haben, endet die erste Versteigerung.
+Falls Sie das höchste Gebot abgegeben haben, zahlen Sie den gebotenen Betrag an die Bank.
+Außerdem sind Sie als Gewinner der ersten Versteigerung auch der Startspieler des Rennens.
+Um einen Tempel bauen zu können, müssen Sie in geheimen Versteigerungen Grundstücke erwerben.
+Die Grundstücke versteigern
+Bei dieser Versteigerung müssen alle Spieler ein Angebot abgeben.
+Wer am meisten bietet, darf sich zuerst ein Grundstück aussuchen.
+Wer das zweithöchste Angebot macht, darf sich von den übrigen zwei Karten ein Grundstück nehmen.
+Die dritte Grundstückskarte wird auf den Ablagestapel gelegt und wird später erneut versteigert.
+Bei der ersten Versteigerung sollten Sie zwischen 20 und 30 Stiere bieten.
+Die Höhe Ihrer Angebote bei weiteren Versteigerungen richtet sich danach, wie wichtig Ihnen eine bestimmte Karte ist und was Ihre Mitspieler bieten.
+Jeder Spieler stellt auf seiner Scheibe geheim ein, wie viele Stiere er bieten will, um eines der angebotenen Grundstücke zu erhalten.
+Haben alle Spieler ihr Gebot eingestellt (das kann auch Null Stiere sein), werden die Scheiben gleichzeitig aufgedeckt.
+Beginnend mit dem Spieler, der an der Reihe ist, nennt reihum jeder die Höhe seines Gebots.
+2) VERSTEIGERUNG
+Der Bankhalter führt in den folgenden Fällen eine Versteigerung durch
+Die Spieler müssen für ihr Gebot über entsprechend viel Bargeld verfügen.
+Jeder Spieler kann die Versteigerung mit einem Mindestgebot von M1 beginnen.
+Bietet kein anderer Spieler höher, muss der Spieler, der zuletzt geboten hat, das Grundstück kaufen
+Verfügt die Bank über weniger Häuser als verlangt werden, so werden diese im Wege der Versteigerung an den Meistbietenden abgegeben.
+Ist ein Spieler trotz Verkauf seiner Häuser, Hotels etc. nicht mehr in der Lage seine Zahlungen zu leisten, übergibt er seine restlichen Aktiven der Bank, welche diese zur Versteigerung bringt und den Erlös, abzüglich des eventuell bestehenden Darlehens samt Zinsen dem Gläubiger ausfolgt.
+Entschließt sich jedoch der Spieler nicht, das Grundstück etc., auf dem seine Figur zu stehen gekommen ist, zu kaufen, so hat der Kassier dasselbe sofort zu versteigern.
+Der Ausrufpreis beträgt den halben auf der Karte ersichtlichen Kaufpreis.
+An der Versteigerung können sich sämtliche Spieler beteiligen, dem Meistbietenden ist das Grundstück etc. zuzuschlagen.
+3. AUKTIONSPHASE
+Das ist entscheidend, da später jeder Spieler zunächst auf seine erste Karte (ganz links), dann auf die zweite etc. bietet.
+Beginnend bei ihrer ersten Karte ganz links bieten jetzt alle Spieler mit ihren Einflussmarkern um das Recht, diese Karte ausspielen zu dürfen.
+Das Symbol auf der aktuellen Ereigniskarte zeigt an, wie geboten wird.
+AUKTIONSARTEN
+Geheime Auktion
+Jeder Spieler nimmt geheim eine beliebige Anzahl (oder auch keinen) seiner verfügbaren Einflussmarker in die Hand und streckt diese als geschlossene Faust in die Tischmitte.
+Sobald alle Spieler bereit sind, zeigen sie gleichzeitig ihre Gebote, indem sie ihre Hände öffnen.
+Eine geheime Auktion gewinnen bei 3-4 Spielern die beiden Spieler, welche die meisten Einflussmarker geboten haben und bei 5 Spielern die drei Spieler, welche die meisten Einflussmarker geboten haben.
+Offene Auktion
+In der umgekehrten Senatsreihenfolge (beginnend beim Spieler mit den wenigsten Einflussmarkern im Senat und so weiter) gibt jeder Spieler offen sein einmaliges Gebot ab oder passt (ein Gebot von 0 Einflussmarkern wird als passen betrachtet).
+Das Gebot eines Spielers muss sich von den vorherigen Geboten der anderen Spieler unterscheiden, d.h. es muss höher oder niedriger sein, aber es darf nicht gleich sein.
+Eine offene Auktion gewinnen bei 3-4 Spielern die beiden Spieler, welche die meisten Einflussmarker geboten haben und bei 5 Spielern die drei Spieler, welche die meisten Einflussmarker geboten haben.
+Bei Gleichstand (der nur bei Spielern möglich ist, die 0 Einflussmarker geboten haben) entscheidet die Senatsreihenfolge.
+Alle Einflussmarker, die bei der Auktion eingesetzt wurden, werden auf die Karten gelegt, auf die geboten wurde.
+In jeder Auktionsphase bieten die Spieler also insgesamt fünf Mal, nämlich ein Mal für jede ihrer Politikkarten.
+Im Spiel mit 3-4 Spielern erhalten nur die zwei Spieler mit den höchsten Geboten die Chance, ihre Karte auszuspielen.
+Im Spiel mit 5 Spielern erhalten die drei Spieler mit den höchsten Geboten die Chance, ihre Karte auszuspielen.
+Zusätzlich erhält der Spieler, der eine Auktion als Meistbietender gewonnen hat, einen Bonus:
+Hat der linke Nachbar des Meistbietenden die Auktion ebenfalls gewonnen (den zweiten oder dritten Platz belegt), kann dessen Karte nicht als Bonus ausgespielt werden.
+In diesem Fall kann die Karte des ersten Spielers links vom Meistbietenden ausgespielt werden, der die Auktion nicht ebenfalls gewonnen hat.
+Das Ausspielen einer Karte erfolgt sofort im Anschluss an die Auktion, also bevor auf die nächste Kartenposition geboten wird.
+Das heißt, dass die Spieler, die eine Auktion gewonnen haben, ihre Karten ausspielen können, aber nicht müssen.
+Alle Einflussmarker, die bei einer Auktion verwendet wurden, werden auf die Politikkarte gelegt, auf die jeweils geboten wurde.
+Hierbei spielt es keine Rolle, ob ein Spieler die Auktion gewonnen hat oder nicht.
+Auktionen
+Während Sie im Gefängnis sind, dürfen Sie trotzdem Miete kassieren, an Auktionen teilnehmen, Häuser und Hotels kaufen, Hypotheken aufnehmen und mit anderen Spielern handeln.
+Auktionen
+Wenn Sie auf einem freien Grundstück landen (Straße, Bahnhof oder Versorgungswerk), es aber nicht kaufen möchten, wird es vom Bankhalter sofort versteigert.
+Jeder Spieler darf das Gebot um mindestens M1 erhöhen (auch der Bankhalter und der Spieler, der auf dem Grundstück gelandet war).
+Der Höchstbietende gewinnt die Auktion, zahlt den Betrag an die Bank und erhält dafür die Besitzrechtkarte.
+Wer hier einen Gefolgsmann platziert hat, deckt die oberste Theaterkarte auf und versteigert diese.
+Er eröffnet die Auktion, indem er selbst eine beliebige Münze aus seinem Besitz bietet.
+Reihum dürfen die Spieler nun entweder aus der Auktion aussteigen (und dürfen dann später nicht wieder einsteigen) oder das derzeitige Höchstgebot zunächst mitbieten und dann um genau eine weitere beliebige Münze erhöhen.
+Dies wird so lange fortgesetzt bis nur noch ein Höchstbieter in der Auktion verbleibt und sie damit gewinnt.
+Dieser erhält die versteigerte Karte und zahlt seine dafür gebotenen Münzen an den Versteigerer.
+Ersteigert der Versteigerer selbst die Karte, zahlt er seine gebotenen Münzen an die Bank.
+Beispiel einer Auktion im THEATRUM
+Sie deckt die oberste Theaterkarte auf und eröffnet die Auktion mit einer Silbermünze.
+Chico bietet mit. Dazu muss auch er zunächst eine Silbermünze bieten. Dann muss er das Gebot um eine Münze erhöhen, wobei er sich für eine weitere Silbermünze entscheidet.
+Livia steigt aus der Versteigerung aus.
+Stefan bietet nun 2 Silber- und eine Bronzemünze.
+Lisa besitzt keine Bronzemünze, so dass sie aus der Versteigerung aussteigen muss.
+Chico steigt nun ebenfalls aus.
+Stefan hat die Karte ersteigert und zahlt seine gebotenen Münzen an Lisa.
+Kann oder möchte der Versteigerer überhaupt nicht bieten, eröffnet dessen linker Nachbar mit einer beliebigen ersten Münze die Auktion.
+Nimmt auch dieser Spieler nicht an der Auktion teil, geht das Eröffnungsgebot an dessen linken Nachbarn über.
+Bietet kein Spieler, erhält der Versteigerer die Karte kostenlos.
+Landet seine Spielfigur später auf einem Auktionsfeld, so kann die Versteigerung durch Ausspielen eines Jokers vermieden werden.
+Joker verhindert Auktion!
+Das Feld „AUKTION“
+Landet ein Spieler auf diesem Feld, so muß er eigene Anteilscheine versteigern.
+Wieviele Anteilscheine versteigert werden, bestimmt der rote Würfel:
+Das Mindestgebot ist immer die Hälfte des angegebenen Kaufpreises.
+Erhöhungen sind immer nur um 100.000 DM möglich. Jeder Spieler kann mitbieten:
+das höchste Gebot erhält den Zuschlag.
+Nicht verkaufte Anteilscheine gehen zum Mindestgebot an die Bank.
+Bei dieser Zwangsversteigerung müssen Monopole komplett angeboten werden.
+Es ist nicht erlaubt, einzelne Anteilscheine aus Monopolen herauszuziehen und zu versteigern.
+Der Spieler muß die vier Scheine des Monopols versteigern.
+Es gilt auch hier die Regel vom Mindestgebot.
+Bei einem Monopol werden alle Anteilscheine als Block versteigert; alle anderen Scheine werden einzeln angeboten.
+Bei nur 2 Spielern entfällt die Versteigerung; die „Auktions-Felder“ haben keine Bedeutung.
+Hier finden auch Auktionen statt, bei denen die Spieler um neue Karten bieten.
+In der Marktphase können die Spieler untereinander Eigentum erwerben und verkaufen und neue Gladiatoren, Sklaven und Ausrüstung in der Auktion erstehen.
+Andernfalls könnten die Mitspieler die Höhe deines Einsatzes erraten und somit einen Vorteil erlangen.
+Zu Beginn der Auktion wird eine Anzahl Karten (entsprechend der Anzahl der Mitspieler) vom Marktkartenstapel verdeckt auf dem Spielbrett aufgereiht.
+Die erste Karte wird offen hingelegt, mit dieser startet die Auktion.
+Alle Spieler geben ein geheimes Gebot ab (wie weiter unten beschrieben). Der Spieler mit dem höchsten Einsatz erhält die Karte.
+Dann wird die nächste Karte der Reihe aufgedeckt und die Auktion beginnt wieder mit den geheimen Geboten.
+Um ein Gebot auf eine Eigentumskarte abzugeben, nimmt jeder Spieler seinen Einsatz verdeckt in die Hand. Diese wird über das Spielbrett gehalten. Haben alle Spieler ihre Gebote festgelegt, öffnen alle ihre Hände und zeigen ihre Gebote offen vor.
+Der Spieler mit dem höchsten Gebot gewinnt die Auktion, zahlt das Gold an die Bank und nimmt sich die Eigentumskarte.
+Die übrigen Bieter behalten ihr Gold.
+Das Gold wird den bereits gesetzten Geboten hinzugefügt und so lange wiederholt, bis ein Spieler die Auktion gewinnt.
+Setzen zwei oder mehr Spieler Gebote in gleicher Höhe, legen diese Spieler das eingesetzte Gold auf den Tisch und starten eine weitere Runde mit Geboten - wobei nur die Spieler mit den höchsten Geboten weiter teilnehmen.
+GESCHEITERTE AUKTIONEN
+Setzen die Spieler in einer der Bietrunden kein Gold ein, zählt die Auktion als gescheitert.
+Niemand gewinnt und die Karte wird abgelegt.
+VERSTEIGERUNG DES RECHTS GLADIATORENKÄMPFE ZU VERANSTALTEN
+Nachdem alle Eigentumskarten versteigert wurden, bieten die Spieler um die Ehre die kommenden Gladiatorenkämpfe veranstalten zu dürfen.
+Wie bei den Auktionen setzen die Spieler ihre Gebote verdeckt und der Sieger zahlt das eingesetzte Gold an die Bank.
+Alle Regeln für das Bieten auf Auktionen gelten, mit einer Ausnahme:
+Im Falle einer gescheiterten Auktion werfen die verliebenden Bieter einen Würfel.
+Der Spieler mit der höchsten Augenzahl bekommt den “Veranstalter”-Marker.
+Bei Gleichstand wird so lange weiter gewürfelt bis einer gewonnen hat.
+Alle Kontrollsteine werden versteigert.
+Der aktive Spieler entscheidet, welche Gesellschaft zuerst versteigert wird.
+Erfolgreiche Gebote werden mit Investitionssteinen bezahlt.
+Mit diesen bieten sie um die Kontrolle der Eisenbahngesellschaften.
+KONTROLLSTEINE VERSTEIGERN
+In dieser Phase versteigern die Spieler die Kontrolle über alle Gesellschaften für diese Spielrunde.
+Dazu bieten sie mit ihren Investitionssteinen, niemals mit Papiergeld.
+Der Spieler, der den Marker „aktiver Spieler“ vor sich hat, entscheidet sich, entweder einen noch vorhandenen Kontrollstein zur Versteigerung zu bringen oder den Marker „aktiver Spieler“ an den Spieler zu seiner Linken weiterzureichen.
+Wer einen Kontrollstein zur Versteigerung bringt, muss das erste Gebot abgeben.
+Das Mindestgebot ist „1“; der Spieler kann auch direkt ein höheres Gebot abgeben.
+Anschließend müssen die Spieler reihum im Uhrzeigersinn entweder ein höheres Gebot abgeben oder passen.
+Wer passt, kann später bei derselben Gesellschaft nicht wieder mit einem Gebot einsteigen. Dabei können Spieler auch mehrmals an die Reihe kommen und neue, höhere Gebote abgeben.
+Sobald nach einem Gebot alle anderen Spieler passen, gewinnt der aktuell Höchstbietende die Versteigerung.
+Er darf sein Gebot nicht mehr erhöhen!
+Der Auktionsgewinner nimmt den Kontrollstein der ausgewählten Gesellschaft.
+Thomas ist aktiver Spieler und entscheidet sich dazu, den grünen Kontrollstein zu versteigern.
+Er beginnt die Auktion mit einem Gebot von „1“.
+Silvia erhöht auf „2“, Andreas anschließend auf „3“. Lisa möchte unbedingt die Kontrolle über Grün gewinnen und bietet 6 Investitionssteine. Kein anderer Spieler möchte erhöhen. Lisa kann ihr Gebot von „6“ selbst nicht mehr erhöhen, legt 6 Steine ins grüne Gesellschaftsfeld und nimmt den grünen Kontrollstein sowie einen grünen Anteilsstein.
+Nach dem Abschluss der Auktion wird der Marker „aktiver Spieler“ im Uhrzeigersinn um eine Position nach links gereicht.
+Nun ist es an diesem Spieler zu entscheiden, ob er einen noch vorhandenen Kontrollstein zur Versteigerung bringen oder den Marker „aktiver Spieler“ an den Spieler zu seiner Linken weiterreichen will.
+Jeder Kontrollstein kann in einer Runde nur von einem Spieler ersteigert werden.
+Deshalb führen die Spieler maximal 6 Auktionen aus; eine pro Gesellschaft.
+Es ist möglich, dass der Marker „aktiver Spieler“ während der Auktionen mehrere Male um den Tisch wandert.
+Sollten alle Spieler in Folge den Marker „aktiver Spieler“ weiterreichen, ohne dass ein Kontrollstein zur Versteigerung gebracht wird, endet diese Phase vorzeitig.
+In diesem Fall finden weniger als 6 Versteigerungen statt.
+Nicht versteigerte Kontrollsteine bleiben in den Gesellschaftsfeldem.
+Wurden alle 6 Kontrollsteine versteigert, endet die Phase ebenfalls.
+Der Marker „aktiver Spieler“ befindet sich nun links vom Spieler, der zuletzt einen Kontrollstein zur Versteigerung gebracht hat.
+Schaue dazu unter „Auktionen&quot; auf Seite 4 nach.
+Bankrott und Auktionen
+Wenn du nicht imstande bist, für deinen Hotelaufenthalt oder einen anderen Kauf zu zahlen, musst du umgehend ein Hotel oder ein leeres Grundstück zur Auktion freigeben.
+Es kann sogar nötig sein, mehrere Besitztümer zu versteigern.
+Es gibt keinen Mindestpreis und jeder Spieler darf mitbieten.
+Der Höchstbietende erhält das Hotel oder das Grundstück und erhält von dir die Besitzurkunde.
+Falls niemand bietet, wird das Hotel abgerissen und vom Spielbrett entfernt.
+Mit dem Erlös aus der Auktion musst du anschließend sofort deine Schulden bezahlen.
+Wenn du eine Baugenehmigung erhältst und du nicht imstande bist, die Kosten der Gebäude zu zahlen, so kannst du auch das Grundstück versteigern, auf dem du ursprünglich bauen wolltest.
+Gefordertes Öl wird eingelagert und in einer Auktion verkauft.
+Das eingelagerte Öl wird in drei Versteigerungen verkauft.
+In jeder Raffinerie findet eine Versteigerung statt.
+a) Versteigern
+Die erste Auktion findet bei „Hudson Oil Industries&quot; statt, danach bei „Jet Oil Inc.&quot; und zuletzt bei „US Standard Oil Trust&quot;.
+Der Startspieler beginnt. Er macht sein erstes Angebot.
+Da sich an einer Auktion nur die Spieler beteiligen dürfen, die bei dieser Gesellschaft Öl eingelagert haben, kann das erste Angebot auch von anderen Spielern kommen (linker Nachbar des Startspielers usw.),
+Wer ein Angebot macht, nennt laut die addierte Summe der Verkaufslizenzen (also alle 1er und 2er addiert), die er jetzt bieten will.
+Reihum folgen die anderen Spieler. Jedes folgende Angebot muß hoher sein, als das zuletzt gemachte.
+Wer kein Angebot machen kann oder will, passt und scheidet aus dieser Versteigerung aus.
+Sobald alle Spieler bis auf einen gepaßt haben, erhält der Spieler mit dem höchsten Gebot den Zuschlag.
+Er bezahlt die von ihm gebotene Anzahl an Verkaufslizenzen, d. h. eine entsprechende Summe an Werten (nicht Karten).
+Wer beim Bieten den Zuschlag erhält, aber die gebotenen Verkaufslizenzen nicht bezahlen kann, wird bestraft.
+Dann wird die Auktion wiederholt.
+Anschließend findet die nächste Versteigerung statt.
+Jetzt darf der Gewinner der Versteigerung aus seinem Lager so viele Ölsteine verkaufen, wie er möchte.

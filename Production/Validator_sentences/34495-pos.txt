@@ -1,0 +1,23 @@
+Rote Kampfkarten sind konfliktorientiert und können auch dem aktiven Spieler selbst Schaden zufügen.
+„Ereignis“:
+Die Anweisungen dieser Karten werden laut vorgelesen.
+Hat jeder Spieler seinen Roboter entsprechend seiner Programmierkarte bewegt, werden nun die Roboter in der folgenden Reihenfolge von Fabrikelementen beeinflusst.
+Sobald ein Spieler mit seiner Spielfigur auf einem Spielfeld stehen bleibt, welches zu einem Schatzversteck führt, darf er mit der magischen Schatztruhe seinen Schatz heben.
+Pech gehabt, dieses Schatzversteck war leer!
+Alle Mitspieler, die keinen Burggraben (Reaktionskarte) auf der Hand haben, müssen jetzt sofort ihre Kartenhand anf 3 Karten reduzieren (siehe Text anf der Karte Miliz).
+Miliz - Deine Mitspieler müssen Handkarten ablegen, bis sie nur noch 3 Karten auf der Hand haben.
+Wenn die Karte aussagt, dass „ein Monster erscheint“ muss der Ermittler entweder dem Monster ausweichen (siehe „Monstern Ausweichen“ Seite 13) oder mit ihm kämpfen (siehe „Kampf“ Seite 14).
+Der Spieler liest den Karteninhalt laut vor und führt jede Aktion, die durch den Text auf der Karte vorgesehen ist, durch.
+Falls eine spezifische Begegnung aufgelistet ist, liest der Spieler den Eintrag laut vor und führt alle durch den Text vorgeschriebenen Aktionen durch.
+Der Kartentext einer „Anderen Welt“-Begegnung kann das Erscheinen eines Monsters zur Folge haben, in diesem Fall muss der Ermittler entweder dem Monster ausweichen (siehe „Monstern Ausweichen“ Seite 13) oder mit ihm kämpfen (siehe „Kampf“ Seite 14).
+Eine von drei Möglichkeiten tritt ein, abhängig davon ob an dem Standort entweder ein offenes Tor, ein „Älteres Zeichen“ oder keines von beiden ist.
+Die meisten Mythoskarten zeigen einen Standort, an dem dann ein Hinweismarker erscheint.
+Sie bestimmt einen Standort, an dem sich ein Tor öffnet, sie bestimmt die Monsterbewegung in Arkham und bewirkt ein Ereignis, das die Ermittler beeinflussen kann.
+Diese Marker werden auf Standorte gelegt, die geschlossen haben, entweder aufgrund des Terrorlevels oder aufgrund spezieller Ereignisse, die sich während des Spiels zugetragen haben.
+Der Spieler, der eine Aktionskarte zum Einsatz bringt, liest den Text darauf laut vor und führt anschließend die Aktion entsprechend aus
+Das Ziehen der Karten geschieht auf gut Glück, ohne sie vorher anzuschauen.
+Außerdem (je nachdem welche Plättchenseite nach oben zeigt) muss die Kamel-Einheit sofort 1  zusätzliches Feld vorwärts oder rückwärts gezogen werden
+Beendet eine Kamel-Einheit ihren Zug auf einem Feld, auf der eine andere Kamel-Einheit steht, springt sie komplett auf diese andere Einheit auf.
+Nachdem alle Spieler am Zug waren, wird der Fluss bewegt.
+Natürlich wird Hubi nicht im gleichen Raum bleiben, sondern den Raum wechseln, wenn er merkt, dass ihr euch nähert.
+Das kann gut oder schlecht für dich oder deine Mitspieler sein.

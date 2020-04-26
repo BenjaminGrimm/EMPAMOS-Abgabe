@@ -1,0 +1,87 @@
+{
+  "id": "b069c26cd1ddda2222756a21dda254fd",
+  "sentences": [
+    "Spiel f\u00fcr 2 bis 4 Personen ab 10 Jahren Spielausstattung 4 Schiffe 1 Schatztruhe",
+    "13 Schatzkisten 1 Augenw\u00fcrfel Spielinhalt",
+    "Die Kapit\u00e4ne Spieler nehmen mit ihren Schiffen vom Heimathafen aus Kurs auf die Schatzinsel um den dort befindlichen Schatz zu bergen und in ihren Hafen zu bringen.",
+    "Wer die meisten Schatzkisten in seinen Hafen bringen kann ist Sieger.",
+    "Spielverlauf",
+    "Die Schatztruhe wird ausgeschnitten zusammengeklebt und auf die Schatz insel siehe Spielplan gestellt.",
+    "Die 13 Schatzkisten werden in die Truhe gelegt.",
+    "Die Schiffe die Farbe w\u00e4hlt sich jeder Spieler selbst aus werden auf den Spielplan gestellt und zwar an die Stelle wo der Hafen eingezeichnet ist.",
+    "Die Flaggen zeigen mit ihrer Farbe an wohin jedes Schiff gestellt werden mu\u00df.",
+    "Zu Spielbeginn wird einmal gew\u00fcrfelt.",
+    "Wer die h\u00f6chste Augenzahl w\u00fcrfelt beginnt mit dem Spiel.",
+    "Die Felder sind und d\u00fcrfen von keinem Schiff befahren werden.",
+    "Das Feld das jeweils zwischen 2 Feldern liegt ist",
+    "ein Aus Es darf nur von leeren oder mit 1 Kiste beladenen Schiffen befahren werden.",
+    "Beispiel Ein Schiff kommt beladen von der und die gew\u00fcrfelte Augenzahl br\u00e4chte das Schiff auf eine Insel wo der Schatz gel\u00f6scht werden m\u00fc\u00dfte dann hat der Spieler die M\u00f6glichkeit auf ein zu ziehen.",
+    "Der geladene Schatz kann gerettet werden.",
+    "laue Felder sind Untiefen und k\u00f6nnen nur durch leere Schiffe befahren werden.",
+    "Felder mit eingezeichneten Inseln werden mit leeren Schiffen einfach durch fahren kommt der Spieler im direkten Wurf auf eine Insel kann er beim n\u00e4chsten Mal W\u00fcrfeln die Fahrt ohne Unterbrechung fortsetzen.",
+    "Kommt ein beladenes Schiff auf eine Insel im direkten Wurf so mu\u00df die Ladung auf der Insel bleiben.",
+    "Das Schiff mu\u00df erneut Kurs auf die Schatz insel nehmen um neue Schatzkisten zu holen.",
+    "Das maximale Fassungsverm\u00f6gen eines Schiffes betr\u00e4gt 2 Kisten.",
+    "Kommt ein leeres Schiff im direkten Wurf auf eine Insel auf der sich Schatzkisten befinden kann es die Ladung an Bord nehmen nicht mehr als 2 Kisten und zum Heimathafen zur\u00fcckkehren.",
+    "Er hat Gl\u00fcck gehabt oder war es Berechnung?",
+    "Wir finden beide Varianten im Spiel aber Chancen zu gewinnen hat nur wer taktisch klug spielt.",
+    "LAS ART 908 56 40 58"
+  ],
+  "patterns": {
+    "1292": [
+      1,
+      7,
+      8,
+      9,
+      10,
+      14,
+      17,
+      22,
+      2,
+      6
+    ],
+    "3173": [
+      5,
+      7,
+      2,
+      6,
+      8,
+      14,
+      21
+    ],
+    "164466": [
+      10,
+      23
+    ],
+    "3142": [
+      2,
+      23
+    ],
+    "8536": [
+      7,
+      8,
+      13,
+      16,
+      17
+    ],
+    "1492": [
+      3,
+      7,
+      23
+    ],
+    "7090": [
+      12,
+      16,
+      23
+    ],
+    "166903": [
+      10,
+      14,
+      17,
+      23
+    ],
+    "8528": [
+      3
+    ]
+  }
+}

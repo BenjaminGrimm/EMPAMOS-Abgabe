@@ -1,0 +1,127 @@
+{
+  "id": "0627d38ef7d9c53eb6f6617114d1e990",
+  "sentences": [
+    "Spielende",
+    "Das Spiel ist beendet wenn die Zeit abgelaufen ist die auf 6 Uhr steht oder wenn ein Spieler keine mehr hat.",
+    "Gewonnen hat der Spieler der als erster keine Zu mehr besitzt oder nach Ablauf der Zeit die meisten abgelegt hat.",
+    "Ohne Verwendung des der Uhr und der entsteht eine vereinfachte Variante des Spiels.",
+    "Wird hier das gew\u00fcrfelt wird der Wurf wiederholt.",
+    "Viel Spa\u00df!",
+    "Helmut und Grafik Sabine gmbh Oldenburg Satz und Werbung",
+    "Herausgeber Oldenburg Oldenburg 22 06 27",
+    "DAS RASANTE",
+    "IM OLDENBURGER",
+    "LAND",
+    "Ein Spiel von 8 bis 88 f\u00fcr 2 bis 4 Spieler!",
+    "Spielanleitung",
+    "Allgemeines Die ist eine \u00fcberregionale Zeitung im Oldenburger Land von Friesland bis ins M\u00fcnsterland mit 8 und zur Zeit 11 Gesch\u00e4fts stellen.",
+    "Damit die \u00fcberall in diesem Bereich p\u00fcnktlich vor Ort ist mu\u00df sie in diesem Spiel bereits in der Nacht von 2 Uhr bis 6 Uhr ausgeliefert sein.",
+    "Die 2 4 Spieler sind dabei die Zusteller die die einzelnen verteilen.",
+    "Wir bitten um Verst\u00e4ndnis da\u00df leider nicht alle St\u00e4dte und Ortschaften aus dem der finden konnten.",
+    "Inhalt 1",
+    "Spielplan 1",
+    "4 1 1 W\u00fcrfel",
+    "36 44 1 Spielanleitung Spielvorbereitung",
+    "Der Spielplan wird ausgelegt.",
+    "Auf ihm befinden sich 36 und zwar 25 gelbe 8 rote f\u00fcr die sowie 3 f\u00fcr die Gesch\u00e4fts stellen mit",
+    "Die wird auf die gestellt die Ereignis karten werden gemischt und verdeckt an einem geeigneten Platz abgelegt.",
+    "Jeder Spieler w\u00e4hlt eine aus die er auf dem Oldenburg als Startfeld aufstellt.",
+    "Alle werden entsprechend der Anzahl der Mitspieler ausgeteilt.",
+    "Der Spieler der die Oldenburg erhalten hat beginnt.",
+    "Er darf allerdings diese Karte beim Start nicht Nun wird reihum gew\u00fcrfelt und die jeweilige Figur im Uhrzeigersinn um die gew\u00fcrfelte Zahl weiter gesetzt.",
+    "Spielablauf",
+    "Befindet sich ein Spieler auf einem von dem",
+    "er die hat so legt er diese ab.",
+    "Gelangt einer der Spieler auf ein welches gleichzeitig als Gesch\u00e4ftsstelle markiert ist so wird die um 10 Minuten 1 Markierung weitergestellt.",
+    "Kommt ein Spieler auf ein Feld auf dem sich bereits ein oder mehrere Mitspieler befinden so kann er ihnen jeweils eine geben.",
+    "Mit dem beiliegenden W\u00fcrfel k\u00f6nnen die Zahlen 1 2 3 und 4 ein sowie ein 1 gew\u00fcrfelt werden.",
+    "Liegt das 1 Zeichen oben darf eine beliebige Zahl von 1 bis 4 gew\u00e4hlt werden die der w\u00fcrfelnde Spieler seine Figur weiterstellen m\u00f6chte um eine Zustell karte zu k\u00f6nnen.",
+    "W\u00fcrfelt ein Spieler das so nimmt er die oberste Ereigniskarte gibt den Inhalt der Karte bekannt und handelt nach den Anweisungen der Karte.",
+    "Anschlie\u00dfend wird die Karte wieder unter den Stapel der geschoben.",
+    "Betritt ein Spieler eines der drei mit einem Auto markierten Felder so tauscht er seine mit dem Dies",
+    "kann auch \u00fcber eine Ereigniskarte vorgegeben werden.",
+    "Nun darf er jeweils hintereinander w\u00fcrfeln und zustellen.",
+    "Er mu\u00df das abgeben wenn ein Spieler eine Ereigniskarte zieht auf der eine Anweisung in Bezug auf das steht oder ein Spieler auf eine mit einem Auto markierte Gesch\u00e4ftsstelle kommt."
+  ],
+  "patterns": {
+    "1292": [
+      4,
+      19,
+      23,
+      27,
+      33,
+      34,
+      35,
+      36,
+      38,
+      39,
+      40,
+      24
+    ],
+    "73230": [
+      24,
+      27
+    ],
+    "3173": [
+      21,
+      24,
+      3,
+      22,
+      23,
+      34,
+      35,
+      36,
+      40
+    ],
+    "164466": [
+      1,
+      2,
+      3,
+      11,
+      15,
+      24,
+      25,
+      35
+    ],
+    "3142": [
+      1,
+      2,
+      11,
+      16,
+      26,
+      40
+    ],
+    "8536": [
+      32,
+      34,
+      37,
+      39,
+      40
+    ],
+    "1492": [
+      1,
+      2,
+      11,
+      15,
+      24,
+      26,
+      31,
+      32,
+      37,
+      40
+    ],
+    "7090": [
+      11,
+      16,
+      31
+    ],
+    "166903": [
+      11,
+      37
+    ],
+    "8528": [
+      2,
+      26
+    ]
+  }
+}

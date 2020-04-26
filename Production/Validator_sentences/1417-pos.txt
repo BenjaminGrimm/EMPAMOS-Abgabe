@@ -1,0 +1,33 @@
+In jedem Zug wird mindestens ein Wort abgedeckt, wodurch das Raten einfacher wird.
+Damit Ihnen der Einstieg in das Spiel so leicht wie möglich fällt, verwenden wir das mehrteilige CATAN-Regelsystem:
+Sie sind etwas einfacher, als die Pläne &quot;A&quot; und &quot;D&quot;
+Tipps für Anfänger:
+Anfänger sollten die Check-Points auf Felder legen, die keine Wände besitzen.
+Je mehr Spielpläne und Check-Points benutzt werden, desto länger und schwieriger ist eine Rally.
+Mit ihrer Programmierhilfe können sich Anfänger die Programmierung erleichtern, indem sie mit ihr die geplanten Befehle vor sich auf dem Tisch (nicht auf dem Spielplan!) ausprobieren.
+Mit ihrer Programmierhilfe können sich Anfänger die Programmierung erleichtern, indem sie mit ihr die geplanten Befehle vor sich auf dem Tisch (nicht auf dem Spielplan!) ausprobieren.
+Bei erfahrenen Spielern ist es hilfreich, für das Programmieren ein Zeitlimit einzuführen (z.B. eine Minute).
+Keine Hilfen, keine Diskussionen.
+Die Bewegungsmöglichkeiten des Gegners können durch Fangen und Schlagen eingeschränkt werden.
+eingeschränkt
+Jede umfasst neun Begriffe, die in drei Schwierigkeitsgrade unterteilt sind: einfach, schwierig, Herausforderung
+Bei den ersten Partien empfehlen wir, einen einfachen Begriff auszusuchen.
+Die Begriffe des Schwierigkeitsgrads „Herausforderung“ erfordern in der Tat Erfahrung von allen Spielern.
+Mit ihm wird der Schwierigkeitsgrad des Spiels eingestellt (in den ersten Spielen ist es ratsam, den Anzeiger auf „Anfänger“ zu stellen).
+Der Schwierigkeitsgrad lässt sich sehr gut durch Ändern des Startpunktes des Wasserstandsanzeigers variieren.
+Aber natürlich kann durch unterschiedliche Inselformen auch der Schwierigkeitsgrad verändert werden.
+mit Solo-Variante in verschiedenen Schwierigkeitsgraden
+ZU SCHWER? Um das Spiel etwas einfacher zu machen, dürfen die Spieler ihre Handkarten aufgedeckt vor sich ablegen.
+ZU EINFACH?
+Um das Spiel etwas schwerer zu machen, dürfen die Spieler an jedem neuen Tag zunächst nicht miteinander sprechen.
+Um das Spiel noch schwerer zu machen, dürfen die Spieler nicht direkt auf das Zielplättchen ziehen.
+Im Profispiel bleiben alle Grundregeln bestehen, werden aber um zwei neue Elemente erweitert:
+Variante für Experten
+Wer das Spiel gerne noch etwas anspruchsvoller spielen möchte, kann als Variante eine Runde länger spielen.
+Die Einsteiger-Variante ist für Kinder ab 5 Jahren und zum Kennenlernen gedacht.
+Die Änderungen für die Fortgeschrittenen-Variante (für Spieler ab 8 Jahren) und die Hindernisfahrt (auf der Rückseite des Spielplans) sind auf der letzten Seite dieser Spielregel zu finden.
+Auch bei der Hindernisfahrt könnt ihr mit der einfacheren Variante spielen, in der die zweite Eigenschaft beim Zusammenlegen der Plättchen keine Rolle spielen.
+Als wirkliche Flizz &amp; Miez Profis nehmt ihr auch hier die Fortgeschrittenen-Variante.
+Als Kartensatz für das erste Spiel empfehlen wir:
+Was raus muss, muss raus :), und jede Gruppe wird ihr eigenes Maß an erlaubter Kommunikation finden.
+Schwierigkeitsgrad ändern
